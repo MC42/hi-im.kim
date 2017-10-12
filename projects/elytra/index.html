@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Elytra Project Log</title>
+  <link rel="stylesheet" href="../../assets/main.css">
+</head>
+
+<body>
+    <h1>Elytra Project Log</h1>
+    <p>This contains the ramblings, sporadic notes, and thoughts as I work on the Elytra scanning microscope.</p>
+    <img src="./img/ws2812b_500x.jpeg" class="inline" alt="A close up photo of the silicon wafer of an addressible RGBW LED, distortion and dirt still visible in it.">
+    <hr>
+
+    <h2> Inspiration</h2>
+    <p>This project was largely inspired by the designs as used in <a href="https://github.com/yuji3w/ladybug">Ladybug</a>, <a href="">Ladybug BEEFY</a>, and other microscope photography projects, such as those by <a href="https://mastodon.social/@timonsku/109651576348159021">@timonsku@mastodon.social</a>.</p>
+    <h2>Software</h2></h2>
+    <p>While it would be easy for me to use Python for this project, and to use Flask & its associated templating engines for getting remote control, the OpenCV Python bindings for super-resolution don't seem to exist in Python at time of writing.  However, Rust's bindgen ones, <i>do</i>.</p>
+    <p>As such, I've been tinkering with those bindings, and looking at how the <code>opencv::superres::{*}</code> contents work.</p>
+
+    <h2>Mechanics</h2>
+    <p>This project will make heavy use of amateur skill FFF/FDM printing, due to both having a machine, and making it trivially reproducible for other tinkerers who may find this project useful.</p>
+</body>
