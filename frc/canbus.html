@@ -90,7 +90,7 @@ pre code {
 
 <h3>Divergence of Strategies</h3>
 
-<p>While REV offers a frame period of up to 65536ms, or more than a <i>minute</i> between frames, CTR opts to only allow a status frame delay of up to 255ms.  CTR's solution tends to inclinate teams to use of a <a href="https://store.ctr-electronics.com/canivore/">CANivore</a>, a higher speed CAN-FD bus adapter, but that only works with some modern CTR products, leaving teams with other products with these difficulties still.  One still can and should be aware of bus utilization of CANivore buses</p>  
+<p>While REV offers a frame period of up to 65536ms, or more than a <i>minute</i> between frames, CTR opts to only allow a status frame delay of up to 255ms.  CTR's solution tends to inclinate teams to use of a <a href="https://store.ctr-electronics.com/canivore/">CANivore</a>, a higher speed CAN-FD bus adapter, but that only works with some modern CTR products, leaving teams with other products with these difficulties still.  One still can and should be aware of bus utilization of CANivore buses, as it won't report in the Driver Station.  See how <a href="https://www.chiefdelphi.com/t/measuring-can-bus-utilization-on-canivore/412855">here.</a></p>  
 <h3>Optimization Strategies</h3>
 <p>So now we know how we can adjust the timing period for CAN devices we tend to use a lot.  But are there other methods we can think about the bus congestion problem.  Because we're likely to use different mechanisms in FRC at different points in a match, we can actually tell our mechanism startup to change the status frame period as needed.  For example, a climb mechanism probably doesn't need to be at maximum update rates when you're firing fuel cells into the goal, and vice versa.</p>
 
