@@ -1,6 +1,6 @@
 # Synopsis
 
-When Sam Easton vanishes from Randall Jones' life, a gender and a lifetime later Minerva Jones is left trying to find Sam through the mystery, and accidentally uncovers a sisterhood not like the one she expected at a women's college in the Midwest.  With a hostile board of governors, a snooping PI, and magic that could destroy everything they hold dear, the Starlets of Rutherford Hall are doing their best to keep up appearances, while giving girls new ones.
+When Sam Easton vanishes from Randall Jones' life, a gender and a lifetime later Minerva Jones is left trying to find Sam through the mystery, and accidentally uncovers and accidentally joins a sisterhood not like the one she expected at a women's college in the Midwest.  With a hostile board of governors, a snooping PI, and magic that could destroy everything they hold dear, the Starlets of Rutherford Hall are doing their best to keep up appearances, while giving girls new ones.
 
 # People
 
