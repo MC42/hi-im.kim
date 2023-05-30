@@ -154,6 +154,14 @@ To gain access to the unit, remove these two Torx screws.
 
 ![](imgs/PXL_20230530_170017573.jpg)
 
+## Onboard Memory
+
+The unit's memory is under the three center heatspreaders, in three discrete ICs.  They're NANYA 1720s, NT6CL128T64B4-H2, with the markings below that being 70837000EW  L   TW
+
+See photo for more.
+
+![](imgs/PXL_20230530_203555830.jpg)
+
 ## Display Removal (UNFINISHED)
 
 To remove the display module, you'll need to have first removed the two Torx from the wrist-strap attachment, heatgun and then peel back the adhesive on the "front" of the camera (the side without the detent), then remove the other three Torx screws.  Using a spudger, gently pry the piece near the bottom right of the camera, across the vertical side from the wrist strap. This piece is snapped in.  Ensure the top lip is NOT removed during this part.  
