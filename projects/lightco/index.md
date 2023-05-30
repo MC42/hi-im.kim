@@ -68,7 +68,7 @@ V4L2 enumeration (see screenshots, but only on 1.3.2.5 confirmed so far)
 
 ## L16 Unit Teardown Notes
 
-> !CAUTION
+> **Caution**
 
 To actually disassemble the unit, you'll need a heat source of some kind (hot air station) and a minimum of Torx T5 drivers, a small phillips head with a fairly long shank, and tweezers to safely remove most of the scrwes and glued clips.
 
@@ -136,8 +136,6 @@ Also visible in this photo are the spring fingers for the speaker module, and th
 
 The haptic module is cleverly attached with three screws; two into the motherboard via PEM nuts of some kind (very small), and one Torx into the actual metal frame of the unit. 
 
-![](imgs/PXL_20230530_185612585.jpg)
-
 ## Microphone Module
 
 The microphone is internal to the unit, is a single source, located near the top edge of the board.  It in theory would be removable and replacable with an external line in, though this is hardly a design consideration that video mode was barely into beta by the time they discontinued the unit.
@@ -172,6 +170,6 @@ You'll need a relatively short phillips head screwdriver to unscrew the shields 
 
 Following this, you'll need to also make sure you've removed the left-side camera grip, and when doing so make sure to get underneath the plastic piece, not the rubber one.
 
-> !CAUTION
+> **Caution**
 
 Getting underneath the rubber will rip it and render your unit unable to be reassembled looking the same.
