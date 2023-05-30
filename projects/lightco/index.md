@@ -162,6 +162,11 @@ See photo for more.
 
 ![](imgs/PXL_20230530_203555830.jpg)
 
+Also under a heatshield is the SKhynix H9HKNNNCUUMU BRNMH 706A, or about 4GB of onboard memory.
+
+![](imgs/PXL_20230530_210006305.jpg)
+
+Also visible in the photo is the Qualcomm PM8996 CPU and the QCA6174A wireless IC.
 ## Display Removal (UNFINISHED)
 
 To remove the display module, you'll need to have first removed the two Torx from the wrist-strap attachment, heatgun and then peel back the adhesive on the "front" of the camera (the side without the detent), then remove the other three Torx screws.  Using a spudger, gently pry the piece near the bottom right of the camera, across the vertical side from the wrist strap. This piece is snapped in.  Ensure the top lip is NOT removed during this part.  
