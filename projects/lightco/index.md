@@ -146,7 +146,7 @@ The microphone is internal to the unit, is a single source, located near the top
 
 It appears that the battery connector described in the FCC filings as for "accessories" on their website, was labeled on the silkscreen of the connection as a "external battery connector".  The pinout connections are not yet obvious or clear.
 
-![](imgs/ext_battery_connector.jpg)
+![](imgs/ext_battery_connector.JPG)
 
 ## Wrist Strap Attachment
 
