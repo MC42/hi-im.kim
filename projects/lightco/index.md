@@ -78,7 +78,7 @@ During disassembly, I broke my L16 in multiple ways. The first is "visually", by
 
 ![](imgs/PXL_20230530_170012731.jpg)
 
-![](imgs/PXL_20230530_170736567.jpg)
+![](imgs/PXL_20230530_183334145.jpg)
 
 ## Rough Observations
 
