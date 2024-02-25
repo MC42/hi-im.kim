@@ -1,0 +1,15 @@
+<head>
+
+    <script src="jscolor.js"></script>
+    <script>
+        function update(picker) {
+            document.getElementById("body").style.backgroundColor = picker.toRGBString();
+}
+    </script>
+</head>
+
+<body id="body">
+    Color: <input id="colorInput" value="#3399FF80" data-jscolor="{onInput:'update(this)'}",>
+    </body>
+
+
