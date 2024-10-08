@@ -1,7 +1,7 @@
 <!DOCTYPE html><html><head><meta
 charset="utf-8"><meta
 name="viewport" content="width=device-width, initial-scale=1">
-<title>Kim's Rambling | CAN bus bandwidth sucks</title>
+<title>Kim's Ramblings | CAN bus bandwidth sucks</title>
 
 <style type="text/css">
 body {margin:40px
@@ -24,7 +24,9 @@ pre code {
 <body>
 <header>
 <h1><em>FIRST</em> Robotic Competition robots and CAN bus utilization</h1>
-<aside>Yak-shaving on the CAN't bus</aside>
+<h2>Yak-shaving on the CAN't bus</h2>
+<hr>
+<aside><i>This was written during the 2022 Off-Season.  As such, some content was/is speculative of future CS hardware.</i></aside>
 </header>
 
 <hr>
@@ -91,6 +93,9 @@ pre code {
 <h3>Divergence of Strategies</h3>
 
 <p>While REV offers a frame period of up to 65536ms, or more than a <i>minute</i> between frames, CTR opts to only allow a status frame delay of up to 255ms.  CTR's solution tends to inclinate teams to use of a <a href="https://store.ctr-electronics.com/canivore/">CANivore</a>, a higher speed CAN-FD bus adapter, but that only works with some modern CTR products, leaving teams with other products with these difficulties still.  One still can and should be aware of bus utilization of CANivore buses, as it won't report in the Driver Station.  See how <a href="https://www.chiefdelphi.com/t/measuring-can-bus-utilization-on-canivore/412855">here.</a></p>  
+
+<p> For more information on CAN-FD, please refer to <a href="#">these links</a> from CTR's website. </p>
+
 <h3>Optimization Strategies</h3>
 <p>So now we know how we can adjust the timing period for CAN devices we tend to use a lot.  But are there other methods we can think about the bus congestion problem.  Because we're likely to use different mechanisms in FRC at different points in a match, we can actually tell our mechanism startup to change the status frame period as needed.  For example, a climb mechanism probably doesn't need to be at maximum update rates when you're firing fuel cells into the goal, and vice versa.</p>
 
@@ -99,11 +104,11 @@ pre code {
 <li>When using follower motors, you likely don't need status updates for sensor velocity, bus voltage, motor temperature, etc. (ie. Spark Max use), as you can expect their information to be relatively similar to the leader motor.</li>
 <li>Furthering the above item, even the basic status update may be reduced significantly, but <strong>only</strong> for the motors following another motor.  The followers rely on the output status update of the leader to change their outputs.</li>
 <li>When using a Talon SRX as a simple brushed motor controller, you don't need the quadrature encoder information, as there isn't one connected.</li>
-<li>Most smart motor controllers acting like a 'dumb' motor controller has very little status information you need at a high update rate, and as such can be severely reduced.</li>
+<li>Most smart motor controllers acting like a "dumb" motor controller have very little status information you need at a high update rate, and as such can be severely reduced.</li>
 </ol>
 
 <p>If you are encountering issues then this might be a good set of variables to experiment with, but you are not likely to see a performance improvement and you should use caution when changing these values.  This can help resolve some CAN utilization issues but when done incorrectly can render your robot <i>very nerfed</i> or be dangerous.</p>
 
-<p> - Kim </p>
+<p><i>- Kim</i></p>
 </body>
 </html>
