@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+  <a rel="me" href="https://chaos.social/@k1m"></a>
+  <title>Kim's Page</title>
+  <link rel="stylesheet" href="/assets/main.css">
+</head>
+
+<body>
+<header>
+<h1>
+    Combat Robotics Arena Controls & You
+</h1>
+</header>
+
+<p>
+    <h2>Why Write Something Custom</h2>
+</p>
+<p>
+    In short, the reason I went with something custom over something not was the possibility of tying in analysis and using the insights gleaned from said timing to improve the quality of events.
+</p>
+
+
+<p>
+    <h2>Why Not Use Hardware</h2>
+</p>
+
+<p>
+    <a href="gscrl.org">GSCRL</a> used to!  The previous solution was somewhat tedious and had a number of rough edges for both iteration <i>and</i> use.  The requirement to use an ESP32 with none of our volunteers having more than a passing interaction with C++, much less Arduino framework antics on an ESP32, left us in a rough spot when we needed to make changes.
+</p>
+<p>
+    The controller was usually out of the way, and long USB cables for updates combined with limited production-space requirements encouraged us to find something else, and I opted for a web-based solution.  One that let us scale and re-arrange as needed even during unexpected event setup difficulties.
+</p>
+<p>
+    When we had issues though, troubleshooting custom electronics made it significantly more difficult to troubleshoot at events.
+</p>
+
+<h2>So what does it <i>need</i> to do?</h2>
+<p>
+    <ul>
+        <li>easy to iterate</li>
+        <li>one arena is nearly the same effort as one arena</li>
+        <li>easy for someone other than the creator to run it</li>
+    </ul>
+</p>
+
+<h3>Choices</h3>
+<p>
+    <ul>
+        <li>Python + Flask (No longer needing dedicated hardware.)        </li>
+        <li>Uses TCP/IP and/or Websockets via socket.io (allows it to survive network issues.)</li>
+        <li>Webpages in fullscreen or browser source in OBS.  (allows the timer to be visible on stream more easily.)</li>
+    </ul>
+</p>
+
+<h2>Using Bracketeer</h2>
+<p>Bracketeer, a tool for those who bracket (running the tournament matches) has a few major viewmodes, all of which were made to help users save time and effort.</p>
+
+<h3>Queueing</h3>
+<p>
+    A major pain point for all types of tournament matches in <a href="https://www.chiefdelphi.com/t/are-queuers-necessary/411835">other robot sport</a> and in combat robotics especially is knowing how much time you have before you need to fight again.
+</p>
+<p>
+    by making the timer visible by default, and all competitors able to check independent of flagging down a volunteer, it reduces the likelyhood and cost of them being interrupted.
+</p>
+
+<!--- image insert -->
+<div>
+    <div class="image-container">
+        <!-- Image goes here. -->
+         <img src="img/opener.png">
+    </div>
+    <div class="image-container"><i>Home menu of Bracketeer as a tool.</i></div>
+</div>
+<!-- end image insert. -->
+
+<p>
+    <a href="https://truefinals.com/">TrueFinals</a>, the bracketing software we use, handles a decent portion of queueing information for us, but it has rough edges, largely involving multiple tournaments existing concurrently for the same "real" event.
+</p>
+
+<div>
+    <div class="image-container">
+        <!-- Image goes here. -->
+         <img src="img/bracket-madness.png">
+    </div>
+    <div class="image-container"><i>An example of what the preview would look like on a high resolution screen at tournaments prior, something we didn't have.</i></div>
+</div>
+
+<p>
+    For example, with three weightclasses of combat robot, we were forced to have three distinct "tournaments" and switch between their views, adding friction and letting competitors more easily miss information. 
+</p>
+<p>
+    As such, we'd prioritized a visible, information-dense overlay that can be viewed from anywhere on the arena network.
+</p>
+
+<!--- image insert -->
+<div>
+    <div class="image-container">
+        <!-- Image goes here. -->
+         <img src="img/queueing-verbose.png">
+    </div>
+    <div class="image-container"><i>Bracketeer's queueing screen.  There's also a <a href="img/queueing-simple.png">simpler variant</a> that only has the upcoming matches, for increased visibility at a distance.</i></div>
+</div>
+<!-- end image insert. -->
+
+<h3>Match Control</h3>
+
+<p>We stated that a major criteria of the tool we're building (and already built!) is that it needs to be able to run more than one arena easily.  This is where the Match Control page comes in.</p>
+
+<p>While many events only run one arena, GSCRL opts to run two sometimes due to the number of competitors.  As such, the timer controls for each arena can be delegated to a referee, judge, or production volunteer, minimizing the risk of one arena's timer being conflated for another.</p>
+
+<!--- image insert -->
+<div>
+    <div class="image-container">
+        <!-- Image goes here. -->
+         <img src="img/control-layout.png">
+    </div>
+    <div class="image-container"><i>The layout the arena controller or production volunteer uses, and makes their life easier.</i></div>
+</div>
+<!-- end image insert. -->
+
+<p>
+    The left pane is for timer controls, starting, stopping, or manually setting the match timer.  by default there's a countdown built in from 3 to 0 seconds, and then 150 seconds of match play, with optional warning sounds played on stream and via the arena screens specifically.
+</p>
+
+<!--- image insert -->
+<div>
+    <div class="image-container">
+        <!-- Image goes here. -->
+         <img src="img/control-timer.png">
+    </div>
+</div>
+<!-- end image insert. -->
+
+<p>The message box also allows for custom information to be rendered on the timer displays for competitors, enabling things like "matches resume at 1PM" to be said.</p>
+
+<!--- image insert -->
+<div>
+    <div class="image-container">
+        <!-- Image goes here. -->
+         <img src="img/timer-message.png">
+    </div>
+</div>
+<!-- end image insert. -->
+
+<p>The sound test, hide timer, set cage unsafe, and set cage safe buttons are all shorthand for items that can be done otherwise with the menu tools present.</p>
+<p>
+    <ul>
+        <li>
+            Sound test plays a sound on all visible timer screens, ensuring that they can be heard by competitors.
+        </li>
+        <li>
+            Hide Timer send a message with no contents to the screen, hiding any timer that might be visible.
+        </li>
+        <li>
+            Set cage unsafe or safe changes the message and background color, used to manually flag whether a competitor can open the arena door or not.
+        </li>
+    </ul>
+</p>   
+
+<p>
+    The <i>right</i> pane however, has some novelty and minutae that can at a glance give production crew better information faster.  
+</p>
+
+<!--- image insert -->
+<div>
+    <div class="image-container">
+        <!-- Image goes here. -->
+         <img src="img/control-upcoming.png">
+    </div>
+</div>
+<!-- end image insert. -->
+
+
+<p>
+    Taking inspiration from the Queueing screen, the list of upcoming matches is visible, as well as hyperlinks to the competitor's path through the tournament so far.  This enables any announcers or emcees to have easier access to tools for a storytelling narrative.
+</p>
+<p>
+    If the time since match was called is under 20 minutes, it's in orange.  If it's marked as active or past the 20 minute buffer time, it turns red and shows a danger glyph next to it.
+</p>
+
+
+</body>
+</html>

@@ -24,3 +24,12 @@ pre code {
 .inline {
   width: 100%;
 }
+
+.image-container {
+  display: flex;
+  justify-content: center;
+}
+
+img {
+  max-width: 80%;
+}
