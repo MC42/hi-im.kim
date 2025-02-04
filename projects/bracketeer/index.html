@@ -22,6 +22,36 @@
     In short, the reason I went with something custom over something not was the possibility of tying in analysis and using the insights gleaned from said timing to improve the quality of events.
 </p>
 
+<details>
+    <summary>Table of Contents</summary>
+    <ul>
+        <li>
+            Why not hardware?
+        </li>
+        <li>
+            Requirements
+        </li>
+        <li>
+            Use
+            <ul>
+                <li>Queueing</li>
+                <li>Match Control</li>
+                <li>Quirks</li>
+            </ul>
+        </li>
+        <li>
+            Technical Decisions (to be improved)
+            <ul>
+                <li>Ping/Pong + Faux-NTP</li>
+                <li>RobotCombatEvents Support</li>
+                <li>Challonge Support</li>
+                <li>Better Settings</li>
+                <li>Webcast Integrations</li>
+            </ul>
+        </li>
+    </ul>
+  </details>
+
 
 <p>
     <h2>Why Not Use Hardware</h2>
@@ -36,6 +66,16 @@
 <p>
     When we had issues though, troubleshooting custom electronics made it significantly more difficult to troubleshoot at events.
 </p>
+
+<!--- image insert -->
+<div>
+    <div class="image-container">
+        <!-- Image goes here. -->
+         <img src="img/old-hardware.jpg">
+    </div>
+    <div class="image-container"><i>A photo of work-in-progress hardware mid-way through iteration of a standalone hardware controller (ESP32 powered.)</i></div>
+</div>
+<!-- end image insert. -->
 
 <h2>So what does it <i>need</i> to do?</h2>
 <p>
@@ -181,6 +221,22 @@
     If the time since match was called is under 20 minutes, it's in orange.  If it's marked as active or past the 20 minute buffer time, it turns red and shows a danger glyph next to it.
 </p>
 
+<h3>Quirks</h3>
 
+<p>Despite quite a few iterations of software, there exist some quirks in how Bracketeer ingests and handles data.</p>
+<p>Notably, the quirks exist in the control page, and with how TrueFinals data is retrieved.  it's possible for repeatedly polling the API to cause a query exhaustion to be reached, causing the old API internals to crash and present garbage data.</p>
+<p>The naive (but functional) resolution was to make a least-recently used cache that validates whether the rate limit is exhausted or not yet, and potentially returns (intentionally) stale data matching that endpoint to avoid any malformed data issues.</p>
+<p>Said cache <i>also</i> deletes any data older than an hour, so as not to grow exorbintantly, as the <a href="#">SQLite</a> database is not compressed inherently.</p>
+
+<!-- insert image of crash screen as seen commonly at events to illustrate. -->
+<!-- Explain how some data wasn't public at time of writing or even remotely documented. -->
+
+<!-- Technical Decisions, h2-->
+<!-- NTP / Timer / Timing, h3 -->
+<!-- RCE Support -->
+<!-- challonge support, normalization, h2 -->
+<!-- better settings, h2 -->
+<!-- webcast integration, h2 -->
+ 
 </body>
 </html>

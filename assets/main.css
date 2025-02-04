@@ -33,3 +33,13 @@ pre code {
 img {
   max-width: 80%;
 }
+
+/* Styling below lifted with care from:
+https://tris.fyi/blog/mbta-cab-signaling-indicator.html
+*/
+
+details {
+  border: 1px solid purple;
+  padding: .5em;
+  margin: .5em 0;
+}
