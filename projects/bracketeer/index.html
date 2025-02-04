@@ -6,7 +6,7 @@
   <title>Hi!  I'm Kim | Robotics Software for fun and stress-reduction.</title>
   <link rel="stylesheet" href="/assets/main.css">
   <meta name="author" content="Kim Flores">
-  <meta property="og:title" content=">Hi!  I'm Kim | Robotics Software for fun and stress-reduction." />
+  <meta property="og:title" content="> Hi!  I'm Kim > Robotics Software for fun and stress-reduction." />
   <meta property="og:type" content="website" />
   <meta property="og:url" content="https://hi-im.kim/projects/bracketeer/" />
   <meta property="og:description" content="How I spent three years building and iterating on software to save myself and others headaches when running combat robotics events." />
@@ -58,17 +58,21 @@
 
 
 <p>
-    <h2>Why Not Use Hardware</h2>
+    <h2>Why Not Use Custom Hardware / Electronics / PCBs</h2>
 </p>
 
 <p>
-    <a href="gscrl.org">GSCRL</a> used to!  The previous solution was somewhat tedious and had a number of rough edges for both iteration <i>and</i> use.  The requirement to use an ESP32 with none of our volunteers having more than a passing interaction with C++, much less Arduino framework antics on an ESP32, left us in a rough spot when we needed to make changes.
+    <a href="gscrl.org">GSCRL</a> used to!  The previous solution was somewhat tedious and had a number of rough edges for both iteration <i>and</i> use.  The requirement to use an ESP32 with none of our volunteers having more than a passing interaction with C++, much less Arduino framework antics on an ESP32, left us in a rough spot when we needed to make changes or improvements to the timer (remote control, multi-arena, including it in stream, etc.).
 </p>
 <p>
-    The controller was usually out of the way, and long USB cables for updates combined with limited production-space requirements encouraged us to find something else, and I opted for a web-based solution.  One that let us scale and re-arrange as needed even during unexpected event setup difficulties.
+    The controller was usually out of the way, and long USB cables for re-flashing the ESP32 combined with limited production-space requirements lead to a myriad of headaches.  
+    This encouraged us to find something else, and I opted for a web-based solution.  This let us scale and re-arrange arena software and design as needed, even during unexpected event setup difficulties.
 </p>
 <p>
-    When we had issues though, troubleshooting custom electronics made it significantly more difficult to troubleshoot at events.
+In short, it cost more time and effort for slower iteration.  Something bespoke software-wise still be less effort.
+</p>
+<p>
+<i>PCBs and code for the old arena controls can be obtained here.<sup><a href="#H-1">[H-1]</a></sup><sup><a href="#H-2">[H-2]</a></sup></i>
 </p>
 
 <!--- image insert -->
@@ -85,8 +89,9 @@
 <p>
     <ul>
         <li>easy to iterate</li>
-        <li>one arena is nearly the same effort as one arena</li>
+        <li>one arena is nearly the same effort as more than one arena</li>
         <li>easy for someone other than the creator to run it</li>
+        <li>can be integrated to the webcast and venue hardware (TVs)</li>
     </ul>
 </p>
 
@@ -107,7 +112,7 @@
     A major pain point for all types of tournament matches in <a href="https://www.chiefdelphi.com/t/are-queuers-necessary/411835">other robot sport</a> and in combat robotics especially is knowing how much time you have before you need to fight again.
 </p>
 <p>
-    by making the timer visible by default, and all competitors able to check independent of flagging down a volunteer, it reduces the likelyhood and cost of them being interrupted.
+    By making the timer visible by default, and all competitors able to check independent of flagging down a volunteer, it reduces the likelyhood and cost of them being interrupted, losing track of event flow, or worse, getting hurt.
 </p>
 
 <!--- image insert -->
@@ -219,7 +224,7 @@
 
 
 <p>
-    Taking inspiration from the Queueing screen, the list of upcoming matches is visible, as well as hyperlinks to the competitor's path through the tournament so far.  This enables any announcers or emcees to have easier access to tools for a storytelling narrative.
+    Taking inspiration from the Queueing screen, the list of upcoming matches is visible, as well as hyperlinks to the competitor's path through the tournament so far.  This enables any announcers or emcees to have easier access to the data they might need or want to help build an entertaining narrative.<sup>[1]</sup>
 </p>
 <p>
     If the time since match was called is under 20 minutes, it's in orange.  If it's marked as active or past the 20 minute buffer time, it turns red and shows a danger glyph next to it.
@@ -241,6 +246,13 @@
 <!-- challonge support, normalization, h2 -->
 <!-- better settings, h2 -->
 <!-- webcast integration, h2 -->
+
+<h3>References</h3>
+<ul>
+    <li id="H-1">[H-1] - <a href="https://github.com/GSCRL/arena-electronics">https://github.com/GSCRL/arena-electronics</a></li>
+    <li id="H-2">[H-2] - <a href="https://github.com/neilpf2014/bot-arena-control">https://github.com/neilpf2014/bot-arena-control</a>
+    </li>
+</ul>
  
 </body>
 </html>
