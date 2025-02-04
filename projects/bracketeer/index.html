@@ -235,8 +235,10 @@ In short, it cost more time and effort for slower iteration.  Something bespoke 
 <p>Despite quite a few iterations of software, there exist some quirks in how Bracketeer ingests and handles data.</p>
 <p>Notably, the quirks exist in the control page, and with how TrueFinals data is retrieved.  it's possible for repeatedly polling the API to cause a query exhaustion to be reached, causing the old API internals to crash and present garbage data.</p>
 <p>The naive (but functional) resolution was to make a least-recently used cache that validates whether the rate limit is exhausted or not yet, and potentially returns (intentionally) stale data matching that endpoint to avoid any malformed data issues.</p>
-<p>Said cache <i>also</i> deletes any data older than an hour, so as not to grow exorbintantly, as the <a href="#">SQLite</a> database is not compressed inherently.</p>
 
+<h4>Debug Tools</h4>
+
+<p>Hidden in Bracketeer's codebase include some tools that I use to evaluate functionality (which may change), like the <a href="img/debug/clients.png">clients page</a> (showing all current socket.io clients and their open page(s) or the <a href="img/debug/requests.png">requests cache view.</a></p>
 <!-- insert image of crash screen as seen commonly at events to illustrate. -->
 <!-- Explain how some data wasn't public at time of writing or even remotely documented. -->
 
