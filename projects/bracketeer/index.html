@@ -98,22 +98,14 @@ In short, it cost more time and effort for slower iteration.  Something bespoke 
 <h3>Choices</h3>
 <p>
     <ul>
-        <li>Python + Flask (No longer needing dedicated hardware.)        </li>
-        <li>Uses TCP/IP and/or Websockets via socket.io (allows it to survive network issues.)</li>
-        <li>Webpages in fullscreen or browser source in OBS.  (allows the timer to be visible on stream more easily.)</li>
+        <li>Python + Flask (No longer needing dedicated hardware, tooling I know and have worked with.) </li>
+        <li>Uses TCP/IP and/or Websockets via <a href="https://flask-socketio.readthedocs.io/en/latest/">socket.io</a> (allows it to survive network issues.)</li>
+        <li>Webpages in fullscreen or browser source in <a href="https://obsproject.com/">OBS.</a> (allows the timer to be visible on stream more easily.)</li>
     </ul>
 </p>
 
 <h2>Using Bracketeer</h2>
 <p>Bracketeer, a tool for those who bracket (running the tournament matches) has a few major viewmodes, all of which were made to help users save time and effort.</p>
-
-<h3>Queueing</h3>
-<p>
-    A major pain point for all types of tournament matches in <a href="https://www.chiefdelphi.com/t/are-queuers-necessary/411835">other robot sport</a> and in combat robotics especially is knowing how much time you have before you need to fight again.
-</p>
-<p>
-    By making the timer visible by default, and all competitors able to check independent of flagging down a volunteer, it reduces the likelyhood and cost of them being interrupted, losing track of event flow, or worse, getting hurt.
-</p>
 
 <!--- image insert -->
 <div>
@@ -124,6 +116,12 @@ In short, it cost more time and effort for slower iteration.  Something bespoke 
     <div class="image-container"><i>Home menu of Bracketeer as a tool.</i></div>
 </div>
 <!-- end image insert. -->
+
+<h3>Queueing</h3>
+<p>
+    A major pain point for this and <a href="https://www.chiefdelphi.com/t/are-queuers-necessary/411835">other robot sporst</a> alike is knowing how much time you have before you are next actively in a match.  
+    This is sometimes called "turnaround time", but "late or not" was what it usually became at events.
+</p>
 
 <p>
     <a href="https://truefinals.com/">TrueFinals</a>, the bracketing software we use, handles a decent portion of queueing information for us, but it has rough edges, largely involving multiple tournaments existing concurrently for the same "real" event.
@@ -140,9 +138,16 @@ In short, it cost more time and effort for slower iteration.  Something bespoke 
 <p>
     For example, with three weightclasses of combat robot, we were forced to have three distinct "tournaments" and switch between their views, adding friction and letting competitors more easily miss information. 
 </p>
+
 <p>
     As such, we'd prioritized a visible, information-dense overlay that can be viewed from anywhere on the arena network.
 </p>
+
+<p>
+    By making the upcoming matches easy to see, and how long they'd been aware of said match, and all competitors are able to manage their own timelines without asking other volunteers or competitors.  It saves <i>everyone</i> time, frustration, and effort.
+</p>
+
+
 
 <!--- image insert -->
 <div>
@@ -233,12 +238,25 @@ In short, it cost more time and effort for slower iteration.  Something bespoke 
 <h3>Quirks</h3>
 
 <p>Despite quite a few iterations of software, there exist some quirks in how Bracketeer ingests and handles data.</p>
-<p>Notably, the quirks exist in the control page, and with how TrueFinals data is retrieved.  it's possible for repeatedly polling the API to cause a query exhaustion to be reached, causing the old API internals to crash and present garbage data.</p>
+<p>Notably, the quirks exist in the control page, and with how TrueFinals data is retrieved.  It's possible for repeatedly polling the API to cause a query exhaustion to be reached, causing the old API internals to crash and present garbage data.</p>
 <p>The naive (but functional) resolution was to make a least-recently used cache that validates whether the rate limit is exhausted or not yet, and potentially returns (intentionally) stale data matching that endpoint to avoid any malformed data issues.</p>
 
+<p>At the time, I had no way of knowing this due to a lack of documentation on this in TrueFinals' API Docs, but the rate limit exhaustion is available in the response headers.</p>
+
+<pre>
+    <code>
+'x-ratelimit-limit': '10',
+'x-ratelimit-remaining': '8',
+'x-ratelimit-reset': '1736225420000',
+'x-vercel-cache': 'MISS', 
+'x-vercel-id': ' [ removed ]',
+'transfer-encoding': 'chunked'</code>
+</pre>
+
+</p>
 <h4>Debug Tools</h4>
 
-<p>Hidden in Bracketeer's codebase include some tools that I use to evaluate functionality (which may change), like the <a href="img/debug/clients.png">clients page</a> (showing all current socket.io clients and their open page(s) or the <a href="img/debug/requests.png">requests cache view.</a></p>
+<p>Hidden in Bracketeer's codebase include some tools that I use to evaluate functionality and status (and while subject to change, may be interesting), like the <a href="img/debug/clients.png">clients page</a> (showing all current socket.io clients and their open location) or the <a href="img/debug/requests.png">requests cache view</a> (showing the last requests as internal to the database of the running server.)</p>
 
 <h2>The Setup As It Is</h2>
 
@@ -263,7 +281,7 @@ In short, it cost more time and effort for slower iteration.  Something bespoke 
 
 <h3>References</h3>
 <ul>
-    <li id="A-1">[A-1] - This is incidentally what my Master of Ceremonies training for FIRST Robotics Competition encouraged.  There's theatre in all of it and making that <i>easier</i> can be helpful.</li>
+    <li id="A-1">[A-1] - This is incidentally what my Master of Ceremonies training for <i>FIRST</i> Robotics Competition encouraged.  There's theatre in all of it and making that <i>easier</i> can be helpful.</li>
     <li id="H-1">[H-1] - <a href="https://github.com/GSCRL/arena-electronics">https://github.com/GSCRL/arena-electronics</a></li>
     <li id="H-2">[H-2] - <a href="https://github.com/neilpf2014/bot-arena-control">https://github.com/neilpf2014/bot-arena-control</a>
     </li>
