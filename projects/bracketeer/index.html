@@ -15,7 +15,7 @@
 <body>
 <header>
 <h1>
-    Combat Robotics Arena Controls & You
+    Robot Fightin' Time(r) [for the league I helped]
 </h1>
 </header>
 
@@ -23,42 +23,34 @@
     <h2>Why Write Something Custom</h2>
 </p>
 <p>
-    In short, the reason I went with something custom over something not was the possibility of tying in analysis and using the insights gleaned from said timing to improve the quality of events.
+    In short, the reason I went with something custom over something that existed was a desire for higher polish and integration of competitor experience.  it's easier to advocate for an institution when it feels they value you, and vice versa!  This was one way I could show that.
 </p>
 
 <details>
     <summary>Table of Contents</summary>
     <ul>
         <li>
-            Why not hardware?
+            <a href="#whynotcustom">Why not hardware?</a>
         </li>
         <li>
-            Requirements
+            <a href="#reqs">Requirements</a>
         </li>
         <li>
-            Use
+            <a href="#use">Use</a>
             <ul>
-                <li>Queueing</li>
-                <li>Match Control</li>
-                <li>Quirks</li>
+                <li><a href="#queue">Queueing</a></li>
+                <li><a href="#match-ctrl">Match Control</a></li>
+                <li><a href="#quirks">Quirks</a></li>
+                <li><a href="#debug">Debug Tools</a></li>
             </ul>
         </li>
-        <li>
-            Technical Decisions (to be improved)
-            <ul>
-                <li>Ping/Pong + Faux-NTP</li>
-                <li>RobotCombatEvents Support</li>
-                <li>Challonge Support</li>
-                <li>Better Settings</li>
-                <li>Webcast Integrations</li>
-            </ul>
-        </li>
+        <li><a href="#where-to">State of Affairs</a></li>
     </ul>
   </details>
 
 
 <p>
-    <h2>Why Not Use Custom Hardware / Electronics / PCBs</h2>
+    <h2 id="whynotcustom">Why Not Use Custom Hardware / Electronics / PCBs</h2>
 </p>
 
 <p>
@@ -85,13 +77,15 @@ In short, it cost more time and effort for slower iteration.  Something bespoke 
 </div>
 <!-- end image insert. -->
 
-<h2>So what does it <i>need</i> to do?</h2>
+<h2 id="reqs">So what does it <i>need</i> to do?</h2>
 <p>
     <ul>
         <li>easy to iterate</li>
         <li>one arena is nearly the same effort as more than one arena</li>
         <li>easy for someone other than the creator to run it</li>
         <li>can be integrated to the webcast and venue hardware (TVs)</li>
+        <li>expansion should be cheap and fast</li>
+        <li>needs to be able to be run entirely offline (no internet)</li>
     </ul>
 </p>
 
@@ -101,10 +95,11 @@ In short, it cost more time and effort for slower iteration.  Something bespoke 
         <li>Python + Flask (No longer needing dedicated hardware, tooling I know and have worked with.) </li>
         <li>Uses TCP/IP and/or Websockets via <a href="https://flask-socketio.readthedocs.io/en/latest/">socket.io</a> (allows it to survive network issues.)</li>
         <li>Webpages in fullscreen or browser source in <a href="https://obsproject.com/">OBS.</a> (allows the timer to be visible on stream more easily.)</li>
+        <li>Lightweight enough to run on a RPi or a laptop running the stream should it be needed.</li>
     </ul>
 </p>
 
-<h2>Using Bracketeer</h2>
+<h2 id="use">Using Bracketeer</h2>
 <p>Bracketeer, a tool for those who bracket (running the tournament matches) has a few major viewmodes, all of which were made to help users save time and effort.</p>
 
 <!--- image insert -->
@@ -117,14 +112,14 @@ In short, it cost more time and effort for slower iteration.  Something bespoke 
 </div>
 <!-- end image insert. -->
 
-<h3>Queueing</h3>
+<h3 id="queue">Queueing</h3>
 <p>
-    A major pain point for this and <a href="https://www.chiefdelphi.com/t/are-queuers-necessary/411835">other robot sporst</a> alike is knowing how much time you have before you are next actively in a match.  
+    A major pain point for this and <a href="https://www.chiefdelphi.com/t/are-queuers-necessary/411835">other robot sports</a> alike is knowing how much time you have before you are next actively in a match.  
     This is sometimes called "turnaround time", but "late or not" was what it usually became at events.
 </p>
 
 <p>
-    <a href="https://truefinals.com/">TrueFinals</a>, the bracketing software we use, handles a decent portion of queueing information for us, but it has rough edges, largely involving multiple tournaments existing concurrently for the same "real" event.
+    <a href="https://truefinals.com/">TrueFinals</a>, the bracketing software GSCRL now uses, handles a decent portion of queueing information for us, but it has rough edges, largely involving multiple tournaments existing concurrently for the same "real" event.
 </p>
 
 <div>
@@ -159,7 +154,7 @@ In short, it cost more time and effort for slower iteration.  Something bespoke 
 </div>
 <!-- end image insert. -->
 
-<h3>Match Control</h3>
+<h3 id="match-ctrl">Match Control</h3>
 
 <p>We stated that a major criteria of the tool we're building (and already built!) is that it needs to be able to run more than one arena easily.  This is where the Match Control page comes in.</p>
 
@@ -235,13 +230,13 @@ In short, it cost more time and effort for slower iteration.  Something bespoke 
     If the time since match was called is under 20 minutes, it's in orange.  If it's marked as active or past the 20 minute buffer time, it turns red and shows a danger glyph next to it.
 </p>
 
-<h3>Quirks</h3>
+<h3 id="quirks">Quirks</h3>
 
 <p>Despite quite a few iterations of software, there exist some quirks in how Bracketeer ingests and handles data.</p>
-<p>Notably, the quirks exist in the control page, and with how TrueFinals data is retrieved.  It's possible for repeatedly polling the API to cause a query exhaustion to be reached, causing the old API internals to crash and present garbage data.</p>
-<p>The naive (but functional) resolution was to make a least-recently used cache that validates whether the rate limit is exhausted or not yet, and potentially returns (intentionally) stale data matching that endpoint to avoid any malformed data issues.</p>
+<p>Notably, the quirks exist in the control page, and with how TrueFinals data is retrieved.</p>
+<p>It's possible for repeatedly polling the TrueFinals API to cause rate limit exhaustion.   The naive (but functional) resolution was to make a least-recently used cache that validates whether the rate limit is exhausted or not yet, and potentially returns (intentionally) stale data matching that endpoint to avoid any malformed data rendering or crashes.</p>
 
-<p>At the time, I had no way of knowing this due to a lack of documentation on this in TrueFinals' API Docs, but the rate limit exhaustion is available in the response headers.</p>
+<p>At the time, I had no way of knowing the server crashing was due to rate limiting as it wasn't included in the TrueFinals' API Docs.  After a quick chat with Tom (the developer of TrueFinals), he'd told me that information on how exhausted the rate limit was could be found in response headers.<sup><a href="#A-2">[A-2]</a><sup></sup></p>
 
 <pre>
     <code>
@@ -253,12 +248,27 @@ In short, it cost more time and effort for slower iteration.  Something bespoke 
 'transfer-encoding': 'chunked'</code>
 </pre>
 
+
+<hr>
+
+<p>
+    The other major architectural decision that's known is how the timer itself functions.
 </p>
-<h4>Debug Tools</h4>
+<p>
+    Because I wasn't <i>absolutely</i> sure how consistent or deterministic the timer would be, I wanted the production folks to be able to manually call out timer information on the off-chance it broke somehow.  This lead to the timer being <i>client side</i>.  </p>
+<p>
+    This means that any timer <i>recipients</i> have to deal with the latency of client <--> sockets.io server <--> all timer clients.  This round trip <i>inherently</i> adds latency, and while I did attempt to make the timer library keep to < 1/10th of a second, it also means to make the timer jitter less that all clients should be connected via Ethernet.</p>
+</p>
+
+<p>In the future, I'd love to move the timer to a per-client basis with remote controls (start/stop/jitter calculations borrowed from NTP) sent via the socket.io connection.  As of yet though (2025/02/12), that work hasn't been done.</p>
+
+
+</p>
+<h4 id="debug">Debug Tools</h4>
 
 <p>Hidden in Bracketeer's codebase include some tools that I use to evaluate functionality and status (and while subject to change, may be interesting), like the <a href="img/debug/clients.png">clients page</a> (showing all current socket.io clients and their open location) or the <a href="img/debug/requests.png">requests cache view</a> (showing the last requests as internal to the database of the running server.)</p>
 
-<h2>The Setup As It Is</h2>
+<h2 id="where-to">The Setup As It Is</h2>
 
 <!--- image insert -->
 <div>
@@ -267,21 +277,35 @@ In short, it cost more time and effort for slower iteration.  Something bespoke 
          <img src="img/net_arch.svg">
     </div>
 </div>
-<!-- end image insert. -->
 
-<!-- insert image of crash screen as seen commonly at events to illustrate. -->
-<!-- Explain how some data wasn't public at time of writing or even remotely documented. -->
+<p>
+    While there exist quite a few places I'd like to keep evolving Bracketeer as my skillset grows, moving from Philadelphia to Chicago has inevitably put a small damper on things.  Until I get involved in a more local league (MRCA for example) it's unlikely I'll spend the time and effort on Bracketeer.
+</p>
+<p>Some of those low-hanging fruit, you might ask?  Well:</p>
+<p>
+    <ul>
+        <li>I'd like to built in Challonge support.  it's the main other bracket tool that robot events use in the combat space and not having it plays to my tool's detriment.</li>
+        <li>I'd like to have automatic source/video splitting via OBS and OBS-DistroAV (NDI Plugin) so that match videos can be automagically timestamped and uploaded during the event.  (This also makes it more similar to <a href="https://brettzone.nhrl.io/brettZone/">NHRL's BrettZone</a>)</li>
+        <li>I'd like the timers to be per-client, and have a better status-check for cage display connections and minimum latencies visible for diagnostics.  That way if a competitor's timer vanishes, I know about it.</li>
+        <li>Self-Hosted Pi Image (so that it can be as easy as flashing an image and using it for other leagues to use)</li>
+        <li> and more. </li>
+    </ul>
+</p>
 
-<!-- Technical Decisions, h2-->
-<!-- NTP / Timer / Timing, h3 -->
-<!-- RCE Support -->
-<!-- challonge support, normalization, h2 -->
-<!-- better settings, h2 -->
-<!-- webcast integration, h2 -->
+<p>Right now any league can take the <a href="https://github.com/GSCRL/bracketeer">code we've put together</a> and use it for their own league.  The quirks mentioned before still do apply, but it's also open-source.  Anyone can contribute and <a href="https://github.com/GSCRL/bracketeer/pulls">pull-requests</a> are welcome.</p>
+<hr>
+
+<h3>Personal Aside</h3>
+<p>
+    Thank you to everyone at GSCRL and at FUBAR Labs for letting me tinker and grow with the league.  It's been an honor working with you, and I can't wait to see what y'all come up with next.
+</p>
+
+<hr>
 
 <h3>References</h3>
 <ul>
     <li id="A-1">[A-1] - This is incidentally what my Master of Ceremonies training for <i>FIRST</i> Robotics Competition encouraged.  There's theatre in all of it and making that <i>easier</i> can be helpful.</li>
+    <li id="A-2">[A-2] - This appears to have been fixed and correctly documented at time of writing this.</li>
     <li id="H-1">[H-1] - <a href="https://github.com/GSCRL/arena-electronics">https://github.com/GSCRL/arena-electronics</a></li>
     <li id="H-2">[H-2] - <a href="https://github.com/neilpf2014/bot-arena-control">https://github.com/neilpf2014/bot-arena-control</a>
     </li>
