@@ -17,9 +17,9 @@ pre code {
 }
 
 .bluebox {
-border:solid #009CD7 1.5pt;
-padding:1.0pt 4.0pt 1.0pt 4.0pt;
-background:#C4EEFF;
+  border:solid #009CD7 1.5pt;
+  padding:4.0pt;
+  background:#C4EEFF;
 }
 </style>
 </head>
@@ -40,7 +40,7 @@ background:#C4EEFF;
 
 <p><strong>Radio</strong></p>
 
-<p>This dumpsterfire of a radio has given plenty of teams problems over the past few years.  They take <i>forever</i> to boot, so the big tip for these is to use redundant power.  2020-R47 says that your radio must be powered by the VRM 12V 2A port, and that doesn't preclude the use of redundant power.  Using a PoE injector in conjunction with the barrel jack to connect the radio to the VRM's 12V 2A ports ensures a faster recovery in the event of a disconnect.  How does this work out though?</p>
+<p><a href="https://www.andymark.com/products/open-mesh-om5p-ac-dual-band-1-17-gbps-access-point-radio">This dumpsterfire of a radio</a> has given plenty of teams problems over the past few years.  They take <i>forever</i> to boot, so the big tip for these is to use redundant power.  2020-R47 says that your radio must be powered by the VRM 12V 2A port, and that doesn't preclude the use of redundant power.  Using a PoE injector in conjunction with the barrel jack to connect the radio to the VRM's 12V 2A ports ensures a faster recovery in the event of a disconnect.  How does this work out though?</p>
 
 <p>If your Ethernet to the radio gets disconnected, the power stays on, so when it wiggles back or whatever it's already resumed.  If your barrel jack wiggles loose and pops out, there's <i>no</i> interruption to use.  The blue box on 2020-R47 specifically states that <div class="bluebox">"that this prohibits using any active POE Injector device to power the radio, but does not prohibit using any PASSIVE CONDUCTORS to inject the VRM power into an Ethernet cable plugged into the radio port labeled “18-24v POE”."</div>  In essence, it's a good wave for any team to do. </p>
 <p><strong>Static Networking & mDNS</strong></p>
@@ -57,11 +57,12 @@ The WPILib Docs outline the commonly used IPs for static networking <a href="htt
 <p>The easiest thing to do, is of course to do nothing.  Many teams will never run into this issue as their entire "robot network" is the roboRIO and the radio; nothing else.  In the age of Limelights and copious other piles of networked devices on robot though, a network switch is a good idea.  </p>
 
 <p>While the manual specifically tries to caution that
+
 <div class="bluebox">Placing a switch between the roboRIO and radio may impede the ability for FIELD STAFF to troubleshoot roboRIO connection issues on the FIELD. Teams may be asked to try directly connecting from the radio to roboRIO as part of troubleshooting efforts. </div>
 
 the stock radio failing to bridge properly may also cause massive troubleshooting headache.</p>
 
-<p>The easiest way to properly mitigate this is to purchase a stable, reliable network switch.  Luckily, 900 has already pursued that knowledge in trying to connect Jetsons and Xaviers to their robot network galore. The <a href="https://team900.org/blog/ZebraSwitch/">ZebraSwitch</a> paper covers basically all you need to know about their choice of switch, and their reasoning behind it.</a>
+<p>The easiest way to properly mitigate this is to purchase a stable, reliable network switch.  Luckily, <a href="https://www.thebluealliance.com/team/900">FRC900</a> has already pursued that knowledge in trying to connect Jetsons and Xaviers to their robot network galore. The <a href="https://team900.org/blog/ZebraSwitch/">ZebraSwitch</a> paper covers basically all you need to know about their choice of switch, and their reasoning behind it.</a>
 
 <p><strong>Clumsy Networking & Training </strong></p>
 
@@ -76,7 +77,7 @@ the stock radio failing to bridge properly may also cause massive troubleshootin
 <p>NetworkTables is how WPILib and FRC hardware tends to move data around, for better or worse. That said, it can be an effective tool to change real-time variables on your robot for tuning control loops without needing to deploy more code, speeding up the iterative process itself.</p>
 <p>WPILib has a <a href="https://docs.wpilib.org/en/stable/docs/software/wpilib-tools/shuffleboard/advanced-usage/shuffleboard-tuning-pid.html">PID widget for dashboard tuning</a>, but this only really works if you're using the WPILib PIDController, not if you're using motor controller-side PID, like on the Falcon 500, or a Spark Max.  What do you do then?</p>
 
-<p>Through use of the SmartDashboard items of getNumber(); and putNumber(); you can check every loop if the stored local value is different from the remote NetworkTables one, and if so, change the PID value locally respectively, and configure your motor controller again.  That also works for your setpoint so you can go between your test values fairly quickly.  With that, a task that may have involved redeploying your code entirely now only takes a few seconds.</p>
+<p>Through use of the SmartDashboard items of <code>getNumber();</code> and <code>putNumber();</code> you can check every loop if the stored local value is different from the remote NetworkTables one, and if so, change the PID value locally respectively, and configure your motor controller again.  That also works for your setpoint so you can go between your test values fairly quickly.  With that, a task that may have involved redeploying your code entirely now only takes a few seconds.</p>
 
 <p><strong>Characterization & kF Calculations</strong></p>
 

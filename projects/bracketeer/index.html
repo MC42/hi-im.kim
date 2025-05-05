@@ -15,16 +15,13 @@
 <body>
 <header>
 <h1>
-    Robot Fightin' Time(r) [for the league I helped]
+    Timekeeping for Fighting Robots
 </h1>
+<aside>
+    How I spent three years building and iterating on software to save myself and others headaches when running combat robotics events.
+</aside>
 </header>
 
-<p>
-    <h2>Why Write Something Custom</h2>
-</p>
-<p>
-    In short, the reason I went with something custom over something that existed was a desire for higher polish and integration of competitor experience.  it's easier to advocate for an institution when it feels they value you, and vice versa!  This was one way I could show that.
-</p>
 
 <details>
     <summary>Table of Contents</summary>
@@ -47,6 +44,16 @@
         <li><a href="#where-to">State of Affairs</a></li>
     </ul>
   </details>
+
+
+<hr>
+
+<p>
+    <h2>Why Write Something Custom?</h2>
+</p>
+<p>
+    In short, the reason I went with something custom over something that existed was a desire for higher polish and integration of competitor experience.  it's easier to advocate for an institution when it feels they value you, and vice versa!  This was one way I could show that.
+</p>
 
 
 <p>
@@ -236,7 +243,7 @@ In short, it cost more time and effort for slower iteration.  Something bespoke 
 <p>Notably, the quirks exist in the control page, and with how TrueFinals data is retrieved.</p>
 <p>It's possible for repeatedly polling the TrueFinals API to cause rate limit exhaustion.   The naive (but functional) resolution was to make a least-recently used cache that validates whether the rate limit is exhausted or not yet, and potentially returns (intentionally) stale data matching that endpoint to avoid any malformed data rendering or crashes.</p>
 
-<p>At the time, I had no way of knowing the server crashing was due to rate limiting as it wasn't included in the TrueFinals' API Docs.  After a quick chat with Tom (the developer of TrueFinals), he'd told me that information on how exhausted the rate limit was could be found in response headers.<sup><a href="#A-2">[A-2]</a><sup></sup></p>
+<p>At the time, I had no way of knowing the server crashing was due to rate limiting as it wasn't included in the TrueFinals' API Docs.  <a href="https://discord.com/channels/1139300071448526900/1139300072375463958/1318791052886540308">After a quick chat with Tom</a> (the developer of TrueFinals), he'd told me that information on how exhausted the rate limit was could be found in response headers.<sup><a href="#A-2">[A-2]</a><sup></sup></p>
 
 <pre>
     <code>
@@ -304,7 +311,7 @@ In short, it cost more time and effort for slower iteration.  Something bespoke 
 
 <h3>References</h3>
 <ul>
-    <li id="A-1">[A-1] - This is incidentally what my Master of Ceremonies training for <i>FIRST</i> Robotics Competition encouraged.  There's theatre in all of it and making that <i>easier</i> can be helpful.</li>
+    <li id="A-1">[A-1] - This is incidentally what my <a href="https://www.firstinspires.org/resource-library/frc/emcee">Master of Ceremonies training</a> for <i>FIRST</i> Robotics Competition encouraged.  There's theatre in all of it and making that <i>easier</i> can be helpful.</li>
     <li id="A-2">[A-2] - This appears to have been fixed and correctly documented at time of writing this.</li>
     <li id="H-1">[H-1] - <a href="https://github.com/GSCRL/arena-electronics">https://github.com/GSCRL/arena-electronics</a></li>
     <li id="H-2">[H-2] - <a href="https://github.com/neilpf2014/bot-arena-control">https://github.com/neilpf2014/bot-arena-control</a>
