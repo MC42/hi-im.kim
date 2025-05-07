@@ -18,7 +18,8 @@
     Timekeeping for Fighting Robots
 </h1>
 <aside>
-    How I spent three years building and iterating on software to save myself and others headaches when running combat robotics events.
+    How I spent three years building and iterating on software to save myself and others headaches when running combat robotics events.<br><br>
+    This page is both a history of steps taken and what rationale motivated their change, as well as the state of affairs as of 2025/05/07.
 </aside>
 </header>
 
@@ -33,10 +34,11 @@
             <a href="#reqs">Requirements</a>
         </li>
         <li>
-            <a href="#use">Use</a>
+            <a href="#use">Using Bracketeer</a>
             <ul>
                 <li><a href="#queue">Queueing</a></li>
                 <li><a href="#match-ctrl">Match Control</a></li>
+                <li><a href="#iterspeed">Iteration Speed</a></li>
                 <li><a href="#quirks">Quirks</a></li>
                 <li><a href="#debug">Debug Tools</a></li>
             </ul>
@@ -52,26 +54,37 @@
     <h2>Why Write Something Custom?</h2>
 </p>
 <p>
-    In short, the reason I went with something custom over something that existed was a desire for higher polish and integration of competitor experience.  it's easier to advocate for an institution when it feels they value you, and vice versa!  This was one way I could show that.
+    In short, the reason I architected something custom over something that existed was a desire for an easier time running an event.  Even the tools that exist now to make our lives easier are still full of rough edges.  
 </p>
+<p>
+    Even if I wanted to ignore that train of thought, it's easier to advocate for an institution when it feels they value you, and vice versa!  Building something to specifically address the needs competitors have is one way I could show that.
 
+</p>
 
 <p>
     <h2 id="whynotcustom">Why Not Use Custom Hardware / Electronics / PCBs</h2>
 </p>
 
 <p>
-    <a href="gscrl.org">GSCRL</a> used to!  The previous solution was somewhat tedious and had a number of rough edges for both iteration <i>and</i> use.  The requirement to use an ESP32 with none of our volunteers having more than a passing interaction with C++, much less Arduino framework antics on an ESP32, left us in a rough spot when we needed to make changes or improvements to the timer (remote control, multi-arena, including it in stream, etc.).
+    <a href="gscrl.org">GSCRL</a> used to!  The previous solution was somewhat tedious and had a number of rough edges for both iteration <i>and</i> use.  What rough edges, you might ask?  let me iterate some of them.
+    
+    <ul>
+        <li>Slow iteration - Changes usually involved ordering a new PCB from overseas and waiting 2-4wks for it to ship.</li>
+        <li>unfamiliar tooling - none of the volunteers involved with this generation were exceptional with C++, and the Arduino tooling for ESP32 was far from ideal.</li>
+        <li>iteration friction - updating the firmware couldn't trivially happen without forcing other event frustrations.</li>
+        <li>Wi-Fi dependent - some event venues had major signal integrity issues, and a fundamental breakdown in core infrastructure was unacceptable.</li>
+        <li>and ultimately - it looked jank.  It felt like it had been cobbled together (because it had been!)</li>
+    </ul>
+</p>
+
+<p>
+    This encouraged us to find something else, and I opted for a browser-based solution.  Chromebooks and small form factor tablet PCs are astonishingly inexpensive, and can be replaced without the need to get bespoke hardware.  Additionally, it let us rearrange physically by simply using a different length ethernet cord.
 </p>
 <p>
-    The controller was usually out of the way, and long USB cables for re-flashing the ESP32 combined with limited production-space requirements lead to a myriad of headaches.  
-    This encouraged us to find something else, and I opted for a web-based solution.  This let us scale and re-arrange arena software and design as needed, even during unexpected event setup difficulties.
+    In short?
 </p>
 <p>
-In short, it cost more time and effort for slower iteration.  Something bespoke software-wise still be less effort.
-</p>
-<p>
-<i>PCBs and code for the old arena controls can be obtained here.<sup><a href="#H-1">[H-1]</a></sup><sup><a href="#H-2">[H-2]</a></sup></i>
+    Hardware is time consuming and expensive to update, software is cheaper and easier to evolve.  If someone else wants to go down the route I did prior, PCBs and code for the old arena controls can be obtained here.<sup><a href="#H-1">[H-1]</a></sup><sup><a href="#H-2">[H-2]</a></sup>
 </p>
 
 <!--- image insert -->
@@ -100,11 +113,12 @@ In short, it cost more time and effort for slower iteration.  Something bespoke 
 <p>
     <ul>
         <li>Python + Flask (No longer needing dedicated hardware, tooling I know and have worked with.) </li>
-        <li>Uses TCP/IP and/or Websockets via <a href="https://flask-socketio.readthedocs.io/en/latest/">socket.io</a> (allows it to survive network issues.)</li>
+        <li>Uses TCP/IP and/or Websockets via <a href="https://flask-socketio.readthedocs.io/en/latest/">socket.io</a> (allows it to survive network issues.)<sup><a href="#A-3">[A-3]</a></sup></li>
         <li>Webpages in fullscreen or browser source in <a href="https://obsproject.com/">OBS.</a> (allows the timer to be visible on stream more easily.)</li>
         <li>Lightweight enough to run on a RPi or a laptop running the stream should it be needed.</li>
     </ul>
 </p>
+
 
 <h2 id="use">Using Bracketeer</h2>
 <p>Bracketeer, a tool for those who bracket (running the tournament matches) has a few major viewmodes, all of which were made to help users save time and effort.</p>
@@ -119,16 +133,20 @@ In short, it cost more time and effort for slower iteration.  Something bespoke 
 </div>
 <!-- end image insert. -->
 
-<h3 id="queue">Queueing</h3>
+<h3 id="queue">Painpoint 1 - Queueing</h3>
 <p>
     A major pain point for this and <a href="https://www.chiefdelphi.com/t/are-queuers-necessary/411835">other robot sports</a> alike is knowing how much time you have before you are next actively in a match.  
-    This is sometimes called "turnaround time", but "late or not" was what it usually became at events.
+    This is sometimes called "turnaround time" in other sports, but for competitors "late or not" was what it usually became at events.
 </p>
 
 <p>
-    <a href="https://truefinals.com/">TrueFinals</a>, the bracketing software GSCRL now uses, handles a decent portion of queueing information for us, but it has rough edges, largely involving multiple tournaments existing concurrently for the same "real" event.
+    <a href="https://truefinals.com/">TrueFinals</a>, the bracketing software GSCRL now uses, handles a decent portion of match and event flow information for us, but it has rough edges.  The largest rough edge was viewing and updating more than one "tournament" at a time.</p>
 </p>
-
+<p>
+    As GSCRL events involve multiple weightclasses<sup><a href="#H-3">[H-3]</a></sup>, without all views trivially accessible,
+     competitors would often ask their point of contact for queueing, a volunteer, and interrupt her entry of the paper scorecards.
+       Addressing this interruption, was therefore important.</p>
+</p>
 <div>
     <div class="image-container">
         <!-- Image goes here. -->
@@ -138,11 +156,7 @@ In short, it cost more time and effort for slower iteration.  Something bespoke 
 </div>
 
 <p>
-    For example, with three weightclasses of combat robot, we were forced to have three distinct "tournaments" and switch between their views, adding friction and letting competitors more easily miss information. 
-</p>
-
-<p>
-    As such, we'd prioritized a visible, information-dense overlay that can be viewed from anywhere on the arena network.
+    As such, we'd prioritized a visible, information-dense view that can be viewed from anywhere on the arena network.  Whether or not a competitor was late for a match was color-coded, so it was visible at a distance.  Only the information needed would make it to this screen.
 </p>
 
 <p>
@@ -161,11 +175,17 @@ In short, it cost more time and effort for slower iteration.  Something bespoke 
 </div>
 <!-- end image insert. -->
 
-<h3 id="match-ctrl">Match Control</h3>
+<h3 id="match-ctrl">Painpoint 2 - Match Control</h3>
 
-<p>We stated that a major criteria of the tool we're building (and already built!) is that it needs to be able to run more than one arena easily.  This is where the Match Control page comes in.</p>
+<p>We previously stated that a major criteria of bracketeer is that it needs to be able to run more than one arena easily.  This is where the Match Control page comes in.</p>
 
-<p>While many events only run one arena, GSCRL opts to run two sometimes due to the number of competitors.  As such, the timer controls for each arena can be delegated to a referee, judge, or production volunteer, minimizing the risk of one arena's timer being conflated for another.</p>
+<p>
+    While many events only run one arena, GSCRL opts to run two sometimes due to the number of competitors.  
+    Audio callouts for match duration can be difficult to hear and even be conflated between the two.
+</p>
+<p>
+    As such, the timer controls for each arena can be delegated to a referee, judge, or production volunteer, minimizing the risk of one arena's timer being conflated for another.
+</p>
 
 <!--- image insert -->
 <div>
@@ -237,10 +257,35 @@ In short, it cost more time and effort for slower iteration.  Something bespoke 
     If the time since match was called is under 20 minutes, it's in orange.  If it's marked as active or past the 20 minute buffer time, it turns red and shows a danger glyph next to it.
 </p>
 
-<h3 id="quirks">Quirks</h3>
+<h3 id="iterspeed">Painpoint 3 - Iteration Speed</h3>
+
+<p>
+    Because of the architectural choices previously mentioned, iteration didn't involve an enormous volunteer lift.  
+    Some competitors opted to <i>not</i> use the tap-out button due to touch screen inconsistencies, so I disabled the 
+    button and informed teams to avoid am <i>inconsistent</i> potential safety feature.
+</p>
+<p>
+    The judges occasionally found it difficult to identify which robot was named as such, so the robot name 
+    as sent to the judges view and the competitor's view. 
+</p>
+<p>
+    The above changes would not have been able to be facilitated if we'd as a league stuck with a microcontroller-derived timer solution.
+</p>
+
+<div>
+    <div class="image-container">
+        <!-- Image goes here. -->
+         <img src="img/live-iterating.jpg">
+    </div>
+    <div class="image-container"><i>A photo of the screens being live-iterated at the production desk during an event.</i></div>
+</div>
+
+<h3 id="quirks">Painpoint N+1 - Quirks</h3>
 
 <p>Despite quite a few iterations of software, there exist some quirks in how Bracketeer ingests and handles data.</p>
 <p>Notably, the quirks exist in the control page, and with how TrueFinals data is retrieved.</p>
+
+<h4>Quirk 1 - Rate Exhaustion</h4>
 <p>It's possible for repeatedly polling the TrueFinals API to cause rate limit exhaustion.   The naive (but functional) resolution was to make a least-recently used cache that validates whether the rate limit is exhausted or not yet, and potentially returns (intentionally) stale data matching that endpoint to avoid any malformed data rendering or crashes.</p>
 
 <p>At the time, I had no way of knowing the server crashing was due to rate limiting as it wasn't included in the TrueFinals' API Docs.  <a href="https://discord.com/channels/1139300071448526900/1139300072375463958/1318791052886540308">After a quick chat with Tom</a> (the developer of TrueFinals), he'd told me that information on how exhausted the rate limit was could be found in response headers.<sup><a href="#A-2">[A-2]</a><sup></sup></p>
@@ -258,14 +303,15 @@ In short, it cost more time and effort for slower iteration.  Something bespoke 
 
 <hr>
 
+<h4>Quirk 2 - Timer Errata</h4>
 <p>
-    The other major architectural decision that's known is how the timer itself functions.
+    The other major architectural decision that has quirky behavior is how the timer itself functions.
 </p>
 <p>
-    Because I wasn't <i>absolutely</i> sure how consistent or deterministic the timer would be, I wanted the production folks to be able to manually call out timer information on the off-chance it broke somehow.  This lead to the timer being <i>client side</i>.  </p>
-<p>
-    This means that any timer <i>recipients</i> have to deal with the latency of client <--> sockets.io server <--> all timer clients.  This round trip <i>inherently</i> adds latency, and while I did attempt to make the timer library keep to < 1/10th of a second, it also means to make the timer jitter less that all clients should be connected via Ethernet.</p>
+    Network determinism is a difficult thing to figure out.  Modern networking is resilient, but consistent <i>and low latency</i> packet transmission is sometimes difficult.  If running Bracketeer via Wi-Fi and not Ethernet, sluggish Wi-Fi may cause the timer visible to competitors to "jump."
 </p>
+
+<h4>(Potential) Resolution 2</h4>
 
 <p>In the future, I'd love to move the timer to a per-client basis with remote controls (start/stop/jitter calculations borrowed from NTP) sent via the socket.io connection.  As of yet though (2025/02/12), that work hasn't been done.</p>
 
@@ -313,8 +359,10 @@ In short, it cost more time and effort for slower iteration.  Something bespoke 
 <ul>
     <li id="A-1">[A-1] - This is incidentally what my <a href="https://www.firstinspires.org/resource-library/frc/emcee">Master of Ceremonies training</a> for <i>FIRST</i> Robotics Competition encouraged.  There's theatre in all of it and making that <i>easier</i> can be helpful.</li>
     <li id="A-2">[A-2] - This appears to have been fixed and correctly documented at time of writing this.</li>
+    <li id="A-3">[A-3] - The specific train of thought in using socket.io over directly using WebSockets boiled down to fallback modes in the event there is no venue internet; pure WebSockets or WebRTC relies on a public broker.</li>
     <li id="H-1">[H-1] - <a href="https://github.com/GSCRL/arena-electronics">https://github.com/GSCRL/arena-electronics</a></li>
-    <li id="H-2">[H-2] - <a href="https://github.com/neilpf2014/bot-arena-control">https://github.com/neilpf2014/bot-arena-control</a>
+    <li id="H-2">[H-2] - <a href="https://github.com/neilpf2014/bot-arena-control">https://github.com/neilpf2014/bot-arena-control</a></li>
+    <li id="H-3">[H-3] - <a href="https://robotcombatwiki.com/wiki/RobotClasses">https://robotcombatwiki.com/wiki/RobotClasses</a></li>
     </li>
 </ul>
  
