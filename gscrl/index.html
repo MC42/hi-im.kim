@@ -169,7 +169,12 @@ h1,h2,h3{
             curr_cal.addEvent(document.getElementById('event_name').value + " " + i['name'], 'This is an all day event', 'Event Venue Here', date_formatted_nicely, date_formatted_nicely);
         }
         
-        curr_cal.download((document.getElementById("event_name").value));
+        if (document.getElementById("event_name").value == "") { // on the off-chance the user didn't fill it out.  Should be fine, make better validation later.
+          curr_cal.download("event_calendar");
+        } else {
+          curr_cal.download((document.getElementById("event_name").value));
+        }
+        
         //console.log(event)
     }
 
