@@ -82,7 +82,7 @@ body {
 }
 
 input {
-    width: 70%;
+    width: 80%;
 }
 
 .big-dl {
@@ -98,7 +98,7 @@ h1,h2,h3{
 <body>
     <h2>Enter Event Name (for Calendar Items):</h2>
 
-    <input type="text" id="event_name">
+    <input type="text" id="event_name" value="Insert Event Name Here">
     <h2>Enter Event Start Date:</h2>
     <input
     type="date"
@@ -106,10 +106,10 @@ h1,h2,h3{
     name="event-date"
     min="2018-01-01"/> <!-- We just set an arbitrary event download thing... idek.  -->
 
-    <div id="event_item_container">
+    <table id="event_item_container">
 
 
-    </div>
+    </table>
 
     <br>
 
@@ -158,15 +158,16 @@ h1,h2,h3{
     var event_item_container = document.getElementById('event_item_container');
 
     function dl() {
+
     var curr_cal = ics();
 
         // to-do recalculate offsets.   
         // this iterates the items.  Yipee.
         for (let i of event_items) {
-            var qq = moment(event_start.valueAsDate).add(i['offset'], 'days').toDate(); // adding an negative value does put it in the past, so that's nice.
-            var date_formatted_nicely = moment(qq).format('L'); // https://momentjs.com/docs/#/displaying/as-javascript-date/
+            var offset_date_obj = moment(event_start.valueAsDate).add(i['offset'], 'days').toDate(); // adding an negative value does put it in the past, so that's nice.
+            var str_formatted_date = moment(offset_date_obj).format('L'); // https://momentjs.com/docs/#/displaying/as-javascript-date/
             // console.log(date_formatted_nicely);
-            curr_cal.addEvent(document.getElementById('event_name').value + " " + i['name'], 'This is an all day event', 'Event Venue Here', date_formatted_nicely, date_formatted_nicely);
+            curr_cal.addEvent(document.getElementById('event_name').value + " " + i['name'], 'This is an all day event', 'Event Venue Here', str_formatted_date, str_formatted_date);
         }
         
         if (document.getElementById("event_name").value == "") { // on the off-chance the user didn't fill it out.  Should be fine, make better validation later.
@@ -184,17 +185,35 @@ h1,h2,h3{
 
         event_item_container.innerHTML = "";
         for (let i of event_items) {
-            var qq = moment(event_start.valueAsDate).add(i['offset'], 'days').toDate(); // adding an negative value does put it in the past, so that's nice.
-            var date_formatted_nicely = moment(qq).format('L');
+            var offset_date_obj = moment(event_start.valueAsDate).add(i['offset'], 'days').toDate(); // adding an negative value does put it in the past, so that's nice.
+            var str_formatted_date = moment(offset_date_obj).format('L');
 
-            var temp_doc = document.createElement('li');
-            temp_doc.innerText = (i['name'] + "  (" + date_formatted_nicely + ", " + i['offset'] + " days)");
+            var table_row = document.createElement('tr');
 
-            if (new Date() > qq) {
-              temp_doc.innerText+="⚠️";
+            // name, offset, is-overdue
+
+            var item_1 = document.createElement('td');
+            item_1.innerText = i['name'];
+
+            var item_2 = document.createElement('td');
+            item_2.innerText =  "(" + str_formatted_date + ")";
+            
+            var item_3 = document.createElement('td');
+
+            if (new Date() > offset_date_obj) {
+
+              item_3.innerText ="⚠️";
+            } else {
+              item_3.innerText =" ";
             }
+            //⚠️
+            // This is hacky as all hell, make a less ugly layout.
 
-            event_item_container.appendChild(temp_doc);
+            table_row.appendChild(item_1);
+            table_row.appendChild(item_2);
+            table_row.appendChild(item_3);
+
+            event_item_container.appendChild(table_row);
             }
     });
 
