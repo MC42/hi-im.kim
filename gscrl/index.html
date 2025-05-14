@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <head>
-    
+    <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
     <script src="js/Blob.js"></script> <!-- https://github.com/eligrey/Blob.js -->
     <script src="js/FileSaver.js"></script> <!-- https://github.com/eligrey/FileSaver.js -->
     <script src="js/ics.js"></script> <!-- https://github.com/nwcell/ics.js/?tab=readme-ov-file -->
@@ -113,7 +113,7 @@ h1,h2,h3{
 
     <br>
 
-    <input class="big-dl" type="button" value="Download Calendar" onclick="dl();"></input>
+    <input id="runbutton" class="big-dl" type="button" value="Download Calendar" onclick="dl();"></input>
     <script>
 
     
@@ -128,7 +128,25 @@ h1,h2,h3{
         {'name':'Webcast Setup Check','offset':-2},
         {'name':'Webcast Published / Reuploaded','offset':2},
         {'name':'RobotCombatEvents Rankings Uploaded','offset':5},
+        {'name':'Venue Confirmation', 'offset':-30}, // a month prior at earliest for go/no go.
+        {'name':'Event Insurance', 'offset':-45},
+        {'name':'Registration Opens', 'offset':-30},
     ];
+
+    // This sorts the list by offset date to be a usable checklist.  Be sure to try and add items *before* this.
+    event_items = event_items.sort(
+      (a,b) => {
+      if (a['offset'] > b['offset']) 
+        {
+          return 1;
+        }
+        else {
+          return -1;
+        }
+      }
+    );
+
+
     // list of dates to make things easier
     // parking email -> day before/2 days before
     // volunteer email -> 14 days
@@ -155,16 +173,31 @@ h1,h2,h3{
     }
 
     event_start.addEventListener("change", (event) => {
+
+      document.getElementById('runbutton').disabled = false;
+
         event_item_container.innerHTML = "";
         for (let i of event_items) {
             var qq = moment(event_start.valueAsDate).add(i['offset'], 'days').toDate(); // adding an negative value does put it in the past, so that's nice.
             var date_formatted_nicely = moment(qq).format('L');
-            event_item_container.innerHTML+= "<li>" + i['name'] + "  (" + date_formatted_nicely + ", " + i['offset'] + " days)</li>";
+
+            var temp_doc = document.createElement('li');
+            temp_doc.innerText = (i['name'] + "  (" + date_formatted_nicely + ", " + i['offset'] + " days)");
+
+            if (new Date() > qq) {
+              temp_doc.innerText+="⚠️";
+            }
+
+            event_item_container.appendChild(temp_doc);
             }
     });
 
     // We do this just so it has the current date if one isn't selected (presumed today)
     event_start.value = moment().format('YYYY-MM-DD');
+
+    document.getElementById('runbutton').disabled = true;
+
+
     </script>
 
 
