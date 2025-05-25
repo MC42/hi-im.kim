@@ -1,0 +1,62 @@
+<style>
+    @font-face {
+  font-family: 'MadokaRunes2';
+  src:  url('MadokaRunes-2.0.woff2') format('woff2'),
+}
+.spacerbox {
+  font-family: 'MadokaRunes2', Fallback, sans-serif;
+  height:30vw;
+  width:70vh;
+  font-size: 30vh;
+}
+
+</style>
+
+<script>
+    function createRandomString(length) {
+  const chars = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+  let result = "";
+  for (let i = 0; i < length; i++) {
+    result += chars.charAt(Math.floor(Math.random() * chars.length));
+  }
+  return result;
+}
+</script>
+
+<body>
+    <div class="spacerbox">
+        <div id="runetext_location">
+Q
+        </div>
+    </div>
+    <input id="input_area" type="text" >
+
+    <script>
+        function validate_input() {
+            var renderbox = document.getElementById('runetext_location');
+            var result_list = document.getElementById('attempts');
+            var input_area = document.getElementById('input_area');
+
+            console.log(input_area.value.trim());
+            console.log(renderbox.innerText.trim());
+
+            var row_item = document.createElement('li');
+            
+            var a1 = input_area.value.trim();
+            var a2 = renderbox.innerText.trim();
+            row_item.innerHTML = 'Entered: ' + a1 + '      Answer: ' + a2;
+
+            result_list.appendChild(row_item);
+
+            renderbox.innerText = createRandomString(1);
+            input_area.value = "";
+
+        }
+        document.getElementById('input_area').addEventListener('change', validate_input);
+    </script>
+
+    <ul id="attempts">
+
+    </ul>
+
+</body>
