@@ -12,6 +12,10 @@
 
 </style>
 
+<head>
+  <title>madoka witch rune trainer</title>
+   <meta charset="utf-8"> 
+</head>
 <script>
     function createRandomString(length) {
   const chars = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
@@ -20,6 +24,16 @@
     result += chars.charAt(Math.floor(Math.random() * chars.length));
   }
   return result;
+}
+
+function getNewUniqueLetter(current_letter) {
+
+  var new_letter = createRandomString(1);
+  while (current_letter == new_letter) {
+    new_letter = createRandomString(1);
+  }
+
+  return new_letter;
 }
 </script>
 
@@ -46,9 +60,16 @@ Q
             var a2 = renderbox.innerText.trim();
             row_item.innerHTML = 'Entered: ' + a1 + '      Answer: ' + a2;
 
-            result_list.appendChild(row_item);
+            if (a1 == a2) {
+              row_item.innerHTML+= " ✅";
+            } else {
+              row_item.innerHTML+= " 🟥";
+            }
 
-            renderbox.innerText = createRandomString(1);
+            result_list.insertBefore(row_item, result_list.firstChild);
+
+            renderbox.innerText = getNewUniqueLetter(renderbox.innerText.trim());
+
             input_area.value = "";
 
         }
