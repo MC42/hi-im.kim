@@ -74,6 +74,9 @@ Q
 
         }
         document.getElementById('input_area').addEventListener('change', validate_input);
+
+        // setup the page.
+        renderbox.innerText = getNewUniqueLetter(renderbox.innerText.trim());
     </script>
 
     <ul id="attempts">
