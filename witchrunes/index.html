@@ -65,8 +65,8 @@ Q
             var row_item = document.createElement('li');
 
             
-            var a1 = input_area.value.trim();
-            var a2 = renderbox.innerText.trim();
+            var a1 = input_area.value.trim().toUpperCase();
+            var a2 = renderbox.innerText.trim().toUpperCase();
             row_item.innerHTML = 'Entered: ' + a1 + '      Answer: ' + a2;
 
             if (a1 == a2) {
