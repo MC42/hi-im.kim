@@ -66,6 +66,7 @@ Q
             var result_list = document.getElementById('attempts');
             var input_area = document.getElementById('input_area');
             var is_wordle = document.getElementById('wordle');
+            var percent_correct = document.getElementById('pct_correct');
 
             console.log(input_area.value.trim());
             console.log(renderbox.innerText.trim());
@@ -87,7 +88,9 @@ Q
             total_attempted+=1;
 
             document.title = "madoka witch rune trainer (" + total_correct + "/" + total_attempted + ")";
-            
+
+            percent_correct.innerText = "(" + String(total_correct / total_attempted * 100).slice(0,6) + "% Correct)";
+
             result_list.insertBefore(row_item, result_list.firstChild);
             if (wordle.checked) {
                 renderbox.innerText = random_word().toUpperCase();
@@ -107,7 +110,8 @@ Q
     </script>
 
     <input id="wordle" type="checkbox">
-    <label for="wordle">Words Test Mode</label>
+    <label for="wordle">Words Test Mode</label><span>  |  </span>
+    <span id="pct_correct"></span>
 
     <ul id="attempts">
 
