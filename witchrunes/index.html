@@ -16,10 +16,14 @@
 </style>
 
 <head>
-  <title>madoka witch rune trainer</title>
+  <title>madoka witch rune trainer </title>
    <meta charset="utf-8"> 
 </head>
 <script>
+
+  var total_correct = 0;
+  var total_attempted = 0;
+
     function createRandomString(length) {
   const chars = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
   let result = "";
@@ -75,10 +79,15 @@ Q
 
             if (a1 == a2) {
               row_item.innerHTML+= " ✅";
+              total_correct+=1;
             } else {
               row_item.innerHTML+= " 🟥";
             }
 
+            total_attempted+=1;
+
+            document.title = "madoka witch rune trainer (" + total_correct + "/" + total_attempted + ")";
+            
             result_list.insertBefore(row_item, result_list.firstChild);
             if (wordle.checked) {
                 renderbox.innerText = random_word().toUpperCase();
