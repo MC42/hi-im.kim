@@ -1,0 +1,21 @@
+
+- something with a DIY midi keyboard, analog hall effect so I can do funky shit like WOBBLE
+- the mp3 player please I beg you it'd be so nice
+- sd card ingestor for alternative to fujifilm antics that's crossplat (immich support)
+- write that danbooru clone so i can write something "webscale" etc.
+- cta map with pcb colors for water / not water + prints for line colors and built-in colors
+    - could also do elevated / non-elevated using standoffs, brackets, and running power through said standoffs.
+    - may need to check JLCMC.
+- any 3d printer with a revo, a .15mm nozzle, and an MMU of two or more colors (minimum 3) so I can make soul gems for people etc b/c it'd be funny.
+    - also do the fusion 360 automation maybe hopefully?  it's all formulas anyways etc.
+- that video essays please i beg you get it out so you can finish it.  Mostly needs more edits but that means sleep.
+- wired bone conducting headphones a la headamame.  gonna need lots of iterations I think? /shrug.
+    - could always solder to a common part for mounting like m3 square nut, etc.
+- laser cutter air interlock PCB.  just use a fucking relay, etc.  A module is fine too.  don't be stupid.
+- could also make it mostly printed, be even less stupid, etc.
+- fix prusa XL tool 1 so it doesn't stall by fucking aligning the heaters?  tbd idfk please.
+    - make the damn mp3 player it'd be so nice
+    - lvds screen or shitty 32004 screen
+    - could always just use a prusa screen and a photodiode etc.
+    - copy the 555 low power circuit, etc.
+
