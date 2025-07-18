@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+<body>
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+  <a rel="me" href="https://chaos.social/@k1m"></a>
+  <title>Kim's Page</title>
+  <link rel="stylesheet" href="/assets/main.css">
+</head>
+
+  <header>
+    <style>
+
+    </style>
+<h1>Mangling Subtitles For Fun and No Profit<h1>
+</header>
+
+<p><i>I spend some time trying to better explain workflow(s) for using subtitles in video editing.</i></p>
+<!-- Opener / What *are* Subtitles Anyways? -->
+
+<h2 id="ch_1">
+What <i>are</i> subtitles anyways?
+</h2>
+
+<p>Subtitles are the wonderful, fantastic tool that allows text to be shown in a video or livestream to explain what's going on.  While they don't always, they can indicate the speaker, emphasis on certain words, pauses, and most importantly, markup.</p>
+<!-- Subtitles -->
+
+<div>
+    <div class="image-container">
+        <!-- Image goes here. -->
+      <img src="img/technology_connections_1.jpg">
+    </div>
+    <div class="image-container"><i>The "Technology Connections" channel very specifcally makes use of subtitles on YouTube.</i></div>
+</div>
+
+<p>Historically, formats like the .ASS file format only included very limited markup capability, only including a few XHTML tags that enabled colors, bold, italics, and underline.  Some modifications even enabled the use of <i>intentional positioning</i>, which is really cool, but that was then and this is now.</p>
+<p>Modern subtitle containers allow you to do some pretty wild stuff, beyond just positioning and location.  During a viewing of  <i>Shoujo Kagegi Revue Starlight</i>, the use of both Japanese and English characters co-mingle on the screen.  Some of the text is video, some of it is subtitles; can you guess which is which?</p>
+
+<div>
+    <div class="image-container">
+      <script>
+        function swap_revue() {
+          var source_1 = "img/revue_ep5_1.png";
+          var source_2 = "img/revue_ep5_2.png";
+
+          if (document.getElementById("revue_swapme").src.includes(source_1) ) {
+            console.log("same id");
+            document.getElementById("revue_swapme").src = source_2;
+          } else {
+            document.getElementById("revue_swapme").src = source_1;
+            console.log("oopsie");
+          }
+
+        }
+      </script>
+        <!-- Image goes here. -->
+      <img id="revue_swapme" src="img/revue_ep5_1.png">
+    </div>
+    <div class="image-container"><i><button onclick="swap_revue()">Click</button> to swap images and test your guess!</i></div>
+</div>
+
+<p>With the presumption of a cynical reader, you might be shocked to find out that subtitlers are afforded the option to set the kerning, as well as to use non-system fonts via container embedding.</p>
+
+<p>Much in the same way that the <a href="https://github.com/incubated-geek-cc/pdf-font-extractor"> fonts embedded in a PDF can be extracted</a> though, the fonts inside an arbitrary video container can often be extracted.  Via some invocation of ffmpeg like described on <a href="https://stackoverflow.com/questions/35270002/extracting-subtitles-from-mkv-using-ffmpeg">StackOverflow</a>, we can see that below.</p>
+
+<pre>
+<code>
+ffmpeg -dump_attachment:t "" -i input.mkv
+</code>
+</pre>
+
+
+<h2>Visual Effects</h2>
+
+<p>While the usual gamut of a legible font with a discernable border to distinguish it from the surrounding graphics is commonplace, some subtitlers go the extra mile.  When depicting items on a screen, it's often that the edge of the "camera" in an anime is abberated, as the light hits the sensor slightly differently.  This too has been replicated by fansubbers, as seen <a href="https://fansubbers.miraheze.org/wiki/Guide:Chromatic_Aberration_(typesetting)">here</a> on the fansubbing wiki.</p>
+
+<div>
+    <div class="image-container">
+        <!-- Image goes here. -->
+      <img src="img/technology_connections_1.jpg">
+    </div>
+    <div class="image-container"><i></i></div>
+</div>
+
+</body>
+</html>
