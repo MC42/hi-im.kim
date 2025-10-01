@@ -1,10 +1,10 @@
 ## Sous-Chef
 
-Akemi Homura was, for lack of a better word, pathetic.  She was sure that others thought it of her, to say nothing of how she saw herself. She had narrowly escaped death on her first day of school, before developing a blisteringly parasocial crush and falling right into end-of-the-world circumstances.  Such was the life of a *mahou shoujo*, she figured.
+Akemi Homura was, for lack of a better word, pathetic.  She was sure that others thought it of her, to say nothing of how she saw herself. She had narrowly escaped death on her first day of school, before developing a blisteringly parasocial crush and falling right into end-of-the-world circumstances.  Such was the life of a *mahō shōjo*, she figured.
 
-"Akemi-san, more tea?" Tomoe Mami smiled, her gracious host utterly at ease with the practice.  Homura nodded quickly and flashed a smile, trying her best to forget how her gunfire sounded.  Ever since Homura saw Mami kill a past partner, Homura wasn't sure she could look at her confident, collected mentor *quite* the same way.  Her once-upon-a-situationship had fallen to the ground, body limp after a fatal shot the soul gem.
+"Akemi-san, more tea?" Tomoe Mami smiled, her gracious host utterly at ease with the practice.  Homura nodded quickly and flashed a smile, trying her best to forget how her gunfire sounded.  Ever since Homura saw Mami kill a past partner, Homura wasn't sure she could look at her confident, collected mentor *quite* the same way.  Her once-upon-a-situationship had fallen to the ground, body limp after a fatal shot the soul gem as Homura very nearly joined her in the afterlife.  She was only saved last minute by M—
 
-Homura was terrified, but mercifully, she was better at hiding fear than she was at cooking.
+Homura was still decently afraid, but mercifully, she was better at hiding fear than she was at cooking.
 
 "Akemi-san, could I ask you to help in the kitchen?  Ribbons only go so far for free hands."
 
@@ -34,6 +34,8 @@ She began with the celery and quickly fell into a rhythm, hoping the blush on he
 
 ---
 
+<!-- Should this be moemura?  I don't even know at the moment. -->
+
 Kyoko was crashing on Homura's couch.  Until ten minutes prior to her asking, she hadn't _had_ a couch; mercifully she could *obtain* one quickly.  The JSDF staff office had one that was seldom used, and it was more likely to be taken as a prank than anything else.
 
 Besides, she hadn't stolen any guns this loop through yet.  
@@ -44,37 +46,136 @@ Luckily, she was already in the habit of turning off the holo-projectors when th
 
 "Beats the street. I've had worse when I was at th—"  she began, cutting herself off as she chomped down onto her Rocky.
 
-Homura (smartly) chose to not push her on where she got the Pocky when she was between, well, everything at the moment.
+Homura opted to not push her on where she got the Pocky.  She knew rather well that she was between, well, everything at the moment.
 
 "Oh, Kyoko-san—"
 
 "Akemi... Can it with the honorifics. We're just girls."
 
-[ homura wakes up to find her cooking breakfast. ]
+"I hope you find it comfortable.  Blankets are in the small table next to the couch."
 
-[ what are you doing? ]
+Homura was wearing Mami's smile, and Kyoko wasn't sure to be happy or concerned.  She settled for a disappointed dejection, stomaching that Mami roped in another girl to her stupid "defender of justice" shtick.
 
-[ I slept at yours.  Only fair. ]
+"Thanks..."
 
-[ This... seems unexpectedly generous. ]
+The words were scarcely a whisper.  She *hated* saying thank you, and needed her to know damn sure she wasn't a charity case.
 
-[ Parents raised me right y'ass.  (enraged)]
+"Of course."
 
-[ I never said anything about your parents. ]
+The two spoke little more as they turned in, Homura unsure just how she destroyed her odds of success with this timeline.
 
-[ Well when the times were good, y'know, momo and i would help our mom with the baked goods, anything to get congregants to stick around. ]
+She needed Kyoko; Kyoko did *not* need her, and she'd happily bolt back to Kazamino given the chance.
 
-[ Did it work...? ]
+Against all odds, Homura woke up to the smell of something cooking.  The light, buttery aroma of pancakes wafted under her off-balance bedroom door.
 
-[ Kinda.  Folks kept comin' but they never stuck around.  And the uh... when my father found out about my wish. ]
+"Kyoko." she said, her voice still hoarse as she tucked her hair behind her ear, a far departure from her dignified hairband.
 
-[ I'm sorry. ]
+"Hm?" Kyoko grunted, as she flipped another perfectly browned pancake onto the stack.
 
-[ So what was yours for? ]
+"Wh-*cough*.  What *are* you doing?"
 
-[ she doesn't respond quickly.  she just keeps working on the dough. ]
+"Breakfast, *duh*.  I thought y' were a genius or somethin'."
+
+"I know that, but *why?*  Surely you're not going to eat all of these yourself?" she asked icredulously, an eyebrow raised at the towering pile of flapjacks.
+
+"Nah, you're g'n have some.  Y'let me crash here, 'ts the least I can do."
+
+Homura was suprised, the first time Kyoko had offered her food.  It was a matter of trust, of *principle* for her.  
+
+The last girl who she offered food to refused and ended up dead for it, the fool of a girl.
+
+Homura summoned a headband from the hammerspace inside her buckler, fixing her frustratingly orderly hair out of reach of any imprecise movements.  With poise Kyoko would associate with a monarch (or perhaps a corpse), she began to eat.
+
+"What's wrong, ice queen?  never had a homecooked meal before?"
+
+"I... never expected you to be a cook."
+
+"Yeah well, my parents raised me *right*.  Take care of one another, roof over yer head, do unto others, all that stuff."
+
+"I can see that." Homura said plainly, and for once, she meant it.
+
+"When times were good, right after y'know" she began, raising her left hand to Homura as she eyed the last of the batter.
+
+"When times were good, it was a thing the church did to try and keep congregants.  The idea was easy.  If their stomachs were full, their heads would be fulla sermons too."
+
+"Did it work?"
+
+"Nah, not really.  Folks didn't stick around, and well, long term wasn't really a thing after..."
+
+Neither girl spoke for a moment, Homura decimating another pair of pancakes.  She promptly retrieved another, the small pat of butter sliding gently across the surface.
+
+"I'm sorry, Kyoko-san."
+
+"Me too.  Now, you know why I hate the lil' prick.  What was your reason?"
+
+Homura gulps down the bite of pancake as she stewed on her answer, the weight of the world throbbing behind dead eyes as she considered her options.
+
+*Would she think less of me if it was for her?  What if she thinks it's Tomoe-san?*
+
+She cuts another bite as she looks down at her plate, her soul gem glittering in the morning sunrise.
+
+"It was for love, wasn't it?  You seem the type, a hopeless romantic."
+
+Homura thanked her for breakfast, and excused herself.  She had to prepare for Walpurgisnacht, and being *friendly* with a cook wouldn't help her plan the launch mechanics.
 
 ---
+
+
+"So Homura-chan..." Madoka began, not quite sure how to stomach her feelings for the girl.  She was at times, cold, offputting, and even rude to Sayaka-chan.  
+
+But on the other hand... beneath that sadness was a confidence, a *kindness*.  She was sure of it.
+
+She shook her head and got back to minding the stove, her father playing with Tatsuya in the living room.
+
+Homura sat at the kitchen island, ready to leap into action at a moment's notice.  
+
+"Do you have a favorite cake?  Like if it was your birthday."
+
+"I have not celebrated my birthday in a *very* long time."
+
+"That's so sad!" she balked, as her resolve strengthened.
+
+"I'll be making you a cake for *sure* then!  When is it?"
+
+The time traveler felt her gaze soften slightly, obligated to answer as she carefully considered her words.
+
+If she got too attached to *this* Madoka... Failing her would hurt that much more.
+
+"May first."[^1]
+
+"That's so *soon!*  I'll absolutely make you a cake then!"
+
+"So what type of cake do you want?"
+
+"I don't have strong preferences, truthfully.  Any cake is good cake."
+
+"Hehe, that's fair.  But if you *had to pick one*..." she asked pointedly, watching curiously as Homura's numb, distant gaze was brought into the foreground once more.
+
+"I think I like strawberry." she said, a faint blush forming on her cheeks.
+
+"I do too." Madoka smiled, the same smile only _she_ could give to Homura.
+
+To stir the pot while she stirred the pot, Madoka said promptly the only thing on her mind.
+
+"Besides, isn't cooking for someone kinda like love?"
+
+Homura's face matched the tone of Madoka's hair rather quickly.
+
+Tatsuya babbled at Tomohisa as he put the boy back on the ground to play with his rattle, heading into the kitchen to relieve Madoka from her pot-stirring duties.
+
+"I cook with love too for Junko, so I guess it runs in the family."
+
+"Dad!" Madoka balked, as he chortled to himself confidently.
+
+"Can you two play with Tatsuya?  I don't want this to burn."
+
+Madoka turned to the living room to find her guest ~~and crush~~ already happily entertaining her brother.
+
+She felt her heart blossom a little bit more.
+
+---
+
+<!-- Should be closer to coolmura. -->
 
 Homura desperately wished she had goggles.  Even with her glasses rested firmly in the pocket dimension of her buckler, they would have done little to protect her from the barrage.  
 
@@ -94,7 +195,7 @@ While washing her hands, Mami couldn't help but smile at the result of her work,
 
 Homura washed her hands in turn and made her way to the couch, Kyoko responding with a dissinterested grunt.
 
-"I'll take that as a no then."
+"I'll take that as a *no* then."
 
 "Th' hell is your deal anyways?  Isn't there some big bad witch comin' t' town?  Isn't like... getting grief seeds more important than yer lil' domestic thing?"
 
@@ -118,7 +219,7 @@ Then again, she knew if she had explained the circumstances that Madoka would be
 
 *It's not cheating, we're not even dating!*
 
-Homura resolved to ask Madoka for tomatoes from her father's garden next loop, figuring the pasta for her small group of friends would be ever the tastier.
+Homura resolved to ask Madoka for tomatoes from her father's garden next loop, figuring the pasta for her small group of friends would be nicer, more personal, more... something.
 
 *It's not quite a dinner date, but—*
 
@@ -126,19 +227,40 @@ She took a deep breath on the couch, and enjoyed her stolen peace.
 
 ---
 
-[ Loop 33 - she totally fucks up a super long cooking dish.  Keeps calling apart.  Mami asks her to step out of the kitchen while she cleans up ]
+<!-- Very coolmura, actively falling apart. -->
+Homura could scarcely see the floor.  The pungent aroma of burning filled the kitchen as Tomoe Mami entered with the same grace she always did, infuriating and maddening all at once.
 
-Homura goes to reset and paused when mami arrives with a very beat up musket.  
+"O-Oh my.  This is quite the mess we've gotten, isn't it?"
 
-She starts to clean her guns habitually.  Mami asks if she can clean her muskets.  "But they're magic"
+Homura was practically *incandescent*.
 
-"So is teamwork, akemi-san."
+"I know, do *not* try to make a point of it."
 
-Loop 45, kyokō is revealed to be an excellent chef when cooking in high quantities.  She blames it on the church.  She refuses to do sweets though... (Momo)
+"I... I can clean up if you're okay with it.  Ribbons make light work of messes and all that."
 
+*Of course she uses ribbons for it.  How is she not more upset I downright charred her favorite cookwear?*
+
+And then, a moment later.
+
+*Did... she really need my help those loops ago?  Did she really need an assistant, or was she trying to make me stick around?*
+
+Homura nodded, her body moving in calculated, precise ways that Mami recognized as her best attempt at emotional distancing.
+
+So she let her recede to the couch, occuping as small a spot as she could on the far side of the room.
+
+Mami hummed as she cleaned, a [familiar tune](https://www.youtube.com/watch?v=6KfL9DRXHYk) filling the air.  
+
+*Of course, of course she would.*
+
+[ She starts to clean her guns habitually.  Mami asks if she can clean her muskets.  "But they're magic" ]
+
+[ "So is teamwork, akemi-san." ]
 
 ---
+<!-- Wraith Arc cooking her birthday cake. -->
 
 [End of September, Homura asks Mami and Kyoko for help baking a cake.  She doesn't need help, but she needs the company. ]
 
 [ She sings happy birthday to Madoka. ]
+
+[^1]: While Homura has no canon birthday, I enjoy the juxtaposition of getting to celebrate Walpurgisnacht's defeat in more ways than one. it especially makes Homura "bright may sunshine" to Madoka, a la the Concept Movie.
