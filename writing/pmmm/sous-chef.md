@@ -40,17 +40,19 @@ Kyoko was crashing on Homura's couch.  Until ten minutes prior to her asking, sh
 
 Besides, she hadn't stolen any guns this loop through yet.  
 
-Luckily, she was already in the habit of turning off the holo-projectors when they weren't in use.  Otherwise, her sterile isolation void might have dissuaded the street smart Kyoko from taking shelter from the first wave of rain.
-
 "S-Sorry about the mess."
 
 "Beats the street. I've had worse when I was at th—"  she began, cutting herself off as she chomped down onto her Rocky.
 
-Homura opted to not push her on where she got the Pocky.  She knew rather well that she was between, well, everything at the moment.
+*She's gonna be judgy, isn't she...*
+
+Homura opted to not push her to finish her sentence, or to ask where she got the Pocky.  She knew rather well that she was between, well, everything at the moment.
 
 "Oh, Kyoko-san—"
 
-"Akemi... Can it with the honorifics. We're just girls."
+"Akemi... Y' don't need to do the honorific thing. We're just girls."
+
+Homura swallowed awkwardly, and resolved to be kinder.
 
 "I hope you find it comfortable.  Blankets are in the small table next to the couch."
 
@@ -66,11 +68,15 @@ The two spoke little more as they turned in, Homura unsure just how she destroye
 
 She needed Kyoko; Kyoko did *not* need her, and she'd happily bolt back to Kazamino given the chance.
 
-Against all odds, Homura woke up to the smell of something cooking.  The light, buttery aroma of pancakes wafted under her off-balance bedroom door.
+---
 
-"Kyoko." she said, her voice still hoarse as she tucked her hair behind her ear, a far departure from her dignified hairband.
+Against all odds, Homura woke up to the smell of something cooking;  The light, buttery aroma of pancakes wafted under her off-balance bedroom door.
 
-"Hm?" Kyoko grunted, as she flipped another perfectly browned pancake onto the stack.
+"Kyoko." she said, her voice still hoarse as she tucked her hair behind her ear, a far departure from her nominally dignified hairband.
+
+"Hm?" 
+
+Kyoko was focused, unlike anything Homura had seen prior.  She flipped another perfectly browned pancake onto the stack, her concentration not broken for a moment.
 
 "Wh-*cough*.  What *are* you doing?"
 
@@ -78,19 +84,17 @@ Against all odds, Homura woke up to the smell of something cooking.  The light, 
 
 "I know that, but *why?*  Surely you're not going to eat all of these yourself?" she asked icredulously, an eyebrow raised at the towering pile of flapjacks.
 
-"Nah, you're g'n have some.  Y'let me crash here, 'ts the least I can do."
+"Y'let me crash here, 'ts the least I can do."
 
-Homura was suprised, the first time Kyoko had offered her food.  It was a matter of trust, of *principle* for her.  
+Homura was suprised, the first time Kyoko had offered *her* food.  Sure, she'd shared with Mami, with Sayaka, with *Madoka* even.  It was a matter of trust, of *principle* for her.  
 
-The last girl who she offered food to refused and ended up dead for it, the fool of a girl.
+Homura summoned a headband from the hammerspace inside her buckler, "fixing" her frustratingly orderly hair out of reach of any imprecise movements.  With poise Kyoko would associate with a monarch (or perhaps a corpse), she began to eat.
 
-Homura summoned a headband from the hammerspace inside her buckler, fixing her frustratingly orderly hair out of reach of any imprecise movements.  With poise Kyoko would associate with a monarch (or perhaps a corpse), she began to eat.
+"What's wrong, ice queen?  Havent'cha had a homecooked meal before?"
 
-"What's wrong, ice queen?  never had a homecooked meal before?"
+"I... never expected you to be a decent cook."
 
-"I... never expected you to be a cook."
-
-"Yeah well, my parents raised me *right*.  Take care of one another, roof over yer head, do unto others, all that stuff."
+"Y' well, my parents raised me *right*.  Take care of one another, roof over yer head, do unto others, all that stuff."
 
 "I can see that." Homura said plainly, and for once, she meant it.
 
@@ -106,7 +110,7 @@ Neither girl spoke for a moment, Homura decimating another pair of pancakes.  Sh
 
 "I'm sorry, Kyoko-san."
 
-"Me too.  Now, you know why I hate the lil' prick.  What was your reason?"
+"Me too.  Now, y'know why *I* hate the lil' rat.  What's *your* reason?"
 
 Homura gulps down the bite of pancake as she stewed on her answer, the weight of the world throbbing behind dead eyes as she considered her options.
 
@@ -114,22 +118,23 @@ Homura gulps down the bite of pancake as she stewed on her answer, the weight of
 
 She cuts another bite as she looks down at her plate, her soul gem glittering in the morning sunrise.
 
-"It was for love, wasn't it?  You seem the type, a hopeless romantic."
+"It was for love, wasn't it?  Y'seem the type, a hopeless romantic 'n all."
 
-Homura thanked her for breakfast, and excused herself.  She had to prepare for Walpurgisnacht, and being *friendly* with a cook wouldn't help her plan the launch mechanics.
+Homura thanked her for breakfast, and excused herself.  
+
+She had to prepare for *Walpurgisnacht*, and being *friendly* with her peercook wouldn't help her plan missile paths.
 
 ---
 
-
 "So Homura-chan..." Madoka began, not quite sure how to stomach her feelings for the girl.  She was at times, cold, offputting, and even rude to Sayaka-chan.  
 
-But on the other hand... beneath that sadness was a confidence, a *kindness*.  She was sure of it.
+But on the other hand... beneath that sadness was a confidence, a *kindness*.  It shone through sometimes, when given the chance.  She was *sure* of it.
 
-She shook her head and got back to minding the stove, her father playing with Tatsuya in the living room.
+She shook her head returned her attention to minding the stove as her father playing with Tatsuya in the living room.
 
-Homura sat at the kitchen island, ready to leap into action at a moment's notice.  
+Homura sat at the kitchen island, ready to leap into action at a moment's notice.  Luckily, *okayu* was hardly an enemy worth fighting.
 
-"Do you have a favorite cake?  Like if it was your birthday."
+"Do you have a favorite cake?  Like if it was your birthday, what would you like?"
 
 "I have not celebrated my birthday in a *very* long time."
 
@@ -139,17 +144,17 @@ Homura sat at the kitchen island, ready to leap into action at a moment's notice
 
 The time traveler felt her gaze soften slightly, obligated to answer as she carefully considered her words.
 
-If she got too attached to *this* Madoka... Failing her would hurt that much more.
+*I can't become too attached to this Madoka... if something goes wrong...*
 
 "May first."[^1]
 
-"That's so *soon!*  I'll absolutely make you a cake then!"
-
-"So what type of cake do you want?"
+"That's so *soon!*  I'll absolutely make you a cake then! What type of cake do you want?"
 
 "I don't have strong preferences, truthfully.  Any cake is good cake."
 
-"Hehe, that's fair.  But if you *had to pick one*..." she asked pointedly, watching curiously as Homura's numb, distant gaze was brought into the foreground once more.
+*Especially if you're making it.*
+
+"Hehe, that's fair.  But if you *had to pick* a type..." she asked pointedly, watching curiously as Homura's numb, distant gaze was brought into the foreground once more.
 
 "I think I like strawberry." she said, a faint blush forming on her cheeks.
 
@@ -159,19 +164,15 @@ To stir the pot while she stirred the pot, Madoka said promptly the only thing o
 
 "Besides, isn't cooking for someone kinda like love?"
 
-Homura's face matched the tone of Madoka's hair rather quickly.
+Homura's face matched the hue of Madoka's hair rather quickly.
 
-Tatsuya babbled at Tomohisa as he put the boy back on the ground to play with his rattle, heading into the kitchen to relieve Madoka from her pot-stirring duties.
+"Can you two play with Tatsuya?  I'll finish up lunch."
 
-"I cook with love too for Junko, so I guess it runs in the family."
-
-"Dad!" Madoka balked, as he chortled to himself confidently.
-
-"Can you two play with Tatsuya?  I don't want this to burn."
+Tatsuya babbled at Tomohisa as he put the boy back on the ground to play with his rattle, heading into the kitchen to relieve Madoka from her cooking duties.
 
 Madoka turned to the living room to find her guest ~~and crush~~ already happily entertaining her brother.
 
-She felt her heart blossom a little bit more.
+She felt her heart blossom a little bit more as she joined her on the stretch of carpet.
 
 ---
 
