@@ -166,9 +166,9 @@ To stir the pot while she stirred the pot, Madoka said promptly the only thing o
 
 Homura's face matched the hue of Madoka's hair rather quickly.
 
-"Can you two play with Tatsuya?  I'll finish up lunch."
-
 Tatsuya babbled at Tomohisa as he put the boy back on the ground to play with his rattle, heading into the kitchen to relieve Madoka from her cooking duties.
+
+"Can you two play with Tatsuya?  I'll finish up lunch."
 
 Madoka turned to the living room to find her guest ~~and crush~~ already happily entertaining her brother.
 
@@ -188,7 +188,7 @@ Homura made quick work of onions and set them to simmer, before squeezing in a g
 
 Mami was still deep in the baking process, attempting to make cookies as a desert en-masse.  Blob after blob of cookie dough sat chilling in the fridge, unexpectedly full for the first time in many years.  
 
-Her apartment kitchen may have been luxurious by most standards, but despite her ambitions, it was still bursting.
+Her apartment kitchen may have been luxurious by most standards, but her ambitions had it bursting at the seams.
 
 While washing her hands, Mami couldn't help but smile at the result of her work, sliding the last sheet pan of cookies into the freezer.
 
@@ -198,17 +198,17 @@ Homura washed her hands in turn and made her way to the couch, Kyoko responding 
 
 "I'll take that as a *no* then."
 
-"Th' hell is your deal anyways?  Isn't there some big bad witch comin' t' town?  Isn't like... getting grief seeds more important than yer lil' domestic thing?"
+"Th' hell is your deal anyways?  Ain't there some big bad witch comin' t' town?  Isn't like... getting grief seeds more important than yer lil' domestic thing?"
 
-She had a frown on her face, slightly more irate than usual.  Walpurgisnacht *would* arrive in eight days; she was right.
+She had a frown on her face, slightly more irate than usual.  Walpurgisnacht *would* arrive in eight days; Kyoko was *right*.
 
-Homura couldn't help as a twinge of guilt coarsed through her.   Walpurgisnacht *would* arrive in eight days; she was right.  She had *sworn* not to rely on anyone else so authoritative, and here she was...
-
-But she wasn't dependent on anyone else, she told herself.  
+Homura couldn't help as a twinge of guilt coarsed through her.   Walpurgisnacht *would* arrive in eight days, and she had done little to prepare.  She had *sworn* not to rely on anyone else so authoritative, and here she was...
 
 *I need this.  We both need this. All of us do.*
 
-The charity cooking was essential if it kept Tomoe Mami alive long enough to fight Walpurgisnacht.  If. Homura was merely opting to do *additional* good in the process.  
+The charity cooking was essential if it kept Tomoe Mami alive long enough to fight Walpurgisnacht.  If. 
+
+Homura was merely opting to do *additional* good in the process, hopeful about this time flow.  
 
 "Yes.  Walpurgisnacht is arriving soon, but cooking helps me collect my thoughts.  As does food help you with yours."
 
@@ -245,7 +245,7 @@ And then, a moment later.
 
 *Did... she really need my help those loops ago?  Did she really need an assistant, or was she trying to make me stick around?*
 
-Homura nodded, her body moving in calculated, precise ways that Mami recognized as her best attempt at emotional distancing.
+Homura nodded, her body moving in calculated, precise ways that Mami recognized as emotional distancing.  She was *disassociating.*
 
 So she let her recede to the couch, occuping as small a spot as she could on the far side of the room.
 
@@ -253,9 +253,17 @@ Mami hummed as she cleaned, a [familiar tune](https://www.youtube.com/watch?v=6K
 
 *Of course, of course she would.*
 
-[ She starts to clean her guns habitually.  Mami asks if she can clean her muskets.  "But they're magic" ]
+Mami wasn't *quite* sure how to help Homura.  Her once-protege suddenly becoming a cold, calculated dispatcher of wraiths was firmly unexpected, much less her magic *changing.*
 
-[ "So is teamwork, akemi-san." ]
+Kyubey commented on the shape of her karma changing, some utter claptrap about it being "incompatible with eternal samsara".
+
+And now she was having a breakdown over scorched pans.  Pans can be *scrubbed!*
+
+"Akemi-san..."
+
+"Yes?"
+
+"Can you... tell me about Madoka?"
 
 ---
 <!-- Wraith Arc cooking her birthday cake. -->
