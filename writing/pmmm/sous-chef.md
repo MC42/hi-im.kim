@@ -26,15 +26,13 @@ A thought shot through her, more instinctual as anything else.  Where to swing, 
 
 She nodded promptly, and moved her shaking fingers to try and protect her knuckles.  Something she had seen in her cooking of *less than common* substances for her awaiting death at the end of the month.
 
-She dismissed the thought, ashamed of herself. An elegant weapon?  No, the knife was a requisite tool and little more.
+She dismissed the thought, ashamed of herself. An elegant weapon?  No, the knife was a requisite tool and *nothing else*.
 
 *At least learning to cook properly might make me a little less useless.  Madoka can work and I'll—*
 
 She began with the celery and quickly fell into a rhythm, hoping the blush on her cheeks faded quickly.
 
 ---
-
-<!-- Should this be moemura?  I don't even know at the moment. -->
 
 Kyoko was crashing on Homura's couch.  Until ten minutes prior to her asking, she hadn't _had_ a couch; mercifully she could *obtain* one quickly.  The JSDF staff office had one that was seldom used, and it was more likely to be taken as a prank than anything else.
 
@@ -202,7 +200,7 @@ Homura washed her hands in turn and made her way to the couch, Kyoko responding 
 
 She had a frown on her face, slightly more irate than usual.  Walpurgisnacht *would* arrive in eight days; Kyoko was *right*.
 
-Homura couldn't help as a twinge of guilt coarsed through her.   Walpurgisnacht *would* arrive in eight days, and she had done little to prepare.  She had *sworn* not to rely on anyone else so authoritative, and here she was...
+Homura couldn't help as a twinge of guilt coarsed through her.   Kyoko was absolutely correct, and she had done little to prepare.  She had *sworn* not to rely on anyone else so authoritative, and here she was...
 
 *I need this.  We both need this. All of us do.*
 
@@ -212,9 +210,9 @@ Homura was merely opting to do *additional* good in the process, hopeful about t
 
 "Yes.  Walpurgisnacht is arriving soon, but cooking helps me collect my thoughts.  As does food help you with yours."
 
-Kyoko scoffed in response as she ripped open another box of Rocky.
+Kyoko grunted in response once more, using her snaggletooth to rip open another box of Rocky.
 
-Homura swiftly moved to avoid a train of thought so ruinous it might still catch her in the blast radius.  A thought so treasonous that it might kill her.  The very simple idea that she missed her *senpai*.  
+As Kyoko nestled in to her rut on the couch, Homura swiftly moved to avoid a train of thought so ruinous it might still catch her in the blast radius.  It was a thought so treasonous that it might kill her; The very simple idea that she missed her *senpai*.  
 
 Then again, she knew if she had explained the circumstances that Madoka would be supportive.  She always was, even if she usually contracted afterwards...  
 
@@ -247,7 +245,7 @@ And then, a moment later.
 
 Homura nodded, her body moving in calculated, precise ways that Mami recognized as emotional distancing.  She was *disassociating.*
 
-So she let her recede to the couch, occuping as small a spot as she could on the far side of the room.
+So she let Homura recede to the couch, occuping as small a spot as she could on the far side of the room.
 
 Mami hummed as she cleaned, a [familiar tune](https://www.youtube.com/watch?v=6KfL9DRXHYk) filling the air.  
 
@@ -257,7 +255,9 @@ Mami wasn't *quite* sure how to help Homura.  Her once-protege suddenly becoming
 
 Kyubey commented on the shape of her karma changing, some utter claptrap about it being "incompatible with eternal samsara".
 
-And now she was having a breakdown over scorched pans.  Pans can be *scrubbed!*
+And now, that same girl was having a breakdown over scorched pans.  Pans can be *scrubbed!*
+
+*This may not end well, but... she speaks so highly of this figure in her life.  This girl...*
 
 "Akemi-san..."
 
@@ -266,10 +266,37 @@ And now she was having a breakdown over scorched pans.  Pans can be *scrubbed!*
 "Can you... tell me about Madoka?"
 
 ---
-<!-- Wraith Arc cooking her birthday cake. -->
 
-[End of September, Homura asks Mami and Kyoko for help baking a cake.  She doesn't need help, but she needs the company. ]
+The crisp autumn of Mitakihara forced Homura to do something she had hardly done in the decade prior; wear a *coat*.  Not that she needed one; it was mostly to not draw attention from passers-by.
 
-[ She sings happy birthday to Madoka. ]
+She knocked on the door to that oh-so-familiar apartment, a curly-haired blonde meeting her at the door before ushering her in.  
+
+"Akemi-san, what brings you here?  Is today special somehow?"
+
+"I... have a favor to ask."
+
+"It's... not about wraiths, is it?  Kyoko is back in Kazamino to visit her... family."
+
+"I... want to bake a birthday cake for a friend."
+
+"Oh, what type of cake?"
+
+"Strawberry shortcake.  Nothing fancy, but... I think she'd like it better if friends were involved."
+
+The pair of them were quite the dynamic duo in the kitchen.  Countless successful and failed projects across myriad timelines had taught Homura exactly the cadence and intonation needed to keep Tomoe Mami on her A-game.  
+
+Mami was merely happy to have company, and that she had recovered from the burned pans in the months prior.
+
+She was so afraid that Homura would leave, just like ~~everyone~~ Kyoko-san had.  Mercifully, she didn't seem likely to.
+
+As Homura laid down a small dollop of cream, she gingerly trimmed a strawberry and placed it right on the top of the cake, tears forming in the corner of her eyes.
+
+Mami and Kyoko looked on in relief as Homura hummed quietly to herself.
+
+"Happy birthday to you..., happy birthday to you...  Happy Birthday, dear Madoka, happy birthday to you...."
+
+*I miss you.*
+
+---
 
 [^1]: While Homura has no canon birthday, I enjoy the juxtaposition of getting to celebrate Walpurgisnacht's defeat in more ways than one. it especially makes Homura "bright may sunshine" to Madoka, a la the Concept Movie.
