@@ -293,7 +293,7 @@ As Homura laid down a small dollop of cream, she gingerly trimmed a strawberry a
 
 Mami and Kyoko looked on in relief as Homura hummed quietly to herself.
 
-"Happy birthday to you..., happy birthday to you...  Happy Birthday, dear Madoka, happy birthday to you...."
+"Happy birthday to you... happy birthday to you...  Happy Birthday, dear Madoka, happy birthday to you...."
 
 *I miss you.*
 
