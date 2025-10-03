@@ -277,7 +277,7 @@ She knocked on the door to that oh-so-familiar apartment, a curly-haired blonde 
 
 "It's... not about wraiths, is it?  Kyoko is back in Kazamino to visit her... family."
 
-"I... want to bake a birthday cake for a friend."
+"I... want to bake a birthday cake for... for a friend."
 
 "Oh, what type of cake?"
 
