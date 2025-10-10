@@ -59,18 +59,18 @@ Kazuko smugly hummed a victory theme as her partner in crime conceded.
 
 --- 
 
-- (cold rain, missing the bus home, stumbling into magical girl bullshit by pure chance.)
+- (a bus drives right into a labyrinth, the weather has them be the only ones on it other than the driver.  they fall asleep to find the front half of the bus eaten off.)
 - Saotome wants _nothing_ to do with it but apparently has a knack for nearly getting killed.  
 - Junko just keeps her foil on her, better than nothing.  It gets enchanted.  
 - She nearly chops a guys hand off with it because of that though; oops!
-- They get dragged along on witch hunts because their new friend is... not good at being alone and wants friends.  Saotome feels obligation (family?) and Junko wants Kazuko to not get fucking killed.
+- They get dragged along on witch hunts because their new friend (Naoko) is... not good at being alone and wants friends.  Saotome feels obligation (family?) and Junko wants Kazuko to not get fucking killed.
 
 ## Act 2 - Heatdeath
 
-- a witch nearly kills their friend, Kyubey pushing them to contract, Junko promptly kicking the bastard for being creepy.
+- a witch nearly kills Naoko, severely injured, Kyubey pushing them to contract, Junko promptly kicking the bastard for being creepy.
 - "you're just like the guys at school, you little devil."
-- their friend needs a grief seed, but they don't know of any other magical girls.  their peer gives them a phone number and they find themselves on a train to kazamino.
-- their friend is _cold_ to the touch, barely holding on.  (green)
+- Naoko needs a grief seed, but they don't know of any other magical girls.  their peer gives them a phone number and they find themselves on a train to kazamino.
+- Naoko friend is _cold_ to the touch, barely holding on
 - (new magical girl, does she do charity?  she does!)
 - "You're... normies." 
 - "We're trying to help a friend.  She got real hurt."
@@ -87,5 +87,5 @@ Kazuko smugly hummed a victory theme as her partner in crime conceded.
 ## Epilogue
 
 - Junko gets the "irregularity" speech from Kyubey, she swears off contracting.
-- Sakie's sister (Mrs. Aki) wipes Saotome's memory of magical girls for her own safety and health.
+- Kunogi Aki (Mrs. Aki, Mabayu's mother) wipes Saotome's memory of magical girls for her own safety and health.
 - Junko keeps it, not wanting to forget that none day the cabbity bastard might come crawling back.
