@@ -59,6 +59,22 @@ Kazuko smugly hummed a victory theme as her partner in crime conceded.
 
 --- 
 
+The scraping of metal woke Kazuko up, their ride grinding to a halt on the unfamiliar floor.  She fixed her glasses, shaking slightly as she realized that the front of the bus was *gone*.
+
+"Junko.  Junko, wake up..." she muttered, elbowing her friend in the gut as she lightly hit her back.
+
+"C'mon Kazuko, I was sleep—  Wait, I was _sleeping_ what the fuck."
+
+"We got bigger problems..." she chattered as she kicked the white cuboid crawling up the worn flooring of the former bus.
+
+*It almost looks like... a big sugar cube?*
+
+"What... is this place..."
+
+"Nightmare. Gotta be.  Keep going, maybe there's an escape."
+
+When they had boarded, it was just them and the bus driver, as was usual 
+
 - (a bus drives right into a labyrinth, the weather has them be the only ones on it other than the driver.  they fall asleep to find the front half of the bus eaten off.)
 - Saotome wants _nothing_ to do with it but apparently has a knack for nearly getting killed.  
 - Junko just keeps her foil on her, better than nothing.  It gets enchanted.  
