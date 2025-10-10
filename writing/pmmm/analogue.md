@@ -16,13 +16,13 @@ Junko scowled back at Kazuko Saotome, <!-- The characters in her last name mean 
 
 "Same way as everyone else... listen to the weather report!  Or ask your parents, I don't know!"
 
-Junko remained silent, sulking quietly as she mulched on how right she was and how little she wanted to admit it.  This back and fourth was emblematic of their friendship, she thought, many assuming the bookish girl to be intelligent and reserved; she was nothing of the sort in the right company.
+Junko remained silent, sulking quietly as she digested just how *right* she was and how *little* she wanted to admit it.  This back and fourth was emblematic of their friendship, she thought, many assuming the bookish girl to be intelligent and reserved; she was nothing of the sort in the right company.
 
 And so on their worst days their tempers got the best of them, leading to many a screaming match assuaged by shitty ramen <!-- . o O ( City uncooked-ramen scene but with Junko ) --> and snacks they brought to school that they definitely shouldn't have had.
 
-Junko *conveniently* forgot to tell her family that the principal <!-- ? --> had called her a vagrant, and Kazuko *conveniently* went home with some reading materials that a girl of her upbringing probably wouldn't have.  Her parents didn't want her reading anything "indecent", and so she "didn't".
+Junko *conveniently* forgot to tell her family that the principal <!-- ? --> had called her a delinquent, and Kazuko *conveniently* went home with some reading materials that a girl of her upbringing probably wouldn't have otherwise.  Her parents didn't want her reading anything "indecent", and so she "didn't".
 
-They both cherished it, even if they did still butt heads about boys.
+They both cherished their friendship, even if they did still butt heads about boys.
 
 "So, how was fencing?"
 
@@ -43,7 +43,7 @@ A fiendish smile broke out across Kazuko's face, her eyes obscured by the drople
 
 "H-Hey, wait!  Don't you dare bring him into this!"
 
-She raised a threatening eyebrow in response as Junko collapsed onto the bench in a disgruntled pile
+She raised a threatening eyebrow in response as Junko collapsed onto the bench in a disgruntled pile.
 
 Kazuko smugly hummed a victory theme as her partner in crime conceded.
 
