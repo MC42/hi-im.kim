@@ -28,7 +28,7 @@ They both cherished it, even if they did still butt heads about boys.
 
 "Same as usual.  Kicked some ass." she grinned wildly, Kazuko rolling her eyes at the bravado.
 
-"And that means losing half your matches?"
+"And that means *losing* half your matches?"
 
 "I went 5-3 today!  Take it back or I'll add *you* to my list of defeats!"
 
@@ -38,19 +38,24 @@ A fiendish smile broke out across Kazuko's face, her eyes obscured by the drople
 
 "You're not gonna *have arms* if you keep making fun of me!" she yelped as Kazuko laughed at her, the pair giggling as she swung her limp arm like a puppet.
 
-"Oh no, *my arms!*  What ever will I do, I'll have to tell Tomohisa that the wild swordsman Junko has disarmed me!"
+<!-- Specifically designed to evoke the feeling of how Hitomi, Madoka, and Sayaka messing about in ep. 1 feels to watch.  Childish but familiar. -->
+"Oh no, *my arms!*  What ever will I do, I'll have to tell Tomohisa that the wild swordsman Junko has disarmed me!"  Her voice was dripping with sarcasm as Junko's rage began to percolate.
 
-"H-Hey, wait!  Don't you dare!"
+"H-Hey, wait!  Don't you dare bring him into this!"
 
-Junko collapsed onto the bench in a disgruntled pile, Kazuko smugly humming to herself.
+She raised a threatening eyebrow in response as Junko collapsed onto the bench in a disgruntled pile
+
+Kazuko smugly hummed a victory theme as her partner in crime conceded.
 
 "Truce?"
 
 "Truce."
 
+"Thank goodness.  I don't want my stuff to get *soggy* in a fight anyways."
+
 "Where the hell *is* this bus anyways?" she muttered, as a beat-up transit bus curled the corner and arrived at the bus stop just in front of the school.  
 
-"Fucking finally." Kazuko admitted, Junko nodding wearily.
+"Fucking finally." Kazuko admitted candidly, Junko nodding with a weak recognition.   She was *exhausted*.
 
 --- 
 
