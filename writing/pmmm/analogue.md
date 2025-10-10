@@ -5,7 +5,7 @@ Kaname Junko <!-- The characters in her first name mean "詢" (to consult with) 
 
 "It'll either arrive in eight minutes, fifteen, or not at all."
 
-Junko scowled back at Kazuko Saotome, <!--     The characters in her last name mean "早" (quickly), "乙" (secondary), and "女" (woman) respectively.
+Junko scowled back at Kazuko Saotome, <!-- The characters in her last name mean "早" (quickly), "乙" (secondary), and "女" (woman) respectively.
     The characters in her first name mean "和" (harmony) and "子" (child) respectively. --> ever the persistent bookworm she was.  She had memorized most of the timetable through force of habit, and sheer force of will.  Junko couldn't help but admire her a little for it.
 
 "Hmph."
@@ -18,11 +18,39 @@ Junko scowled back at Kazuko Saotome, <!--     The characters in her last name m
 
 Junko remained silent, sulking quietly as she mulched on how right she was and how little she wanted to admit it.  This back and fourth was emblematic of their friendship, she thought, many assuming the bookish girl to be intelligent and reserved; she was nothing of the sort in the right company.
 
-And so on their worst days their tempers got the best of them, leading to many a screaming match assuaged by shitty ramen and snacks they brought to school that they definitely shouldn't have had.
+And so on their worst days their tempers got the best of them, leading to many a screaming match assuaged by shitty ramen <!-- . o O ( City uncooked-ramen scene but with Junko ) --> and snacks they brought to school that they definitely shouldn't have had.
 
-Junko *conveniently* forgot to tell her family that the principal <!-- ? --> had called her a vagrant, and Kazuko conveniently went home with some reading materials that a girl of her upbringing probably wouldn't have.
+Junko *conveniently* forgot to tell her family that the principal <!-- ? --> had called her a vagrant, and Kazuko *conveniently* went home with some reading materials that a girl of her upbringing probably wouldn't have.  Her parents didn't want her reading anything "indecent", and so she "didn't".
 
-They both cherished it.
+They both cherished it, even if they did still butt heads about boys.
+
+"So, how was fencing?"
+
+"Same as usual.  Kicked some ass." she grinned wildly, Kazuko rolling her eyes at the bravado.
+
+"And that means losing half your matches?"
+
+"I went 5-3 today!  Take it back or I'll add *you* to my list of defeats!"
+
+A fiendish smile broke out across Kazuko's face, her eyes obscured by the droplets of rain that hit them.
+
+"You wouldn't stab an unarmed woman, would you?"
+
+"You're not gonna *have arms* if you keep making fun of me!" she yelped as Kazuko laughed at her, the pair giggling as she swung her limp arm like a puppet.
+
+"Oh no, *my arms!*  What ever will I do, I'll have to tell Tomohisa that the wild swordsman Junko has disarmed me!"
+
+"H-Hey, wait!  Don't you dare!"
+
+Junko collapsed onto the bench in a disgruntled pile, Kazuko smugly humming to herself.
+
+"Truce?"
+
+"Truce."
+
+"Where the hell *is* this bus anyways?" she muttered, as a beat-up transit bus curled the corner and arrived at the bus stop just in front of the school.  
+
+"Fucking finally." Kazuko admitted, Junko nodding wearily.
 
 --- 
 
