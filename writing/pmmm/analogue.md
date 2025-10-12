@@ -59,21 +59,50 @@ Kazuko smugly hummed a victory theme as her partner in crime conceded.
 
 --- 
 
-The scraping of metal woke Kazuko up, their ride grinding to a halt on the unfamiliar floor.  She fixed her glasses, shaking slightly as she realized that the front of the bus was *gone*.
+The quiet scraping of something in the bus woke Kazuko up, their ride home abruptly coming to a halt.  She fixed her glasses, shaking slightly as she realized that the front of the bus was *gone*.  Not messy, not blurry, *gone*.
 
-"Junko.  Junko, wake up..." she muttered, elbowing her friend in the gut as she lightly hit her back.
+"Junko.  Junko, wake up..." she muttered, elbowing her friend nervously as Junko jabbed drowsily back.
 
-"C'mon Kazuko, I was sleep—  Wait, I was _sleeping_ what the fuck."
+"C'mon Kazuko, I was sleep—  Wait, I was _sleeping_ what the..."
 
-"We got bigger problems..." she chattered as she kicked the white cuboid crawling up the worn flooring of the former bus.
+Junko stared in disbelief at the front of the bus, the trail of white powder slowly inching towards them making her slightly more than a little uncomfortable.
 
 *It almost looks like... a big sugar cube?*
 
+Junko grabbed her fencing kit and backpack as Kazuko did the same, the girls carefully avoiding the white cuboid that turned to face them as they exited through the "front door" of their transportation.
+
+They were, distinctly, not in Mitakihara anymore.  The peaceful, if somewhat run down port that the bus ran next to before cutting back inland had been replaced with a jarring landscape of paper trees in bold colors, as discordant chimes from what sounded like a music box continued in the distance.
+
+<!-- BGM: <a href="https://www.youtube.com/watch?v=SvG7Fo3xA7U">Umbra Nigra (PMMM Soundtrack)</a> -->
+
 "What... is this place..."
 
-"Nightmare. Gotta be.  Keep going, maybe there's an escape."
+"I... don't know..." Junko responded nervously.  "There isn't a fair or something our bus driver crashed at by accident?"
 
-When they had boarded, it was just them and the bus driver, as was usual 
+Neither girl wanted to think about what happened to the bus driver when the front of the bus was seemingly ripped off.
+
+"It must be... keep looking for an exit."
+
+When they had boarded, it was just them and the bus driver, as was usual for their route home.  Neither girl had expected an adventure, and both desperately wanted an escape.  Instead, they found more sugar cubes.
+
+The small cube, about the size of a cat, had seemingly been replaced with a small voxel army.  Piles of off-white, coarse cubes had continued to appear in the landscape.  Some behind trees, some as stepping stones.  
+
+"This is... too much..." Kazuko insisted, before sitting down on the cube, her hands resting on the object before recoiling in horror.
+
+The surface had clung to her hands slightly, sticky and saccharine.
+
+"They *are* sugar cubes, what the hell?" she mumbled, before the cube fractured into pieces, revealing jagged teeth that attempted to chew back at her sampling.
+
+"EEK!" she yelped, as Junko kicked the cube onto its side.  The creature writhed uncontrollably, unable to right itself, as the others surrounding them continued to fracture and yield sharp, gnashing teeth.
+
+"We *gotta go!*" Junko screamed, as the pair continued running, unaware that admist the forest and the trees, and perched neatly on an undisturbed Sweet-Tooth was an interloper. <!-- the familiar's name, I've decided. -->
+
+*Curious.*
+
+---
+
+
+
 
 - (a bus drives right into a labyrinth, the weather has them be the only ones on it other than the driver.  they fall asleep to find the front half of the bus eaten off.)
 - Saotome wants _nothing_ to do with it but apparently has a knack for nearly getting killed.  
