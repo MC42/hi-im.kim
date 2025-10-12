@@ -101,9 +101,7 @@ The surface had clung to her hands slightly, sticky and saccharine.
 
 ---
 
-
-
-
+<!--
 - (a bus drives right into a labyrinth, the weather has them be the only ones on it other than the driver.  they fall asleep to find the front half of the bus eaten off.)
 - Saotome wants _nothing_ to do with it but apparently has a knack for nearly getting killed.  
 - Junko just keeps her foil on her, better than nothing.  It gets enchanted.  
@@ -134,3 +132,4 @@ The surface had clung to her hands slightly, sticky and saccharine.
 - Junko gets the "irregularity" speech from Kyubey, she swears off contracting.
 - Kunogi Aki (Mrs. Aki, Mabayu's mother) wipes Saotome's memory of magical girls for her own safety and health.
 - Junko keeps it, not wanting to forget that none day the cabbity bastard might come crawling back.
+-->
