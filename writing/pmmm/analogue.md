@@ -5,7 +5,7 @@ Kaname Junko <!-- The characters in her first name mean "詢" (to consult with) 
 
 "It'll either arrive in eight minutes, fifteen, or not at all."
 
-Junko scowled back at Kazuko Saotome, <!-- The characters in her last name mean "早" (quickly), "乙" (secondary), and "女" (woman) respectively.
+Junko scowled back at Saotome Kazuko, <!-- The characters in her last name mean "早" (quickly), "乙" (secondary), and "女" (woman) respectively.
     The characters in her first name mean "和" (harmony) and "子" (child) respectively. --> ever the persistent bookworm she was.  She had memorized most of the timetable through force of habit, and sheer force of will.  Junko couldn't help but admire her a little for it.
 
 "Hmph."
@@ -83,23 +83,63 @@ Neither girl wanted to think about what happened to the bus driver when the fron
 
 "It must be... keep looking for an exit."
 
-When they had boarded, it was just them and the bus driver, as was usual for their route home.  Neither girl had expected an adventure, and both desperately wanted an escape.  Instead, they found more sugar cubes.
+When they had boarded, it was just them and the bus driver, as was usual for their route home.  Neither girl had expected an adventure, and both desperately wanted an escape.  Instead, as they wandered, all theu found were more sugar cubes.
 
-The small cube, about the size of a cat, had seemingly been replaced with a small voxel army.  Piles of off-white, coarse cubes had continued to appear in the landscape.  Some behind trees, some as stepping stones.  
+Their first encounter with the odd geography had been about the size of a cat, seemingly one of thousands as they continued to roam.  Some behind trees, some as stepping stones, all slightly gritty in appearance.  
 
-"This is... too much..." Kazuko insisted, before sitting down on the cube, her hands resting on the object before recoiling in horror.
+After what felt like an eternity, the girls wanted to give up.  "This is... too much..." Kazuko insisted, sitting down on the cube nearest to her in dismay.  As her hands brushed against the surface of the cube, she recoiled in horror.
 
-The surface had clung to her hands slightly, sticky and saccharine.
+The surface had clung to her hands slightly; sticky and saccharine when she had expected coarseness like sandpaper or a rockface.
 
-"They *are* sugar cubes, what the hell?" she mumbled, before the cube fractured into pieces, revealing jagged teeth that attempted to chew back at her sampling.
+"They *are* sugar cubes, what the hell?" she mumbled as she sniffed at her hands, the sugarcube fracturing into pieces underneath her.
 
-"EEK!" she yelped, as Junko kicked the cube onto its side.  The creature writhed uncontrollably, unable to right itself, as the others surrounding them continued to fracture and yield sharp, gnashing teeth.
+Junko leapt back to her feet as Kazuko jumped towards her, her momentary seat yielding jagged teeth where her body had been mere moments prior.
 
-"We *gotta go!*" Junko screamed, as the pair continued running, unaware that admist the forest and the trees, and perched neatly on an undisturbed Sweet-Tooth was an interloper. <!-- the familiar's name, I've decided. -->
+She didn't even have time to yell before Junko kicked the cube onto its side.  The creature writhed on its side, unable to right itself, other cubes nearby responding to the crunching of sucrose teeth and starting to move towards them.  
 
-*Curious.*
+"We *gotta go!*" Junko screamed, the pair running further into the forest, blissfully aware of an interloper.  Perched neatly on the floor beneath a tree with fruit that looked like porcelain, was a beady-eyed cabbit. <!-- the familiar's name is a Sweetooth (or Jakob, inventor of the sugarcube perhaps?), I've decided. -->
 
 ---
+
+As the girls sprinted through the forest, the trees began to form patterns, guiding them forwards and backwards, through areas that seemed to double back on themselves.  
+
+The forest was playing tricks on them.
+
+"So... we know the lil cubes are ANGRY."
+
+"THEY HAVE TEETH WHY DO THEY HAVE TEETH" she yelped, cradling herself as she rocked on the ground slightly.
+
+"DON"T ASK ME!" 
+
+As the path ran into a corner, the girls progress through the maze ground to a screeching halt.  Junko spun in circles once or twice, desperate to find a way through as the trees converged into a path too narrow to escape through.  
+
+They were trapped.
+
+"Okay so... no path forward...  What do we do..."
+
+"They're... sugar cubes.  Water dissolves sugar."
+
+"I have a half liter of water from fencing practice."
+
+"My water bottle is empty..."
+
+"Kazuko!"
+
+"*What!*  I always empty it before I get on the bus so I'm not hauling around water!  My backpack is heavy *enough*!"
+
+"Ugh... what else. I have my sabre, but that's not good for *fighting fighting*.
+
+"It's better than my *lack of umbrella...*"
+
+"Right, the umbrella!" she exclaimed, before extending it into a makeshift baton.
+
+"If they get close, bat at 'em with this!"
+
+"And what if I can hit them... I'm not... sporty like you."
+
+"Then just open the umbrella!  It's a shield too!" she grinned as Kazuko's nervousness faded slightly.
+
+"Let's do this." she steeled herself as the cubes rolled in, the jarring thud of their bodies rolling like dice across the surface of the labyrinth.
 
 <!--
 - (a bus drives right into a labyrinth, the weather has them be the only ones on it other than the driver.  they fall asleep to find the front half of the bus eaten off.)
