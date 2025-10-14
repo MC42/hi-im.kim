@@ -65,27 +65,37 @@ The quiet scraping of something in the bus woke Kazuko up, their ride home abrup
 
 "C'mon Kazuko, I was sleep—  Wait, I was _sleeping_ what the..."
 
-Junko stared in disbelief at the front of the bus, the trail of white powder slowly inching towards them making her slightly more than a little uncomfortable.
+Junko stared in disbelief towards the front of the bus, a strange box leaving a trail of white powder slowly inching towards them.  She was, to say the least, a little more than a little uncomfortable.
 
 *It almost looks like... a big sugar cube?*
 
-Junko grabbed her fencing kit and backpack as Kazuko did the same, the girls carefully avoiding the white cuboid that turned to face them as they exited through the "front door" of their transportation.
+Junko grabbed her fencing kit and backpack as Kazuko stood on the seats, the girls carefully avoiding the white cuboid as they advanced towards the front of the bus.  Kazuko would have validated their tickets, had there been a "front door" to depart through; alas. 
 
-They were, distinctly, not in Mitakihara anymore.  The peaceful, if somewhat run down port that the bus ran next to before cutting back inland had been replaced with a jarring landscape of paper trees in bold colors, as discordant chimes from what sounded like a music box continued in the distance.
+She sighed and carefully avoided the jaggged metal edges of the bus, ripped open like a can of sardines.
+
+They were, distinctly, not in Mitakihara anymore.  The peaceful, if somewhat run-down port that the bus ran through before cutting back inland had been replaced rather abruptly.  What once was the odor of fish and diesel had been supplanted by a jarring landscape of paper trees in bold colors, discordant chimes from what sounded like a music box carried on the saccharine winds.
 
 <!-- BGM: <a href="https://www.youtube.com/watch?v=SvG7Fo3xA7U">Umbra Nigra (PMMM Soundtrack)</a> -->
 
 "What... is this place..."
 
-"I... don't know..." Junko responded nervously.  "There isn't a fair or something our bus driver crashed at by accident?"
+"I... don't know..." Junko responded nervously.  "There isn't a fair or something...  Our bus driver didn't crash by accident?"
+
+"Doesn't sound like any heaven I've ever been told about..."
+
+Junko gulped nervously.
+
+"How 'bout the other place?"
+
+"Neither has sugar cubes..."
 
 Neither girl wanted to think about what happened to the bus driver when the front of the bus was seemingly ripped off.
 
-"It must be... keep looking for an exit."
+"Well we must be *somewhere*.  Let's keep looking for an exit."
 
 When they had boarded, it was just them and the bus driver, as was usual for their route home.  Neither girl had expected an adventure, and both desperately wanted an escape.  Instead, as they wandered, all theu found were more sugar cubes.
 
-Their first encounter with the odd geography had been about the size of a cat, seemingly one of thousands as they continued to roam.  Some behind trees, some as stepping stones, all slightly gritty in appearance.  
+Their first encounter with the odd geography had been about the size of a cat, seemingly one of thousands as they continued to roam.  Some cubes were nestled behind trees, some present as stepping stones, all slightly gritty in appearance.  
 
 After what felt like an eternity, the girls wanted to give up.  "This is... too much..." Kazuko insisted, sitting down on the cube nearest to her in dismay.  As her hands brushed against the surface of the cube, she recoiled in horror.
 
