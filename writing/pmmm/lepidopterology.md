@@ -28,7 +28,7 @@ The Clara doll beamed a rickets smile as she summoned her oversized needle.
 
 *Figures... I didn't want to fight anyways.*
 
-As Ibari began her attack, Homura leapt to the side, collapsing in a pile as the doll so eagerly tried to keep pace.
+As [Ibari](https://wiki.puella-magi.net/Rebellion_Material_Book#:~:text=Ibari) began her attack, Homura leapt to the side, collapsing in a pile as the doll so eagerly tried to keep pace.
 
 "Mistress will be easily defeated, so give up!" Ibari declared so confidently, arrogance dripping off of the end of the needle as if a sword blade.  Homura was sure that if the blade so much as touched her, it would kill her.  The blackened needle shone with a polish, glittering colors of emotions she had forgotten so easily.
 
