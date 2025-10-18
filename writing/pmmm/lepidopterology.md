@@ -24,19 +24,21 @@ As she began her attack, Homura leapt to the side, collapsing in a pile as the d
 
 Homura reached into her buckler and produced a gun different to the one she had entered it, her trusty beretta back from beyond the pale.  She squeezed two shots off at the torso of the doll as it dove towards her, the fascimile of a bipedal human not slowed in the slightest by the two jagged holes in its torso.
 
-"Wh-What are you?"  Homura muttered, cradling her bleeding hand the doll ripped the gun out of it.
+"Wh-What are you?"  Homura muttered, cradling her bleeding hand.
 
-"You know what I am." Ibari sneered, before getting frustratingly close to the scared magical girl, and if for a moment, touched her soul gem.
+"You know what I am." Ibari sneered, before getting frustratingly close to the scared magical girl.  The doll slowed down, looking at her with contempt, the loathing not obscured even a bit.  
 
-The doll collapsed, leaving Homura alone as a confused Karina stared on.
+Homura moved quickly and fired at the construction crane overhead, the steel cable snapping in an instant.  The detrius collided with the doll in an instant, the small puddle of something iredescent squirmed across the floor and towards her, puncturing her hand as her soul gem turned darker.
 
-"What was that?" she asked in horror, as Homura looked at her with a steeled look.
+Homura was left alone, a confused Karina watching from a distance as she summoned the doll's needle-sword.
 
-That was one of my familiars."
+"What *was* that?" she asked in horror, as Homura looked back at her through weary eyes.
+
+"That was one of my familiars."
 
 "A familiar?  I don't know what that _is_."
 
-Homura looked at her with the type of weariness only memories could deliver her to.
+Homura looked at her peer with the type of exhaustion only memories could deliver to her.
 
-"I do, and we have a lot of work to do."
+"I do... We have a lot of work to do."
 
