@@ -67,7 +67,7 @@ The quiet scraping of something in the bus woke Kazuko up, their ride home abrup
 
 Junko stared in disbelief towards the front of the bus, a strange box leaving a trail of white powder slowly inching towards them.  She was, to say the least, a little more than a little uncomfortable.
 
-*It almost looks like... a big sugar cube?*
+*It almost looks like... a big sugar cube?* <!-- what else would it look like? -->
 
 Junko grabbed her fencing kit and backpack as Kazuko stood on the seats, the girls carefully avoiding the white cuboid as they advanced towards the front of the bus.  Kazuko would have validated their tickets, had there been a "front door" to depart through; alas. 
 
