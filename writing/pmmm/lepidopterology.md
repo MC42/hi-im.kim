@@ -1,16 +1,18 @@
 The railyard was largely empty, late night service more than suspended in light of the attack months prior; nobody had it in them to mark the service as *truly* extinct yet, and so on the coastline it stayed.  
 
-Karina watched her elder, a meager shadow of her future past self, slowly approach the stranger.  She (?) had refused to identify herself telepathically, but unmistakbly still absolutely *stank* like magical girl.
+Karina watched her elder, a meager shadow of her future past self, slowly approach the stranger.  When they had set out to investigate the irregularity, she had refused to identify herself telepathically.  Nevertheless, the pair remained vigiliant; she still unmistakbly *stank* like magical girl.  
 
-"H-Hello..." Homura mumbled as she nervously approaching the stranger, utterly indifferent as their head remained firmly fixed on the choppy surf of the Mitakihara port.  Her braids were caught in the wind, ignorant to the chill of the fall.  The hooks on the cranes swung in those sympathetic winds, creaking as they waited for a response of any kind.  
-
-Despite the flood lights shining like beacons, the figure before her was bathed in shadow, glittering slightly as those same torches outlined the figure perfectly.  Marionette joints held its limbs together, body contorting as it swiveled around to face her finally.  
+Homura had a nagging feeling of familiarity as she traversed the rails, leaps and bounds covering the dense port with ease.  It didn't feel like a wraith at *all*, and that was itself noteworthy, even if she couldn't place what it *did* remind her of.
 
 *Stay back, Karina.*
 
 *Don't have to tell me twice.*
 
-Homura continued her approach, creeping towards the figure with trepidation, struggling to identify why it was oh so familiar.  If for lack of a better term, her *magic* knew this stranger, and she had no idea why.
+"H-Hello..." Homura mumbled as she nervously approaching the stranger, utterly indifferent as their head remained firmly fixed on the choppy surf of the Mitakihara port.  Her braids were caught in the wind, ignorant to the chill of the fall.  The hooks on the cranes swung in those sympathetic winds, creaking as they waited for a response of any kind.  
+
+Despite the flood lights shining like beacons, the figure before her was bathed in shadow, glittering slightly as those same torches outlined the figure perfectly.  Marionette joints held its limbs together, body contorting as it swiveled around to face her finally.  
+
+Homura continued her approach, creeping towards the figure with trepidation, struggling to identify why it was *oh so familiar.*  If for lack of a better term, her *magic* knew this stranger, and she had no idea why.
 
 *It almost looks like...*
 
@@ -18,11 +20,11 @@ The stranger opened its mouth, a sharp, chittery laughter being let out.  A mech
 
 "Ai has returned!" it babbled at her, malice on its face before being replaced so easily with a warm smile; The smile was more threatening as it continued its tirade.
 
-"No, this is a replica!  A fake, a copy, a sham!" the doll continued, its mouth moving in a discordant harmony with those same raspy whispers as Homura staggered backwards just a few steps.
+"No, this is a replica!  A fake, a copy, a sham!" the doll continued, its mouth moving in a discordant harmony.  Approximate lips followed those same raspy whispers as Homura staggered backwards just a few steps.
 
 The words refused to fit into its mouth, the figure growing more distinct as the shadowy cloak slid off as if oil, replaced with a disconcerting felted texture.
 
-"Wh-what?  I don't know what's going on-"
+"Wh-what?  I don't know what's going on—"
 
 "It's exactly like mistress to think she's back in charge so easily.  Not today!"
 
@@ -38,15 +40,15 @@ Homura was *sure* that if that blade so much as touched her, it would kill her. 
 
 Homura reached into her buckler and produced a gun different to the one she had surrendered to it, her trusty beretta procured with all the bravado of a failed circus.  She squeezed two shots off at the torso of the doll as it dove towards her, the fascimile of a bipedal human not slowed down in the slightest.
 
-"Wh-What are you?"  Homura muttered, cradling her now-bleeding hand.
+"Wh-What are you?"  Homura muttered, cradling her now-bleeding hand as she kicked at the marionette.
 
-"You know *what* I am.  You *made me* what I am!" Ibari sneered, before getting disturbingly close to the scared magical girl.  The doll slowed down as it circled her, Homura's hand trembling.  The doll stared at her with contempt, dispelling any attempt at maintaining the facade.  
+"You know *what* I am.  You *made me* what I am!" Ibari sneered, before getting disturbingly close to the scared magical girl.  She scrambled to her feet, the doll slowing down as it circled her, Homura's hand trembling.  The doll stared at her with contempt, dispelling any attempt at maintaining the facade.  
 
 Exactly what Homura expected from her own arrogance.
 
 She moved quickly to fire at the construction crane overhead, the beretta becoming a pulsed laser weapon again for a moment as the steel cable turned to molten slag.  Homura leapt out of the way in an instant.  The detrius hit the doll like a freight train, crushed completely under the weight as the dust settled.  
 
-Only once she saw that the pile had settled, the rubble not seeming to move for even a moment, did both girls relax.
+Only once she saw that the pile had settled, the rubble not seeming to move an inch, did both girls relax.
 
 Karina began to walk towards her, confusion an unexpected look on her face, as she stopped and pointed.  A small puddle of something iredescent squirmed across the concrete of the port, lurching towards Homura as she turned to run.
 
