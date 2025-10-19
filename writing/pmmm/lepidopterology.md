@@ -70,3 +70,40 @@ Homura looked at her peer with the type of exhaustion only memories could be del
 
 "It's a relic. Something from... before.  We have a *lot* of work to do."
 
+---
+
+"Okay no, stop.  You *cannot be serious right now.  You fought a...a... *thing* that felt like a magical girl, who got crushed under construction debris because your gun can *shapeshift*.  It was made of *felt*!   What the *hell* is going on with you?"
+
+Homura looked at Karina, clearly at the end of her rope, and shrugged.
+
+"It's magic.  Don't expect everything to have a clear answer."
+
+*And even then, would you believe me if I tried to explain that I defeated my own arrogance in a fight?  And that all it afforded me was memories of my own death?*
+
+"Clear answer, my *ass!*  That's not something magical girls *do*!" she balked, stomping towards Homura with an indignance that reminded her of a child.
+
+Karina grabbed Homura's hand, her soul gem still glittering with a subtle sheen that glittered in the floodlights as Homura writhed slightly.
+
+"See, it looks like there's another *layer* in it... on it?  It shot through your hand anyways, are you-" Karina stopped abruptly, realizing that despite clearly seeing the creepy goo punch through her palm, there was hardly a mark on it.
+
+She was *fine*.
+
+"Karina...  there are things in this world I can't explain yet.  It's haunting _me_ in ways I doubt would seem sane."
+
+"Why the hell can't you just *trust someone* for once!"
+
+Homura had no response to her outburst but resignation.  She slumped over slightly and rocked on her feet, as if caught by the port breeze.
+
+"I don't know... I think... I was something else before... before..." she mumbled.
+
+Karina was besides herself.  The esteemed magical girl was flickering between the brilliant figure that was etched into the annals of time and a scared, nervous girl, even as she stood there.
+
+She felt, for the first time since her wife had died, nervous.  She didn't know what to do.
+
+She watched Homura's soul gem, still shining as though she hadn't been in a fight, as short as it was.
+
+Untainted by the slightest hint of despair.
+
+*What would Shannon do?*
+
+She shook her head and wrapped her arm around the nervous girl, walking out of the port in lockstep.  Both were utterly ignorant to the fact her shadow had changed shape.  <!-- --->
