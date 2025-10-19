@@ -64,7 +64,7 @@ Homura looked back at her through weary eyes.
 
 "A familiar?  What even *is that*?"
 
-Homura looked at her peer with the type of exhaustion only memories could deliver to her.
+Homura looked at her peer with the type of exhaustion only memories could be deliverance for.
 
 "It's a relic. Something from... before.  We have a *lot* of work to do."
 
