@@ -54,7 +54,7 @@ The not-quite-liquid shot *through* her hand and stopped just short of her death
 
 Homura was left alone, a confused Karina watching from a distance as that same whisper coaxed to her to be so bold once more.  
 
-Arrogantly, perhaps, she held out her hand and attempted to summon the doll's needle-sword.  That same weapon restedly comfortably in her hand as Karina watched, jaw agape.
+Arrogantly, perhaps, she held out her hand and attempted to summon the doll's needle-sword.  That same weapon rested comfortably in her hand as Karina watched, jaw agape.
 
 "What *was* that?"
 
