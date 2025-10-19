@@ -1,320 +1,330 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <meta name="author" content="Kim Flores" />
+  <title>sous-chef</title>
+  <style>
+    html {
+      color: #1a1a1a;
+      background-color: #fdfdfd;
+    }
+    body {
+      margin: 0 auto;
+      max-width: 36em;
+      padding-left: 50px;
+      padding-right: 50px;
+      padding-top: 50px;
+      padding-bottom: 50px;
+      hyphens: auto;
+      overflow-wrap: break-word;
+      text-rendering: optimizeLegibility;
+      font-kerning: normal;
+    }
+    @media (max-width: 600px) {
+      body {
+        font-size: 0.9em;
+        padding: 12px;
+      }
+      h1 {
+        font-size: 1.8em;
+      }
+    }
+    @media print {
+      html {
+        background-color: white;
+      }
+      body {
+        background-color: transparent;
+        color: black;
+        font-size: 12pt;
+      }
+      p, h2, h3 {
+        orphans: 3;
+        widows: 3;
+      }
+      h2, h3, h4 {
+        page-break-after: avoid;
+      }
+    }
+    p {
+      margin: 1em 0;
+    }
+    a {
+      color: #1a1a1a;
+    }
+    a:visited {
+      color: #1a1a1a;
+    }
+    img {
+      max-width: 100%;
+    }
+    h1, h2, h3, h4, h5, h6 {
+      margin-top: 1.4em;
+    }
+    h5, h6 {
+      font-size: 1em;
+      font-style: italic;
+    }
+    h6 {
+      font-weight: normal;
+    }
+    ol, ul {
+      padding-left: 1.7em;
+      margin-top: 1em;
+    }
+    li > ol, li > ul {
+      margin-top: 0;
+    }
+    blockquote {
+      margin: 1em 0 1em 1.7em;
+      padding-left: 1em;
+      border-left: 2px solid #e6e6e6;
+      color: #606060;
+    }
+    code {
+      font-family: Menlo, Monaco, Consolas, 'Lucida Console', monospace;
+      font-size: 85%;
+      margin: 0;
+      hyphens: manual;
+    }
+    pre {
+      margin: 1em 0;
+      overflow: auto;
+    }
+    pre code {
+      padding: 0;
+      overflow: visible;
+      overflow-wrap: normal;
+    }
+    .sourceCode {
+     background-color: transparent;
+     overflow: visible;
+    }
+    hr {
+      background-color: #1a1a1a;
+      border: none;
+      height: 1px;
+      margin: 1em 0;
+    }
+    table {
+      margin: 1em 0;
+      border-collapse: collapse;
+      width: 100%;
+      overflow-x: auto;
+      display: block;
+      font-variant-numeric: lining-nums tabular-nums;
+    }
+    table caption {
+      margin-bottom: 0.75em;
+    }
+    tbody {
+      margin-top: 0.5em;
+      border-top: 1px solid #1a1a1a;
+      border-bottom: 1px solid #1a1a1a;
+    }
+    th {
+      border-top: 1px solid #1a1a1a;
+      padding: 0.25em 0.5em 0.25em 0.5em;
+    }
+    td {
+      padding: 0.125em 0.5em 0.25em 0.5em;
+    }
+    header {
+      margin-bottom: 4em;
+      text-align: center;
+    }
+    #TOC li {
+      list-style: none;
+    }
+    #TOC ul {
+      padding-left: 1.3em;
+    }
+    #TOC > ul {
+      padding-left: 0;
+    }
+    #TOC a:not(:hover) {
+      text-decoration: none;
+    }
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+  </style>
+</head>
+<body>
+<nav id="TOC" role="doc-toc">
+<ul>
+<li><a href="#sous-chef" id="toc-sous-chef">Sous-Chef</a></li>
+</ul>
+</nav>
 <h2 id="sous-chef">Sous-Chef</h2>
-<p>Akemi Homura was, for lack of a better word, pathetic. She was sure
-that others thought it of her, to say nothing of how she saw herself.
-She had narrowly escaped death on her first day of school, before
-developing a blisteringly parasocial crush and falling right into
-end-of-the-world circumstances. Such was the life of a <em>mahō
-shōjo</em>, she figured.</p>
-<p>“Akemi-san, more tea?” Tomoe Mami smiled, her gracious host utterly
-at ease with the practice. Homura nodded quickly and flashed a smile,
-trying her best to forget how her gunfire sounded. Ever since Homura saw
-Mami kill a past partner, Homura wasn’t sure she could look at her
-confident, collected mentor <em>quite</em> the same way. Her
-once-upon-a-situationship had fallen to the ground, body limp after a
-fatal shot the soul gem as Homura very nearly joined her in the
-afterlife. She was only saved last minute by M—</p>
-<p>Homura was still decently afraid, but mercifully, she was better at
-hiding fear than she was at cooking.</p>
-<p>“Akemi-san, could I ask you to help in the kitchen? Ribbons only go
-so far for free hands.”</p>
-<p>This Mami was, thus far, spared the truth that broke her past-future
-self.</p>
+<p>Akemi Homura was, for lack of a better word, pathetic. She was sure that others thought it of her, to say nothing of how she saw herself. She had narrowly escaped death on her first day of school, before developing a blisteringly parasocial crush and falling right into end-of-the-world circumstances. Such was the life of a <em>mahō shōjo</em>, she figured.</p>
+<p>“Akemi-san, more tea?” Tomoe Mami smiled, her gracious host utterly at ease with the practice. Homura nodded quickly and flashed a smile, trying her best to forget how her gunfire sounded. Ever since Homura saw Mami kill a past partner, Homura wasn’t sure she could look at her confident, collected mentor <em>quite</em> the same way. Her once-upon-a-situationship had fallen to the ground, body limp after a fatal shot the soul gem as Homura very nearly joined her in the afterlife. She was only saved last minute by M—</p>
+<p>Homura was still decently afraid, but mercifully, she was better at hiding fear than she was at cooking.</p>
+<p>“Akemi-san, could I ask you to help in the kitchen? Ribbons only go so far for free hands.”</p>
+<p>This Mami was, thus far, spared the truth that broke her past-future self.</p>
 <p>“O-Of course Mami-san.”</p>
-<p>Mami gestured towards the kitchen as Homura followed suit, stepping
-inside the kitchen alcove to reveal an already simmering stockpot.</p>
-<p>Homura washed her hands before sliding down to the chopping board at
-the “station” next to the sink.</p>
-<p>She picked up the knife and weighed it in her hands. The blade
-glinted in her hands as she surveyed the instrument.</p>
-<p><em>Lighter than a Beretta, more elegant than a Desert Eagle or
-Glock.</em></p>
-<p>A thought shot through her, more instinctual as anything else. Where
-to swing, where to throw, how fast to hurl the blade to strike Mami-san
-down, should she need to.</p>
-<p>“Start with the celery, then the carrots. If you’re feeling bold,
-there’s some melon we can dice up for a treat with lunch tomorrow.”</p>
-<p>She nodded promptly, and moved her shaking fingers to try and protect
-her knuckles. Something she had seen in her cooking of <em>less than
-common</em> substances for her awaiting death at the end of the
-month.</p>
-<p>She dismissed the thought, ashamed of herself. An elegant weapon? No,
-the knife was a requisite tool and <em>nothing else</em>.</p>
-<p><em>At least learning to cook properly might make me a little less
-useless. Madoka can work and I’ll—</em></p>
-<p>She began with the celery and quickly fell into a rhythm, hoping the
-blush on her cheeks faded quickly.</p>
+<p>Mami gestured towards the kitchen as Homura followed suit, stepping inside the kitchen alcove to reveal an already simmering stockpot.</p>
+<p>Homura washed her hands before sliding down to the chopping board at the “station” next to the sink.</p>
+<p>She picked up the knife and weighed it in her hands. The blade glinted in her hands as she surveyed the instrument.</p>
+<p><em>Lighter than a Beretta, more elegant than a Desert Eagle or Glock.</em></p>
+<p>A thought shot through her, more instinctual as anything else. Where to swing, where to throw, how fast to hurl the blade to strike Mami-san down, should she need to.</p>
+<p>“Start with the celery, then the carrots. If you’re feeling bold, there’s some melon we can dice up for a treat with lunch tomorrow.”</p>
+<p>She nodded promptly, and moved her shaking fingers to try and protect her knuckles. Something she had seen in her cooking of <em>less than common</em> substances for her awaiting death at the end of the month.</p>
+<p>She dismissed the thought, ashamed of herself. An elegant weapon? No, the knife was a requisite tool and <em>nothing else</em>.</p>
+<p><em>At least learning to cook properly might make me a little less useless. Madoka can work and I’ll—</em></p>
+<p>She began with the celery and quickly fell into a rhythm, hoping the blush on her cheeks faded quickly.</p>
 <hr />
-<p>Kyoko was crashing on Homura’s couch. Until ten minutes prior to her
-asking, she hadn’t <em>had</em> a couch; mercifully she could
-<em>obtain</em> one quickly. The JSDF staff office had one that was
-seldom used, and it was more likely to be taken as a prank than anything
-else.</p>
+<p>Kyoko was crashing on Homura’s couch. Until ten minutes prior to her asking, she hadn’t <em>had</em> a couch; mercifully she could <em>obtain</em> one quickly. The JSDF staff office had one that was seldom used, and it was more likely to be taken as a prank than anything else.</p>
 <p>Besides, she hadn’t stolen any guns this loop through yet.</p>
 <p>“S-Sorry about the mess.”</p>
-<p>“Beats the street. I’ve had worse when I was at th—” she began,
-cutting herself off as she chomped down onto her Rocky.</p>
+<p>“Beats the street. I’ve had worse when I was at th—” she began, cutting herself off as she chomped down onto her Rocky.</p>
 <p><em>She’s gonna be judgy, isn’t she…</em></p>
-<p>Homura opted to not push her to finish her sentence, or to ask where
-she got the Pocky. She knew rather well that she was between, well,
-everything at the moment.</p>
+<p>Homura opted to not push her to finish her sentence, or to ask where she got the Pocky. She knew rather well that she was between, well, everything at the moment.</p>
 <p>“Oh, Kyoko-san—”</p>
-<p>“Akemi… Y’ don’t need to do the honorific thing. We’re just
-girls.”</p>
+<p>“Akemi… Y’ don’t need to do the honorific thing. We’re just girls.”</p>
 <p>Homura swallowed awkwardly, and resolved to be kinder.</p>
-<p>“I hope you find it comfortable. Blankets are in the small table next
-to the couch.”</p>
-<p>Homura was wearing Mami’s smile, and Kyoko wasn’t sure to be happy or
-concerned. She settled for a disappointed dejection, stomaching that
-Mami roped in another girl to her stupid “defender of justice”
-shtick.</p>
+<p>“I hope you find it comfortable. Blankets are in the small table next to the couch.”</p>
+<p>Homura was wearing Mami’s smile, and Kyoko wasn’t sure to be happy or concerned. She settled for a disappointed dejection, stomaching that Mami roped in another girl to her stupid “defender of justice” shtick.</p>
 <p>“Thanks…”</p>
-<p>The words were scarcely a whisper. She <em>hated</em> saying thank
-you, and needed her to know damn sure she wasn’t a charity case.</p>
+<p>The words were scarcely a whisper. She <em>hated</em> saying thank you, and needed her to know damn sure she wasn’t a charity case.</p>
 <p>“Of course.”</p>
-<p>The two spoke little more as they turned in, Homura unsure just how
-she destroyed her odds of success with this timeline.</p>
-<p>She needed Kyoko; Kyoko did <em>not</em> need her, and she’d happily
-bolt back to Kazamino given the chance.</p>
+<p>The two spoke little more as they turned in, Homura unsure just how she destroyed her odds of success with this timeline.</p>
+<p>She needed Kyoko; Kyoko did <em>not</em> need her, and she’d happily bolt back to Kazamino given the chance.</p>
 <hr />
-<p>Against all odds, Homura woke up to the smell of something cooking;
-The light, buttery aroma of pancakes wafted under her off-balance
-bedroom door.</p>
-<p>“Kyoko.” she said, her voice still hoarse as she tucked her hair
-behind her ear, a far departure from her nominally dignified
-hairband.</p>
+<p>Against all odds, Homura woke up to the smell of something cooking; The light, buttery aroma of pancakes wafted under her off-balance bedroom door.</p>
+<p>“Kyoko.” she said, her voice still hoarse as she tucked her hair behind her ear, a far departure from her nominally dignified hairband.</p>
 <p>“Hm?”</p>
-<p>Kyoko was focused, unlike anything Homura had seen prior. She flipped
-another perfectly browned pancake onto the stack, her concentration not
-broken for a moment.</p>
+<p>Kyoko was focused, unlike anything Homura had seen prior. She flipped another perfectly browned pancake onto the stack, her concentration not broken for a moment.</p>
 <p>“Wh-<em>cough</em>. What <em>are</em> you doing?”</p>
-<p>“Breakfast, <em>duh</em>. I thought y’ were a genius or
-somethin’.”</p>
-<p>“I know that, but <em>why?</em> Surely you’re not going to eat all of
-these yourself?” she asked icredulously, an eyebrow raised at the
-towering pile of flapjacks.</p>
+<p>“Breakfast, <em>duh</em>. I thought y’ were a genius or somethin’.”</p>
+<p>“I know that, but <em>why?</em> Surely you’re not going to eat all of these yourself?” she asked icredulously, an eyebrow raised at the towering pile of flapjacks.</p>
 <p>“Y’let me crash here, ’ts the least I can do.”</p>
-<p>Homura was suprised, the first time Kyoko had offered <em>her</em>
-food. Sure, she’d shared with Mami, with Sayaka, with <em>Madoka</em>
-even. It was a matter of trust, of <em>principle</em> for her.</p>
-<p>Homura summoned a headband from the hammerspace inside her buckler,
-“fixing” her frustratingly orderly hair out of reach of any imprecise
-movements. With poise Kyoko would associate with a monarch (or perhaps a
-corpse), she began to eat.</p>
-<p>“What’s wrong, ice queen? Havent’cha had a homecooked meal
-before?”</p>
+<p>Homura was suprised, the first time Kyoko had offered <em>her</em> food. Sure, she’d shared with Mami, with Sayaka, with <em>Madoka</em> even. It was a matter of trust, of <em>principle</em> for her.</p>
+<p>Homura summoned a headband from the hammerspace inside her buckler, “fixing” her frustratingly orderly hair out of reach of any imprecise movements. With poise Kyoko would associate with a monarch (or perhaps a corpse), she began to eat.</p>
+<p>“What’s wrong, ice queen? Havent’cha had a homecooked meal before?”</p>
 <p>“I… never expected you to be a decent cook.”</p>
-<p>“Y’ well, my parents raised me <em>right</em>. Take care of one
-another, roof over yer head, do unto others, all that stuff.”</p>
-<p>“I can see that.” Homura said plainly, and for once, she meant
-it.</p>
-<p>“When times were good, right after y’know” she began, raising her
-left hand to Homura as she eyed the last of the batter.</p>
-<p>“When times were good, it was a thing the church did to try and keep
-congregants. The idea was easy. If their stomachs were full, their heads
-would be fulla sermons too.”</p>
+<p>“Y’ well, my parents raised me <em>right</em>. Take care of one another, roof over yer head, do unto others, all that stuff.”</p>
+<p>“I can see that.” Homura said plainly, and for once, she meant it.</p>
+<p>“When times were good, right after y’know” she began, raising her left hand to Homura as she eyed the last of the batter.</p>
+<p>“When times were good, it was a thing the church did to try and keep congregants. The idea was easy. If their stomachs were full, their heads would be fulla sermons too.”</p>
 <p>“Did it work?”</p>
-<p>“Nah, not really. Folks didn’t stick around, and well, long term
-wasn’t really a thing after…”</p>
-<p>Neither girl spoke for a moment, Homura decimating another pair of
-pancakes. She promptly retrieved another, the small pat of butter
-sliding gently across the surface.</p>
+<p>“Nah, not really. Folks didn’t stick around, and well, long term wasn’t really a thing after…”</p>
+<p>Neither girl spoke for a moment, Homura decimating another pair of pancakes. She promptly retrieved another, the small pat of butter sliding gently across the surface.</p>
 <p>“I’m sorry, Kyoko-san.”</p>
-<p>“Me too. Now, y’know why <em>I</em> hate the lil’ rat. What’s
-<em>your</em> reason?”</p>
-<p>Homura gulps down the bite of pancake as she stewed on her answer,
-the weight of the world throbbing behind dead eyes as she considered her
-options.</p>
-<p><em>Would she think less of me if it was for her? What if she thinks
-it’s Tomoe-san?</em></p>
-<p>She cuts another bite as she looks down at her plate, her soul gem
-glittering in the morning sunrise.</p>
-<p>“It was for love, wasn’t it? Y’seem the type, a hopeless romantic ’n
-all.”</p>
+<p>“Me too. Now, y’know why <em>I</em> hate the lil’ rat. What’s <em>your</em> reason?”</p>
+<p>Homura gulps down the bite of pancake as she stewed on her answer, the weight of the world throbbing behind dead eyes as she considered her options.</p>
+<p><em>Would she think less of me if it was for her? What if she thinks it’s Tomoe-san?</em></p>
+<p>She cuts another bite as she looks down at her plate, her soul gem glittering in the morning sunrise.</p>
+<p>“It was for love, wasn’t it? Y’seem the type, a hopeless romantic ’n all.”</p>
 <p>Homura thanked her for breakfast, and excused herself.</p>
-<p>She had to prepare for <em>Walpurgisnacht</em>, and being
-<em>friendly</em> with her peercook wouldn’t help her plan missile
-paths.</p>
+<p>She had to prepare for <em>Walpurgisnacht</em>, and being <em>friendly</em> with her peercook wouldn’t help her plan missile paths.</p>
 <hr />
-<p>“So Homura-chan…” Madoka began, not quite sure how to stomach her
-feelings for the girl. She was at times, cold, offputting, and even rude
-to Sayaka-chan.</p>
-<p>But on the other hand… beneath that sadness was a confidence, a
-<em>kindness</em>. It shone through sometimes, when given the chance.
-She was <em>sure</em> of it.</p>
-<p>She shook her head returned her attention to minding the stove as her
-father playing with Tatsuya in the living room.</p>
-<p>Homura sat at the kitchen island, ready to leap into action at a
-moment’s notice. Luckily, <em>okayu</em> was hardly an enemy worth
-fighting.</p>
-<p>“Do you have a favorite cake? Like if it was your birthday, what
-would you like?”</p>
+<p>“So Homura-chan…” Madoka began, not quite sure how to stomach her feelings for the girl. She was at times, cold, offputting, and even rude to Sayaka-chan.</p>
+<p>But on the other hand… beneath that sadness was a confidence, a <em>kindness</em>. It shone through sometimes, when given the chance. She was <em>sure</em> of it.</p>
+<p>She shook her head returned her attention to minding the stove as her father playing with Tatsuya in the living room.</p>
+<p>Homura sat at the kitchen island, ready to leap into action at a moment’s notice. Luckily, <em>okayu</em> was hardly an enemy worth fighting.</p>
+<p>“Do you have a favorite cake? Like if it was your birthday, what would you like?”</p>
 <p>“I have not celebrated my birthday in a <em>very</em> long time.”</p>
 <p>“That’s so sad!” she balked, as her resolve strengthened.</p>
 <p>“I’ll be making you a cake for <em>sure</em> then! When is it?”</p>
-<p>The time traveler felt her gaze soften slightly, obligated to answer
-as she carefully considered her words.</p>
-<p><em>I can’t become too attached to this Madoka… if something goes
-wrong…</em></p>
-<p>“May first.”<a href="#fn1" class="footnote-ref" id="fnref1"
-role="doc-noteref"><sup>1</sup></a></p>
-<p>“That’s so <em>soon!</em> I’ll absolutely make you a cake then! What
-type of cake do you want?”</p>
-<p>“I don’t have strong preferences, truthfully. Any cake is good
-cake.”</p>
+<p>The time traveler felt her gaze soften slightly, obligated to answer as she carefully considered her words.</p>
+<p><em>I can’t become too attached to this Madoka… if something goes wrong…</em></p>
+<p>“May first.”<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a></p>
+<p>“That’s so <em>soon!</em> I’ll absolutely make you a cake then! What type of cake do you want?”</p>
+<p>“I don’t have strong preferences, truthfully. Any cake is good cake.”</p>
 <p><em>Especially if you’re making it.</em></p>
-<p>“Hehe, that’s fair. But if you <em>had to pick</em> a type…” she
-asked pointedly, watching curiously as Homura’s numb, distant gaze was
-brought into the foreground once more.</p>
-<p>“I think I like strawberry.” she said, a faint blush forming on her
-cheeks.</p>
-<p>“I do too.” Madoka smiled, the same smile only <em>she</em> could
-give to Homura.</p>
-<p>To stir the pot while she stirred the pot, Madoka said promptly the
-only thing on her mind.</p>
+<p>“Hehe, that’s fair. But if you <em>had to pick</em> a type…” she asked pointedly, watching curiously as Homura’s numb, distant gaze was brought into the foreground once more.</p>
+<p>“I think I like strawberry.” she said, a faint blush forming on her cheeks.</p>
+<p>“I do too.” Madoka smiled, the same smile only <em>she</em> could give to Homura.</p>
+<p>To stir the pot while she stirred the pot, Madoka said promptly the only thing on her mind.</p>
 <p>“Besides, isn’t cooking for someone kinda like love?”</p>
 <p>Homura’s face matched the hue of Madoka’s hair rather quickly.</p>
-<p>Tatsuya babbled at Tomohisa as he put the boy back on the ground to
-play with his rattle, heading into the kitchen to relieve Madoka from
-her cooking duties.</p>
+<p>Tatsuya babbled at Tomohisa as he put the boy back on the ground to play with his rattle, heading into the kitchen to relieve Madoka from her cooking duties.</p>
 <p>“Can you two play with Tatsuya? I’ll finish up lunch.”</p>
-<p>Madoka turned to the living room to find her guest <del>and
-crush</del> already happily entertaining her brother.</p>
-<p>She felt her heart blossom a little bit more as she joined her on the
-stretch of carpet.</p>
+<p>Madoka turned to the living room to find her guest <del>and crush</del> already happily entertaining her brother.</p>
+<p>She felt her heart blossom a little bit more as she joined her on the stretch of carpet.</p>
 <hr />
-<!-- Should be closer to coolmura. -->
-<p>Homura desperately wished she had goggles. Even with her glasses
-rested firmly in the pocket dimension of her buckler, they would have
-done little to protect her from the barrage.</p>
-<p>The onions were <em>potent</em>, far beyond anything Mami-san had as
-an ingredient in prior loops. She practically lurched when she first
-split one open. But no, Mami had <em>happened</em> across a girl on the
-street and felt it her moral duty to help. And so, they were cooking a
-generous portion of pasta for the girl and her community, damn her
-idealistic heart.</p>
-<p>Homura made quick work of onions and set them to simmer, before
-squeezing in a gratuitous blob of tomato paste.</p>
+<p>Homura desperately wished she had goggles. Even with her glasses rested firmly in the pocket dimension of her buckler, they would have done little to protect her from the barrage.</p>
+<p>The onions were <em>potent</em>, far beyond anything Mami-san had as an ingredient in prior loops. She practically lurched when she first split one open. But no, Mami had <em>happened</em> across a girl on the street and felt it her moral duty to help. And so, they were cooking a generous portion of pasta for the girl and her community, damn her idealistic heart.</p>
+<p>Homura made quick work of onions and set them to simmer, before squeezing in a gratuitous blob of tomato paste.</p>
 <p>“Tomoe-san, I believe the sauce is set for an hour or two.”</p>
-<p>Mami was still deep in the baking process, attempting to make cookies
-as a desert en-masse. Blob after blob of cookie dough sat chilling in
-the fridge, unexpectedly full for the first time in many years.</p>
-<p>Her apartment kitchen may have been luxurious by most standards, but
-her ambitions had it bursting at the seams.</p>
-<p>While washing her hands, Mami couldn’t help but smile at the result
-of her work, sliding the last sheet pan of cookies into the freezer.</p>
-<p>“Sounds like enough time to put on a movie and some tea. Kyoko, would
-you like anything?”</p>
-<p>Homura washed her hands in turn and made her way to the couch, Kyoko
-responding with a dissinterested grunt.</p>
+<p>Mami was still deep in the baking process, attempting to make cookies as a desert en-masse. Blob after blob of cookie dough sat chilling in the fridge, unexpectedly full for the first time in many years.</p>
+<p>Her apartment kitchen may have been luxurious by most standards, but her ambitions had it bursting at the seams.</p>
+<p>While washing her hands, Mami couldn’t help but smile at the result of her work, sliding the last sheet pan of cookies into the freezer.</p>
+<p>“Sounds like enough time to put on a movie and some tea. Kyoko, would you like anything?”</p>
+<p>Homura washed her hands in turn and made her way to the couch, Kyoko responding with a dissinterested grunt.</p>
 <p>“I’ll take that as a <em>no</em> then.”</p>
-<p>“Th’ hell is your deal anyways? Ain’t there some big bad witch comin’
-t’ town? Isn’t like… getting grief seeds more important than yer lil’
-domestic thing?”</p>
-<p>She had a frown on her face, slightly more irate than usual.
-Walpurgisnacht <em>would</em> arrive in eight days; Kyoko was
-<em>right</em>.</p>
-<p>Homura couldn’t help as a twinge of guilt coarsed through her. Kyoko
-was absolutely correct, and she had done little to prepare. She had
-<em>sworn</em> not to rely on anyone else so authoritative, and here she
-was…</p>
+<p>“Th’ hell is your deal anyways? Ain’t there some big bad witch comin’ t’ town? Isn’t like… getting grief seeds more important than yer lil’ domestic thing?”</p>
+<p>She had a frown on her face, slightly more irate than usual. Walpurgisnacht <em>would</em> arrive in eight days; Kyoko was <em>right</em>.</p>
+<p>Homura couldn’t help as a twinge of guilt coarsed through her. Kyoko was absolutely correct, and she had done little to prepare. She had <em>sworn</em> not to rely on anyone else so authoritative, and here she was…</p>
 <p><em>I need this. We both need this. All of us do.</em></p>
-<p>The charity cooking was essential if it kept Tomoe Mami alive long
-enough to fight Walpurgisnacht. If.</p>
-<p>Homura was merely opting to do <em>additional</em> good in the
-process, hopeful about this time flow.</p>
-<p>“Yes. Walpurgisnacht is arriving soon, but cooking helps me collect
-my thoughts. As does food help you with yours.”</p>
-<p>Kyoko grunted in response once more, using her snaggletooth to rip
-open another box of Rocky.</p>
-<p>As Kyoko nestled in to her rut on the couch, Homura swiftly moved to
-avoid a train of thought so ruinous it might still catch her in the
-blast radius. It was a thought so treasonous that it might kill her; The
-very simple idea that she missed her <em>senpai</em>.</p>
-<p>Then again, she knew if she had explained the circumstances that
-Madoka would be supportive. She always was, even if she usually
-contracted afterwards…</p>
+<p>The charity cooking was essential if it kept Tomoe Mami alive long enough to fight Walpurgisnacht. If.</p>
+<p>Homura was merely opting to do <em>additional</em> good in the process, hopeful about this time flow.</p>
+<p>“Yes. Walpurgisnacht is arriving soon, but cooking helps me collect my thoughts. As does food help you with yours.”</p>
+<p>Kyoko grunted in response once more, using her snaggletooth to rip open another box of Rocky.</p>
+<p>As Kyoko nestled in to her rut on the couch, Homura swiftly moved to avoid a train of thought so ruinous it might still catch her in the blast radius. It was a thought so treasonous that it might kill her; The very simple idea that she missed her <em>senpai</em>.</p>
+<p>Then again, she knew if she had explained the circumstances that Madoka would be supportive. She always was, even if she usually contracted afterwards…</p>
 <p><em>It’s not cheating, we’re not even dating!</em></p>
-<p>Homura resolved to ask Madoka for tomatoes from her father’s garden
-next loop, figuring the pasta for her small group of friends would be
-nicer, more personal, more… something.</p>
+<p>Homura resolved to ask Madoka for tomatoes from her father’s garden next loop, figuring the pasta for her small group of friends would be nicer, more personal, more… something.</p>
 <p><em>It’s not quite a dinner date, but—</em></p>
-<p>She took a deep breath on the couch, and enjoyed her stolen
-peace.</p>
+<p>She took a deep breath on the couch, and enjoyed her stolen peace.</p>
 <hr />
-<!-- Very coolmura, actively falling apart. -->
-<p>Homura could scarcely see the floor. The pungent aroma of burning
-filled the kitchen as Tomoe Mami entered with the same grace she always
-did, infuriating and maddening all at once.</p>
+<p>Homura could scarcely see the floor. The pungent aroma of burning filled the kitchen as Tomoe Mami entered with the same grace she always did, infuriating and maddening all at once.</p>
 <p>“O-Oh my. This is quite the mess we’ve gotten, isn’t it?”</p>
 <p>Homura was practically <em>incandescent</em>.</p>
 <p>“I know, do <em>not</em> try to make a point of it.”</p>
-<p>“I… I can clean up if you’re okay with it. Ribbons make light work of
-messes and all that.”</p>
-<p><em>Of course she uses ribbons for it. How is she not more upset I
-downright charred her favorite cookwear?</em></p>
+<p>“I… I can clean up if you’re okay with it. Ribbons make light work of messes and all that.”</p>
+<p><em>Of course she uses ribbons for it. How is she not more upset I downright charred her favorite cookwear?</em></p>
 <p>And then, a moment later.</p>
-<p><em>Did… she really need my help those loops ago? Did she really need
-an assistant, or was she trying to make me stick around?</em></p>
-<p>Homura nodded, her body moving in calculated, precise ways that Mami
-recognized as emotional distancing. She was <em>disassociating.</em></p>
-<p>So she let Homura recede to the couch, occuping as small a spot as
-she could on the far side of the room.</p>
-<p>Mami hummed as she cleaned, a <a
-href="https://www.youtube.com/watch?v=6KfL9DRXHYk">familiar tune</a>
-filling the air.</p>
+<p><em>Did… she really need my help those loops ago? Did she really need an assistant, or was she trying to make me stick around?</em></p>
+<p>Homura nodded, her body moving in calculated, precise ways that Mami recognized as emotional distancing. She was <em>disassociating.</em></p>
+<p>So she let Homura recede to the couch, occuping as small a spot as she could on the far side of the room.</p>
+<p>Mami hummed as she cleaned, a <a href="https://www.youtube.com/watch?v=6KfL9DRXHYk">familiar tune</a> filling the air.</p>
 <p><em>Of course, of course she would.</em></p>
-<p>Mami wasn’t <em>quite</em> sure how to help Homura. Her once-protege
-suddenly becoming a cold, calculated dispatcher of wraiths was firmly
-unexpected, much less her magic <em>changing.</em></p>
-<p>Kyubey commented on the shape of her karma changing, some utter
-claptrap about it being “incompatible with eternal samsara”.</p>
-<p>And now, that same girl was having a breakdown over scorched pans.
-Pans can be <em>scrubbed!</em></p>
-<p><em>This may not end well, but… she speaks so highly of this figure
-in her life. This girl…</em></p>
+<p>Mami wasn’t <em>quite</em> sure how to help Homura. Her once-protege suddenly becoming a cold, calculated dispatcher of wraiths was firmly unexpected, much less her magic <em>changing.</em></p>
+<p>Kyubey commented on the shape of her karma changing, some utter claptrap about it being “incompatible with eternal samsara”.</p>
+<p>And now, that same girl was having a breakdown over scorched pans. Pans can be <em>scrubbed!</em></p>
+<p><em>This may not end well, but… she speaks so highly of this figure in her life. This girl…</em></p>
 <p>“Akemi-san…”</p>
 <p>“Yes?”</p>
 <p>“Can you… tell me about Madoka?”</p>
 <hr />
-<p>The crisp autumn of Mitakihara forced Homura to do something she had
-hardly done in the decade prior; wear a <em>coat</em>. Not that she
-needed one; it was mostly to not draw attention from passers-by.</p>
-<p>She knocked on the door to that oh-so-familiar apartment, a
-curly-haired blonde meeting her at the door before ushering her in.</p>
+<p>The crisp autumn of Mitakihara forced Homura to do something she had hardly done in the decade prior; wear a <em>coat</em>. Not that she needed one; it was mostly to not draw attention from passers-by.</p>
+<p>She knocked on the door to that oh-so-familiar apartment, a curly-haired blonde meeting her at the door before ushering her in.</p>
 <p>“Akemi-san, what brings you here? Is today special somehow?”</p>
 <p>“I… have a favor to ask.”</p>
-<p>“It’s… not about wraiths, is it? Kyoko is back in Kazamino to visit
-her… family.”</p>
+<p>“It’s… not about wraiths, is it? Kyoko is back in Kazamino to visit her… family.”</p>
 <p>“I… want to bake a birthday cake for… for a friend.”</p>
 <p>“Oh, what type of cake?”</p>
-<p>“Strawberry shortcake. Nothing fancy, but… I think she’d like it
-better if friends were involved.”</p>
-<p>The pair of them were quite the dynamic duo in the kitchen. Countless
-successful and failed projects across myriad timelines had taught Homura
-exactly the cadence and intonation needed to keep Tomoe Mami on her
-A-game.</p>
-<p>Mami was merely happy to have company, and that she had recovered
-from the burned pans in the months prior.</p>
-<p>She was so afraid that Homura would leave, just like
-<del>everyone</del> Kyoko-san had. Mercifully, she didn’t seem likely
-to.</p>
-<p>As Homura laid down a small dollop of cream, she gingerly trimmed a
-strawberry and placed it right on the top of the cake, tears forming in
-the corner of her eyes.</p>
-<p>Mami and Kyoko looked on in relief as Homura hummed quietly to
-herself.</p>
-<p>“Happy birthday to you… happy birthday to you… Happy Birthday, dear
-Madoka, happy birthday to you….”</p>
+<p>“Strawberry shortcake. Nothing fancy, but… I think she’d like it better if friends were involved.”</p>
+<p>The pair of them were quite the dynamic duo in the kitchen. Countless successful and failed projects across myriad timelines had taught Homura exactly the cadence and intonation needed to keep Tomoe Mami on her A-game.</p>
+<p>Mami was merely happy to have company, and that she had recovered from the burned pans in the months prior.</p>
+<p>She was so afraid that Homura would leave, just like <del>everyone</del> Kyoko-san had. Mercifully, she didn’t seem likely to.</p>
+<p>As Homura laid down a small dollop of cream, she gingerly trimmed a strawberry and placed it right on the top of the cake, tears forming in the corner of her eyes.</p>
+<p>Mami and Kyoko looked on in relief as Homura hummed quietly to herself.</p>
+<p>“Happy birthday to you… happy birthday to you… Happy Birthday, dear Madoka, happy birthday to you….”</p>
 <p><em>I miss you.</em></p>
 <hr />
-<aside id="footnotes" class="footnotes footnotes-end-of-document"
-role="doc-endnotes">
+<aside id="footnotes" class="footnotes footnotes-end-of-document" role="doc-endnotes">
 <hr />
 <ol>
-<li id="fn1"><p>While Homura has no canon birthday, I enjoy the
-juxtaposition of getting to celebrate Walpurgisnacht’s defeat in more
-ways than one. it especially makes Homura “bright may sunshine” to
-Madoka, a la the Concept Movie.<a href="#fnref1" class="footnote-back"
-role="doc-backlink">↩︎</a></p></li>
+<li id="fn1"><p>While Homura has no canon birthday, I enjoy the juxtaposition of getting to celebrate Walpurgisnacht’s defeat in more ways than one. it especially makes Homura “bright may sunshine” to Madoka, a la the Concept Movie.<a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
 </ol>
 </aside>
+</body>
+</html>
