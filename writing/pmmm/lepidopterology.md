@@ -1,8 +1,8 @@
-The railyard was largely empty, late night service more than suspended in light of the attack months prior; nobody had it in them to mark the service as *truly* extinct yet, and so on the coastline it stayed.  
+The railyard had remained empty, late night service more than suspended in light of the attack months prior.  Nobody *quite* had it in them to mark the service as extinct yet, and so the rails remained largely unridden.  
 
-Karina watched her elder, a meager shadow of her future past self, slowly approach the stranger.  When they had set out to investigate the irregularity, she had refused to identify herself telepathically.  Nevertheless, the pair remained vigiliant; she still unmistakbly *stank* like magical girl.  
+Karina watched her elder, a meager shadow of her future past self, slowly approach the stranger.  When they had set out to investigate the irregularity, she had refused to identify herself telepathically.  Nevertheless, the pair remained vigiliant; she still unmistakibly *stank* like magical girl.  
 
-Homura had a nagging feeling of familiarity as she traversed the rails, leaps and bounds covering the dense port with ease.  It didn't feel like a wraith at *all*, and that was itself noteworthy, even if she couldn't place what it *did* remind her of.
+Homura had a nagging feeling of familiarity as she traversed the rails towards their terminus, leaps and bounds covering the dense port with ease.  It didn't feel like a wraith at *all*, and that was itself noteworthy, even if she couldn't place what it *did* remind her of.
 
 *Stay back, Karina.*
 
@@ -26,7 +26,7 @@ The words refused to fit into its mouth, the figure growing more distinct as the
 
 "Wh-what?  I don't know what's going on—"
 
-"It's exactly like mistress to think she's back in charge so easily.  Not today!"
+"It's exactly like Good-For-Nothing to think she's back in charge so easily.  Not today!"
 
 The Clara doll beamed a rickety smile, summoning her oversized needle.  
 
@@ -106,4 +106,4 @@ Untainted by the slightest hint of despair.
 
 *What would Shannon do?*
 
-She shook her head and wrapped her arm around the nervous girl, walking out of the port in lockstep.  Both were utterly ignorant to the fact her shadow had changed shape.  <!-- --->
+She shook her head and wrapped her arm around the nervous girl, walking out of the port in lockstep.  Neither girl looked at their shadows, ignorant to the fact one of them had changed shape.  <!-- --->
