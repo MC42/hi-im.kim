@@ -1,28 +1,38 @@
 # Akuma
 
-The transfer student nodded quietly as she did her classwork, not ignorant to the fact her peers kept sneaking glances at her while she was focusing on her work.
+The transfer student nodded quietly as she did her classwork, not ignorant to the fact her peers kept sneaking glances.  She was doing her best to be studious, to focus on her work.
 
 *Fifteen, carry the five...*
 
 Some cold corner of her mind spewed insults at her all the same, assuring her she *wanted* to be the center of attention so badly.
 
-*Gold ribbons, gold, what were you thinking?  It's too bold, too flashy, too attention-seeking.  You're not one of those chuunibyos are you?*
+*Gold ribbons; gold, really?  What were you thinking?  Too bold, too flashy, too attention-seeking."
 
 She shook her head and continued with her work.  Intrusive thoughts wouldn't get them done any quicker, unless the nagging of her subconscious was a maths protégé. 
 
-Homura continued to watch her beloved, utterly entranced as she continued through her utterly mundane life.  And what a mundane life it was, careful attention given to her "time in America", to taking up ballet with grace and sophistication.  Homura was hopeful that the story she'd crafted would live up to the brilliant woman she'd get to become.
+*You're not one of those chuunibyos are you?*
 
-If only she had the chance the first time.  Homura permitted her attention to drift from her body in the Mitakihara classroom, only when she felt absolutely confident there were no lingering threats.  Her being able to move through the world like shadow was a fairly recent revalation all the same, and one she was sure she obtained by pure happenstance.
+Homura continued to watch her beloved, utterly entranced as she continued through her utterly mundane life.  And what a mundane life it was, careful attention given to her "time in America", to taking up ballet with grace and sophistication.  
 
-A just universe would never have rewarded her with power for her sin.  A universe with kindness was dead after what she had done.
+She was hopeful that the story she'd crafted would live up to the brilliant woman she'd get to become.  She *had* to have hope.
 
-She sighed quietly, as she summoned her beloved's weapon, an indefinite loan given the circumstances, and got to work.  Somewhere in the American heartlands, she had wraiths to exterminate.
+If only Madoka had the chance to be normal the first time, so many years, so many repeated months ago.  But she gave her all for a cat, and now...
+
+...
+
+Only when Homura felt sufficiently confident there were no lingering threats, Homura permitted her attention to drift.  As her mind departed Mitakihara and crossed the poles, she recounted how foregin this power was to her.  
+
+Being able to move through the world like shadow was a fairly recent revalation, one which she was reluctant to attribute to her better half.  After all, to sneak through space and time like she did so often now was absolutely unbecoming a goddess of her stature.  Then again, she was no longer the Law of Cycles, it existed without her now.
+
+A just universe would *never* have rewarded her with *more power* as a result of her cardinal sin.  A universe with kindness was dead after what she had done.
+
+She sighed quietly as she summoned her beloved's weapon; it was an indefinite loan given the circumstances.  Somewhere in the darkness of night in the American heartlands, she had wraiths to exterminate.
 
 ---
 
-Madoka turned around and found her Homura-chan fallen asleep, and a faint smile spread across her lips.
+Madoka turned around to find Homura asleep, a smile on her face even in her sleep.
 
-She *did* seem tired, after all, no matter what, even when she was elegant or confident, she still seemed... *so tired*.
+Madoka smiled sympathetically, the girl *did* seem tired.  Even when she was elegant or confident (constantly),  she still seemed *so, so tired*.
 
 *Madoka.* 
 
