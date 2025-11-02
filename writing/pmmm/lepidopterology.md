@@ -88,7 +88,11 @@ Karina grabbed Homura's hand, her soul gem still glittering with a subtle sheen 
 
 She was *fine*.
 
-"Karina...  there are things in this world I can't explain yet.  It's haunting _me_ in ways I doubt would seem sane."
+"Karina...  there are things in this world I can't explain."
+
+"Try me."
+
+"No.  Absolutely not, it's haunting _me_ in ways I doubt would seem sane if I tried to explain."
 
 "Why the hell can't you just *trust someone* for once!"
 
