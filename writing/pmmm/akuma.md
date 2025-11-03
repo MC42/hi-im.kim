@@ -1,12 +1,10 @@
-# Akuma
-
 The transfer student nodded quietly as she did her classwork, not ignorant to the fact her peers kept sneaking glances.  She was doing her best to be studious, to focus on her work.
 
 *Fifteen, carry the five...*
 
 Some cold corner of her mind spewed insults at her all the same, assuring her she *wanted* to be the center of attention so badly.
 
-*Gold ribbons; gold, really?  What were you thinking?  Too bold, too flashy, too attention-seeking."
+*Gold ribbons; gold, really?  What were you thinking?  Too bold, too flashy, too attention-seeking.*
 
 She shook her head and continued with her work.  Intrusive thoughts wouldn't get them done any quicker, unless the nagging of her subconscious was a maths protégé. 
 
@@ -50,4 +48,24 @@ Her head spun as if on a swivel as she tried fruitlessly to find the source of t
 
 ---
 
+"So Madoka-" Sayaka began abruptly, waving around a candy from her packed lunch with gusto.
 
+"What did you get up to in America?  Hobbies?  Clubs?  Did you find a *boyfriend*?" she jeered.
+
+"Oh uh.... I started to take ballet classes.  Mama thought it was a good idea, and it's fun, but it's hard."
+
+"So...no boys?" she repeated, her eyes glimmering with excitement as Hitomi watched with curiosity.
+
+"N-No... no boys." she stammered in response, as Sayaka collapsed in her chair with disappointment.
+
+"C'mon, you were gone for *years* and it's like you never left!  No boys, you only took up ballet..."
+
+"Perhaps she was simply focused on her studies, Sayaka?" Hitomi resolved with perfect poise, the sheer confidence on that girl.
+
+"I, uh... yeah.  I guess so."
+
+"Yeah, that's it..." she mumbled in response, looking down at the lunch her father packed her.  The same as always, but different.  A different place, a different rice cooker, a different cut of meat from a different butcher.
+
+Hitomi began to wonder aloud "I wonder if not boys, did you-" before she stopped herself short, letting out a quiet gasp.  Madoka was *crying*.
+
+"Oh shoot, I'm... I'm sorry Madoka, was it-" Sayaka stuttered, shaking slightly at the idea that she was the reason someone she cared so much about was 
