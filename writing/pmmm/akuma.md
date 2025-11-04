@@ -92,16 +92,17 @@ Hitomi began to wonder aloud "I wonder if not boys, did you-" before she stopped
 
 "Nah.  But everyone knows pinky.  You're back a day and already have a gang."
 
-Madoka's face was wash with confusion.   Was she upset with her?  Did she think Madoka was replacing her?
+Madoka's face was wash with confusion.  Was she upset with her?  Did she think Madoka was replacing her?
 
-She reached into her lunchbox and procured a box of Rocky, ripping it open and waving the open end at the pink-haired prodigal daughter.
+The firely interloper reached into her lunchbox and procured a box of Rocky, ripping it open and waving the open end at the pink-haired prodigal daughter.
 
 "Welcome back to Mitakihara, pinky." she smiled, as Madoka took the stick of Rocky with a smile.
 
-"Thank you for the warm welcome, Kyoko-chan!"
+"Thank you for the warm welcome!" she beamed.
 
+---
 
-
+{ thanks for reading! might update, idk.  annoy me on discord.  -k }
 <!-- The clara dolls are her friends. -->
 <!-- the reveal that they're her angel's familiars fees like a messed-up joke, speeds up the crashout. -->
 <!-- Can she recover?  Will she?  -->
