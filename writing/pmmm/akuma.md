@@ -1,34 +1,38 @@
-The transfer student nodded quietly as she did her classwork, not ignorant to the fact her peers kept sneaking glances.  She was doing her best to be studious, to focus on her work.
+The transfer student nodded quietly as she did her classwork, not ignorant to the fact her peers kept sneaking glances.  She was doing her best to be studious, to focus on her work, but even then, she wasn't perfect.
 
 *Fifteen, carry the five...*
 
-Some cold corner of her mind spewed insults at her all the same, assuring her she *wanted* to be the center of attention so badly.
+Some cold corner of her mind spewed insults at her despite the effort, confident in condescention that she *wanted* to be the center of attention..
 
 *Gold ribbons; gold, really?  What were you thinking?  Too bold, too flashy, too attention-seeking.*
 
-She shook her head and continued with her work.  Intrusive thoughts wouldn't get them done any quicker, unless the nagging of her subconscious was a maths protégé. 
+The gentle scribbling of her pencil paused for a moment, burying the thought with practiced precision.  Intrusive thoughts wouldn't get her missed assignments done any quicker unless her subconscious was secretly a math protégé. 
 
 *You're not one of those chuunibyos are you?*
 
-Homura continued to watch her beloved, utterly entranced as she continued through her utterly mundane life.  And what a mundane life it was, careful attention given to her "time in America", to taking up ballet with grace and sophistication.  
+As Madoka continued her math assignment, Homura continued to watch her beloved.  She likened herself to an ornithologist, utterly entranced with the bird in the cage as she continued through her utterly mundane life.  She tried her best to ignore that she was the reason the bird was in the cage, but better trapped than dead she figured.
 
-She was hopeful that the story she'd crafted would live up to the brilliant woman she'd get to become.  She *had* to have hope.
+She hoped she did a good job, after all.  She had given careful attention given to her "time in America", her fake habitat built in the ruins of the real one to the best of her ability, spare that that one deadly detail.  Even the changes made for enrichment seemed to be working, ballet taken up with grace and sophistication.  
 
-If only Madoka had the chance to be normal the first time, so many years, so many repeated months ago.  But she gave her all for a cat, and now...
+She was hopeful that the story she'd crafted, the careful revisions would live up to the expectations and needs of the girl she'd burn the universe for, all in pursuit of her getting to live a normal life.  But then again, she wasn't very experienced as an autor, and the stakes were more than life and death.  
 
-...
+Failure was simply not an option. 
 
-Only when Homura felt sufficiently confident there were no lingering threats, Homura permitted her attention to drift.  As her mind departed Mitakihara and crossed the poles, she recounted how foregin this power was to her.  
+Oh, if only Madoka had the chance to live her life the first time around, so many months ago.  But no, the cotton-handy haired goddess gave her all for a cat with that damn interstellar interloper, and so she became history.
 
-Being able to move through the world like shadow was a fairly recent revalation, one which she was reluctant to attribute to her better half.  After all, to sneak through space and time like she did so often now was absolutely unbecoming a goddess of her stature.  Then again, she was no longer the Law of Cycles, it existed without her now.
+...     
 
-A just universe would *never* have rewarded her with *more power* as a result of her cardinal sin.  A universe with kindness was dead after what she had done.
+Only when Homura felt sufficiently confident there were no lingering threats, she permitted her attention to drift.  As her mind departed Mitakihara and crossed the poles, she couldn't help but recognize how foregin this power was to her.  
 
-She sighed quietly as she summoned her beloved's weapon; it was an indefinite loan given the circumstances.  Somewhere in the darkness of night in the American heartlands, she had wraiths to exterminate.
+Being able to move through the world like shadow was a fairly recent revelation, one which she was reluctant to attribute to her better half.  After all, to sneak through space by folding it like tissue-paper like she did so often now was absolutely unbecoming of a goddess.  Luckily, Homura was no such being, and neither was Madoka now.   She was no longer the Law of Cycles, it existed without her now.
+
+A just universe would *never* have rewarded her with *more power* as a result of her cardinal sin;  A universe with kindness was dead after what she had done.
+
+She sighed quietly as she summoned her beloved's weapon; it was an indefinite loan given the circumstances.  Somewhere in the American heartlands and under cover of night, Akemi Homura drew her bow.  She had wraiths to exterminate.
 
 ---
 
-Madoka turned around to find Homura asleep, a smile on her face even in her sleep.
+Madoka turned around to find Homura asleep, the girl seemingly resolute while asleep, her (cute) face unbothered by anything in her dreams.
 
 Madoka smiled sympathetically, the girl *did* seem tired.  Even when she was elegant or confident (constantly),  she still seemed *so, so tired*.
 
@@ -69,3 +73,8 @@ Her head spun as if on a swivel as she tried fruitlessly to find the source of t
 Hitomi began to wonder aloud "I wonder if not boys, did you-" before she stopped herself short, letting out a quiet gasp.  Madoka was *crying*.
 
 "Oh shoot, I'm... I'm sorry Madoka, was it-" Sayaka stuttered, shaking slightly at the idea that she was the reason someone she cared so much about was 
+
+<!-- The clara dolls are her friends. -->
+<!-- the reveal that they're her angel's familiars fees like a messed-up joke, speeds up the crashout. -->
+<!-- Can she recover?  Will she?  -->
+<!-- Nekura and Pride are there, but they look like normal people (normal magical girls?  Lying about Kyubey?) -->
