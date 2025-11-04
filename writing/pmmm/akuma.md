@@ -12,15 +12,13 @@ The gentle scribbling of her pencil paused for a moment, burying the thought wit
 
 As Madoka continued her math assignment, Homura continued to watch her beloved.  She likened herself to an ornithologist, utterly entranced with the bird in the cage as she continued through her utterly mundane life.  She tried her best to ignore that she was the reason the bird was in the cage, but better trapped than dead she figured.
 
-She hoped she did a good job, after all.  She had given careful attention given to her "time in America", her fake habitat built in the ruins of the real one to the best of her ability, spare that that one deadly detail.  Even the changes made for enrichment seemed to be working, ballet taken up with grace and sophistication.  
+She hoped she did a good job, after all.  She had given careful attention given to her "time in America", her fake habitat built in the ruins of the real one to the best of her ability.  She only omitted that one deadly detail.  Even the changes made for enrichment seemed to be working though, ballet taken up with grace and sophistication.  
 
-She was hopeful that the story she'd crafted, the careful revisions would live up to the expectations and needs of the girl she'd burn the universe for, all in pursuit of her getting to live a normal life.  But then again, she wasn't very experienced as an autor, and the stakes were more than life and death.  
+She was hopeful that the story she'd crafted, the careful revisions would live up to the expectations and needs of the girl she'd burn the universe for.  She hoped so desperately that she could help Madoka to live a normal life.  But then again, she wasn't very experienced as an autor, and the stakes were far higher than life and death. 
 
 Failure was simply not an option. 
 
-Oh, if only Madoka had the chance to live her life the first time around, so many months ago.  But no, the cotton-handy haired goddess gave her all for a cat with that damn interstellar interloper, and so she became history.
-
-...     
+Oh, if only Madoka had the chance to live her life the first time around, oh so many months ago.  Instead, her cotton-handy haired angel had gone and become a goddess, all because of that damn interstellar interloper.  Her soul to save a cat, and the rest was history.  
 
 Only when Homura felt sufficiently confident there were no lingering threats, she permitted her attention to drift.  As her mind departed Mitakihara and crossed the poles, she couldn't help but recognize how foregin this power was to her.  
 
@@ -32,9 +30,9 @@ She sighed quietly as she summoned her beloved's weapon; it was an indefinite lo
 
 ---
 
-Madoka turned around to find Homura asleep, the girl seemingly resolute while asleep, her (cute) face unbothered by anything in her dreams.
+Madoka turned around to find Homura asleep, the girl seemingly resolute even in her dreams.  She had guessed that she might find some respite, but no, apparently not.
 
-Madoka smiled sympathetically, the girl *did* seem tired.  Even when she was elegant or confident (constantly),  she still seemed *so, so tired*.
+Madoka smiled sympathetically, the girl *did* seem tired.  Even when she was confident or elegant (constantly),  she still seemed *so, so tired*.
 
 *Madoka.* 
 
