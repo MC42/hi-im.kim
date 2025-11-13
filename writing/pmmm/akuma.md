@@ -18,7 +18,7 @@ She was hopeful that the story she'd crafted, the careful revisions would live u
 
 Failure was simply not an option. 
 
-Oh, if only Madoka had the chance to live her life the first time around, oh so many months ago.  Instead, her cotton-handy haired angel had gone and become a goddess, all because of that damn interstellar interloper.  Her soul to save a cat, and the rest was history.  
+Oh, if only Madoka had the chance to live her life the first time around, oh so many months ago.  Instead, her cotton-candy haired angel had gone and become a goddess, all because of that damn interstellar interloper.  Her soul to save a cat, and the rest was history.  
 
 Only when Homura felt sufficiently confident there were no lingering threats, she permitted her attention to drift.  As her mind departed Mitakihara and crossed the poles, she couldn't help but recognize how foregin this power was to her.  
 
