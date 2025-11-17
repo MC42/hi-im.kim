@@ -1,7 +1,7 @@
 ## Act 1 - Urban Decay
 
 <!-- 1993 Okushiri earthquake https://en.wikipedia.org/wiki/1993_Okushiri_earthquake?useskin=vector -->
-Kaname Junko <!-- The characters in her first name mean "詢" (to consult with) and "子" (child) respectively.--> *hated* the pouring rain, huddling in the bus stop as she prayed for the next bus to arrive on time.  The area around school was under construction as of late, and despite best efforts, their escapes home tended to be unpredictable at the best of times.
+Kaname Junko <!-- The characters in her first name mean "詢" (to consult with) and "子" (child) respectively.--> *hated* the pouring rain, huddling in the bus stop with her classmate.  Her prayer for the next bus to arrive on time took the form of half-enunciates swears, but Kazuko didn't mind.  The area around school was under construction as of late, and despite best efforts, their escapes home tended to be unpredictable at the best of times.
 
 "It'll either arrive in eight minutes, fifteen, or not at all."
 
@@ -14,15 +14,15 @@ Junko scowled back at Saotome Kazuko, <!-- The characters in her last name mean 
 
 "How was *I* supposed to know a little rain turned into a typhoon!" she yelped, gesturing wildly at the torrent outside of their meager bus shelter.
 
-"Same way as everyone else... listen to the weather report!  Or ask your parents, I don't know!"
+"Same way as everyone else... listen to the weather report!  Or ask your parents, *something!*"
 
-Junko remained silent, sulking quietly as she digested just how *right* she was and how *little* she wanted to admit it.  This back and fourth was emblematic of their friendship, she thought, many assuming the bookish girl to be intelligent and reserved; she was nothing of the sort in the right company.
+Junko remained silent, sulking as she digested just how *right* Kazuko was and how *little* she wanted to admit it.  This back and fourth, knives-out dalogue was emblematic of their friendship, or at least Junko thought so.  Many assumed the bookish girl to be intelligent and reserved; Kazuko scarcely resembled their presumption, doubly so in the wrong company.
 
-And so on their worst days their tempers got the best of them, leading to many a screaming match assuaged by shitty ramen <!-- . o O ( City uncooked-ramen scene but with Junko ) --> and snacks they brought to school that they definitely shouldn't have had.
+When their tempers got the best of them, at the end of it all, they broke bread over sweets and treats.  The practice had their stressors assuaged temporarily by shitty ramen <!-- . o O ( City uncooked-ramen scene but with Junko ) --> and snacks, none of it compliant with rules made "by self-concieted assholes".
 
-Junko *conveniently* forgot to tell her family that the principal <!-- ? --> had called her a delinquent, and Kazuko *conveniently* went home with some reading materials that a girl of her upbringing probably wouldn't have otherwise.  Her parents didn't want her reading anything "indecent", and so she "didn't".
+And so, where Junko *conveniently* forgot to tell her family that the principal <!-- ? --> had called her a delinquent, Kazuko *conveniently* went home with some reading materials that a girl of her upbringing probably wouldn't have otherwise.  Her parents didn't want her reading anything "indecent", and so she "didn't".  
 
-They both cherished their friendship, even if they did still butt heads about boys.
+They had each others backs, and that's what mattered. They both cherished their friendship, even if they did still butt heads about boys.
 
 "So, how was fencing?"
 
@@ -30,9 +30,13 @@ They both cherished their friendship, even if they did still butt heads about bo
 
 "And that means *losing* half your matches?"
 
-"I went 5-3 today!  Take it back or I'll add *you* to my list of defeats!"
+"Who told you that!?  I went 5-3 today!"
 
-A fiendish smile broke out across Kazuko's face, her eyes obscured by the droplets of rain that hit them.
+"So you got your ass kicked too, hm?"
+
+"Take it back or I'll add *you* to my list of defeats!"
+
+A fiendish smile broke out across Kazuko's face, her eyes obscured by the droplets of rain that hit her glasses.
 
 "You wouldn't stab an unarmed woman, would you?"
 
@@ -53,33 +57,35 @@ Kazuko smugly hummed a victory theme as her partner in crime conceded.
 
 "Thank goodness.  I don't want my stuff to get *soggy* in a fight anyways."
 
-"Where the hell *is* this bus anyways?" she muttered, as a beat-up transit bus curled the corner and arrived at the bus stop just in front of the school.  
+"Where the hell *is* this bus anyways?" she muttered, as a beat-up bus slowly curled the corner and arrived at the bus stop just in front of the school.  
 
 "Fucking finally." Kazuko admitted candidly, Junko nodding with a weak recognition.   She was *exhausted*.
+
+The pair collapsed into their seat, and the regular hum of the bus lulled them to sleep.
 
 --- 
 
 The quiet scraping of something in the bus woke Kazuko up, their ride home abruptly coming to a halt.  She fixed her glasses, shaking slightly as she realized that the front of the bus was *gone*.  Not messy, not blurry, *gone*.
 
-"Junko.  Junko, wake up..." she muttered, elbowing her friend nervously as Junko jabbed drowsily back.
+"Junko.  Junko, wake up..." she muttered, elbowing her friend nervously as Junko drowsily jabbed back.
 
-"C'mon Kazuko, I was sleep—  Wait, I was _sleeping_ what the..."
+"C'mon Kazuko, I was sleep—  Wait, I was _sleeping_?   What the..."
 
-Junko stared in disbelief towards the front of the bus, a strange box leaving a trail of white powder slowly inching towards them.  She was, to say the least, a little more than a little uncomfortable.
+Junko stared in disbelief towards the front of the bus, a strange box leaving a trail of white powder as it inched towards them.  She was, to say the least, a little more than a little uncomfortable.
 
-*It almost looks like... a big sugar cube?* <!-- what else would it look like? -->
+*It almost looks like... a sugar cube?* <!-- what else would it look like? -->
 
-Junko grabbed her fencing kit and backpack as Kazuko stood on the seats, the girls carefully avoiding the white cuboid as they advanced towards the front of the bus.  Kazuko would have validated their tickets, had there been a "front door" to depart through; alas. 
+Junko grabbed her fencing kit and backpack as Kazuko stood on the seats, the girls carefully avoiding the white cuboid as they advanced towards the front of the bus.  Kazuko *would* have validated their tickets, had there been a "front door" to depart through; alas. 
 
-She sighed and carefully avoided the jaggged metal edges of the bus, ripped open like a can of sardines.
+She sighed and carefully avoided the jaggged metal edges of the bus, ripped open like a can of fish.  She *really* didn't want to meet the cat that opened their tin-can.
 
-They were, distinctly, not in Mitakihara anymore.  The peaceful, if somewhat run-down port that the bus ran through before cutting back inland had been replaced rather abruptly.  What once was the odor of fish and diesel had been supplanted by a jarring landscape of paper trees in bold colors, discordant chimes from what sounded like a music box carried on the saccharine winds.
+They were, distinctly, not in Mitakihara anymore.  The peaceful, if somewhat run-down port that the bus ran through before cutting back inland had been replaced rather abruptly.  What once was the odor of fish and diesel had been supplanted by a jarring landscape of paper trees in bold colors, discordant chimes from what sounded like a music box, carried on a saccharine wind.
 
 <!-- BGM: <a href="https://www.youtube.com/watch?v=SvG7Fo3xA7U">Umbra Nigra (PMMM Soundtrack)</a> -->
 
 "What... is this place..."
 
-"I... don't know..." Junko responded nervously.  "There isn't a fair or something...  Our bus driver didn't crash by accident?"
+"I... don't know..." Junko responded nervously.  "There isn't a fair or anything...  Our bus driver didn't crash by accident?"
 
 "Doesn't sound like any heaven I've ever been told about..."
 
@@ -87,35 +93,35 @@ Junko gulped nervously.
 
 "How 'bout the other place?"
 
-"Neither has sugar cubes..."
+"Neither has sugar cubes, if I paid attention in bible study anyways."
 
-Neither girl wanted to think about what happened to the bus driver when the front of the bus was seemingly ripped off.
+Neither girl wanted to think about what happened to the bus driver, and so they didn't.  Mortality was not easy to stomach, though the sweets surely would be easier in a bind.
 
-"Well we must be *somewhere*.  Let's keep looking for an exit."
+"Well we must be *somewhere*.  Let's keep looking for an exit, or a sign, or something..."
 
-When they had boarded, it was just them and the bus driver, as was usual for their route home.  Neither girl had expected an adventure, and both desperately wanted an escape.  Instead, as they wandered, all theu found were more sugar cubes.
+When they had boarded, it was just them and the bus driver, as was usual for their route home.  Neither girl had expected an adventure, and both desperately wanted an escape.  Instead, as they wandered, all they found were more sugar cubes and strange trees.
 
-Their first encounter with the odd geography had been about the size of a cat, seemingly one of thousands as they continued to roam.  Some cubes were nestled behind trees, some present as stepping stones, all slightly gritty in appearance.  
+Their first encounter with the native species of this land had been about the size of a cat, seemingly one of thousands as they continued to roam.  Some cubes were nestled behind trees, some present as stepping stones, all slightly gritty in appearance.  
 
 After what felt like an eternity, the girls wanted to give up.  "This is... too much..." Kazuko insisted, sitting down on the cube nearest to her in dismay.  As her hands brushed against the surface of the cube, she recoiled in horror.
 
-The surface had clung to her hands slightly; sticky and saccharine when she had expected coarseness like sandpaper or a rockface.
+The surface had clung to her hands slightly; sticky and saccharine when she had expected coarseness like sandpaper.
 
-"They *are* sugar cubes, what the hell?" she mumbled as she sniffed at her hands, the sugarcube fracturing into pieces underneath her.
+"They *are* sugar cubes, what the hell?" she mumbled as she sniffed at her hands, the sugarcube fracturing into pieces underneath her weight.
 
 Junko leapt back to her feet as Kazuko jumped towards her, her momentary seat yielding jagged teeth where her body had been mere moments prior.
 
-She didn't even have time to yell before Junko kicked the cube onto its side.  The creature writhed on its side, unable to right itself, other cubes nearby responding to the crunching of sucrose teeth and starting to move towards them.  
+She didn't even have time to yell before Kazuko kicked the cube onto its side.  The creature writhed, unable to right itself, other cubes nearby responding to the crunching of sucrose teeth with sympathetic gnashing, heading towards the girls.  
 
-"We *gotta go!*" Junko screamed, the pair running further into the forest, blissfully aware of an interloper.  Perched neatly on the floor beneath a tree with fruit that looked like porcelain, was a beady-eyed cabbit. <!-- the familiar's name is a Sweetooth (or Jakob, inventor of the sugarcube perhaps?), I've decided. -->
+"We *gotta go!*" Junko screamed, the pair running deeper into the pastel forest, blissfully unaware of an interloper.  Perched neatly on the floor beneath a tree with fruit that looked like porcelain, was a beady-eyed cabbit. <!-- the familiar's name is a Sweetooth (or Jakob, inventor of the sugarcube perhaps?), I've decided. -->
 
 ---
 
 As the girls sprinted through the forest, the trees began to form patterns, guiding them forwards and backwards, through areas that seemed to double back on themselves.  
 
-The forest was playing tricks on them.
+The forest itself seemed to be playing tricks on them.
 
-"So... we know the lil cubes are ANGRY."
+"So... we know the lil' cubes are ANGRY."
 
 "THEY HAVE TEETH WHY DO THEY HAVE TEETH" she yelped, cradling herself as she rocked on the ground slightly.
 
@@ -147,9 +153,15 @@ They were trapped.
 
 "And what if I can hit them... I'm not... sporty like you."
 
-"Then just open the umbrella!  It's a shield too!" she grinned as Kazuko's nervousness faded slightly.
+"Then just open the umbrella!  Maybe they'll bounce off!" she grinned as Kazuko's nervousness faded slightly.
 
-"Let's do this." she steeled herself as the cubes rolled in, the jarring thud of their bodies rolling like dice across the surface of the labyrinth.
+It was far from perfect, but neither was their uncanny horror show.  Neither wanted to sate the sugarcubes' craving for something more savoury.  
+
+"Let's do this." she steeled herself as the cubes marched in, the jarring thud of their bodies rolling like dice across the surface of the labyrinth.
+
+----
+
+`To be continued. nag me in discord. -k`
 
 <!--
 - (a bus drives right into a labyrinth, the weather has them be the only ones on it other than the driver.  they fall asleep to find the front half of the bus eaten off.)

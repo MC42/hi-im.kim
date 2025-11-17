@@ -12,7 +12,7 @@ The gentle scribbling of her pencil paused for a moment, burying the thought wit
 
 As Madoka continued her math assignment, Homura continued to watch her beloved.  She likened herself to an ornithologist, utterly entranced with the bird in the cage as she continued through her utterly mundane life.  She tried her best to ignore that she was the reason the bird was in the cage, but better trapped than dead she figured.
 
-She hoped she did a good job, after all.  She had given careful attention given to her "time in America", her fake habitat built in the ruins of the real one to the best of her ability.  She only omitted that one deadly detail.  Even the changes made for enrichment seemed to be working though, ballet taken up with grace and sophistication.  
+She hoped she had done a good job.  She had given careful attention given to her "time in America", her habitat built in the ruins of the real one to the best of her ability.  She only omitted that one deadly detail.  Even the changes made for enrichment seemed to be working though, ballet taken up with grace and sophistication.  
 
 She was hopeful that the story she'd crafted, the careful revisions would live up to the expectations and needs of the girl she'd burn the universe for.  She hoped so desperately that she could help Madoka to live a normal life.  But then again, she wasn't very experienced as an autor, and the stakes were far higher than life and death. 
 
@@ -56,7 +56,7 @@ Her head spun as if on a swivel as she tried fruitlessly to find the source of t
 
 "Oh uh.... I started to take ballet classes.  Mama thought it was a good idea, and it's fun, but it's hard."
 
-"So elegant, so *regal!* Sayaka pantomimed, as Madoka giggled at the silly pose.  Just like Sayaka, like she never left.
+"So elegant, so *regal!* Sayaka pantomimed, as Madoka giggled at the silly pose.  Just like Sayaka; like she never left.
 
 "Okay but..." Sayaka poised, eyebrows waggling.
 
@@ -68,7 +68,7 @@ Her eyes glimmering with excitement,  Hitomi watching with mute curiosity.  Was 
 
 "C'mon, you were gone for *years* and it's like you never left!  You only took up ballet... No boys, please tell me you at least got to see the sights!"
 
-"Perhaps she was simply focused on her studies, Sayaka?" Hitomi resolved with perfect poise, the sheer ego on that girl.
+"Perhaps she was simply focused on her studies, Sayaka?  The language barrier surely provided some difficulty.  " Hitomi resolved with perfect poise, the sheer ego on that girl.
 
 "Oh... yeah I guess that makes sense.  Your family was there for your Mom's work, right..."
 
@@ -90,20 +90,42 @@ Hitomi began to wonder aloud "I wonder if not boys, did you-" before she stopped
 
 "Oh h-hi.  I don't think we've met yet." Madoka said warmly, the peeved look on Kyoko's face fading slightly.
 
-"Nah.  But everyone knows pinky.  You're back a day and already have a gang."
+"Nah.  But everyone knows you pinky.  You're back a day and already have yer gang back together."
 
 Madoka's face was wash with confusion.  Was she upset with her?  Did she think Madoka was replacing her?
 
 The firely interloper reached into her lunchbox and procured a box of Rocky, ripping it open and waving the open end at the pink-haired prodigal daughter.
 
-"Welcome back to Mitakihara, pinky." she smiled, as Madoka took the stick of Rocky with a smile.
+"Welcome back to Mitakihara." she grinned toothily, Madoka taking the stick of Rocky with a smile.
 
 "Thank you for the warm welcome!" she beamed.
 
 ---
 
-{ thanks for reading! might update, idk.  annoy me on discord.  -k }
+[ madoka at her new ballet class, her father watching with Tatsuya as he plays idly. ]
+[ she's going through warmups, trying to make friends but being ignored.]
+[ one of the girls, (Wagamama) tries to have her all to herself, she recedes a little. ]
+[ Mie (show-off) fights with her, until their instructor gives a stern look, and they stop. ]
+[ Madoka goes through the opening motions of... I want to say Swan Lake.  stereotype, maybe.  Misdirection, maybe. ]
+[ she nearly passes out, doesn't know why.  mirror to Homura's ep10 collapse in sports. ]
+[ Completely unaware Homura just used her finisher across the planet. ]
+[ Madoka doesn't remember much of the rest of the class, her memory seemingly spotty. ]
+
+---
+
+( Should this section be here?) 
+
+[ Mami fighting wraiths, using ribbons cleverly. Kyoko shows up, they reflexively do something ]
+
+
 <!-- The clara dolls are her friends. -->
 <!-- the reveal that they're her angel's familiars fees like a messed-up joke, speeds up the crashout. -->
 <!-- Can she recover?  Will she?  -->
 <!-- Nekura and Pride are there, but they look like normal people (normal magical girls?  Lying about Kyubey?) -->
+<!-- Homura witch kisses Madoka by accident, she becomes entirely disinterested in her.   -->
+<!-- "I am a Devil, she shouldn't love me" + "You were part of something greater", turns into -->
+<!-- "Better to reign in hell than serve in heaven." -- John Milton -->
+<!-- She crashes out faster. Homura decides to go to the law. -->
+<!-- Gretchen is there, as the "law" she abandoned.  She agrees to return and make Madoka whole. -->
+<!-- her idea of whole is at least a little different. -->
+<!-- She resets Homura's world, they swap places again.  Cue Tatsuya playing with Ulla -->
