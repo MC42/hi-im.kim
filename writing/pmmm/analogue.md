@@ -1,4 +1,7 @@
+
 ## Act 1 - Urban Decay
+
+---
 
 <!-- 1993 Okushiri earthquake https://en.wikipedia.org/wiki/1993_Okushiri_earthquake?useskin=vector -->
 Kaname Junko <!-- The characters in her first name mean "詢" (to consult with) and "子" (child) respectively.--> *hated* the pouring rain, huddling in the bus stop with her classmate.  Her prayer for the next bus to arrive on time took the form of half-enunciates swears, but Kazuko didn't mind.  The area around school was under construction as of late, and despite best efforts, their escapes home tended to be unpredictable at the best of times.
@@ -18,7 +21,7 @@ Junko scowled back at Saotome Kazuko, <!-- The characters in her last name mean 
 
 Junko remained silent, sulking as she digested just how *right* Kazuko was and how *little* she wanted to admit it.  This back and fourth, knives-out dalogue was emblematic of their friendship, or at least Junko thought so.  Many assumed the bookish girl to be intelligent and reserved; Kazuko scarcely resembled their presumption, doubly so in the wrong company.
 
-When their tempers got the best of them, at the end of it all, they broke bread over sweets and treats.  The practice had their stressors assuaged temporarily by shitty ramen <!-- . o O ( City uncooked-ramen scene but with Junko ) --> and snacks, none of it compliant with rules made "by self-concieted assholes".
+When their tempers got the best of them, at the end of it all, they broke bread over sweets and treats.  The practice had their stressors assuaged temporarily by shitty ramen <!-- . o O ( City uncooked-ramen scene but with Junko ) --> and snacks, none of it compliant with rules made by "self-concieted assholes".
 
 And so, where Junko *conveniently* forgot to tell her family that the principal <!-- ? --> had called her a delinquent, Kazuko *conveniently* went home with some reading materials that a girl of her upbringing probably wouldn't have otherwise.  Her parents didn't want her reading anything "indecent", and so she "didn't".  
 
@@ -77,7 +80,7 @@ Junko stared in disbelief towards the front of the bus, a strange box leaving a 
 
 Junko grabbed her fencing kit and backpack as Kazuko stood on the seats, the girls carefully avoiding the white cuboid as they advanced towards the front of the bus.  Kazuko *would* have validated their tickets, had there been a "front door" to depart through; alas. 
 
-She sighed and carefully avoided the jaggged metal edges of the bus, ripped open like a can of fish.  She *really* didn't want to meet the cat that opened their tin-can.
+She sighed and carefully avoided the jaggged metal edges of the bus, ripped open like a can of fish;  She *really* didn't want to meet the cat that opened theirride like sardines.
 
 They were, distinctly, not in Mitakihara anymore.  The peaceful, if somewhat run-down port that the bus ran through before cutting back inland had been replaced rather abruptly.  What once was the odor of fish and diesel had been supplanted by a jarring landscape of paper trees in bold colors, discordant chimes from what sounded like a music box, carried on a saccharine wind.
 
@@ -85,7 +88,9 @@ They were, distinctly, not in Mitakihara anymore.  The peaceful, if somewhat run
 
 "What... is this place..."
 
-"I... don't know..." Junko responded nervously.  "There isn't a fair or anything...  Our bus driver didn't crash by accident?"
+"I... don't know..." Junko responded nervously.  "There isn't a fair or anything...  Our bus driver didn't crash or something?"
+
+She surveyed the technicolor landscape and shook her head.  
 
 "Doesn't sound like any heaven I've ever been told about..."
 
@@ -93,13 +98,19 @@ Junko gulped nervously.
 
 "How 'bout the other place?"
 
-"Neither has sugar cubes, if I paid attention in bible study anyways."
+"Neither has construction paper trees or dog-sized sugar cubes.... if I paid attention in bible study anyways."
 
-Neither girl wanted to think about what happened to the bus driver, and so they didn't.  Mortality was not easy to stomach, though the sweets surely would be easier in a bind.
+Neither girl wanted to think about what happened to the bus driver, and so they didn't.  Mortality was not easy to stomach, though the sweets surely would be easier to in a bind.
 
 "Well we must be *somewhere*.  Let's keep looking for an exit, or a sign, or something..."
 
 When they had boarded, it was just them and the bus driver, as was usual for their route home.  Neither girl had expected an adventure, and both desperately wanted an escape.  Instead, as they wandered, all they found were more sugar cubes and strange trees.
+
+As the girls traversed the landscape, every mistake or error compounded, as the many limbs of the world conspired to nip at them.  The bark of the trees may have yielded like felt, but it was still too stiff to push aside when they hit a dead-end.  The leaves were made of something like construction paper, burning as it cut gashes into their skin; she almost wished it was an ivy or nettles.  Least of all was the strange sugar cubes, replacing the terrain where rocks and pebbles might be, all while it seemed coarser and stiffer than any sugar cube she'd ever added to tea before.  Then again, sugar cubes had no place in macha, and the pair of girls had no place in this strange, repulsive world that so clearly hated them.  
+
+The sky itself even refused to hint at the passage of time, a thick haze casting the world into a perpetual twilight.  And so, rather confidently, Junko concluded aloud that the world must hate them.  Worse yet, in a moment of startling harmony, Kazuko agreed with her.
+
+"Sure feels that way."
 
 Their first encounter with the native species of this land had been about the size of a cat, seemingly one of thousands as they continued to roam.  Some cubes were nestled behind trees, some present as stepping stones, all slightly gritty in appearance.  
 
