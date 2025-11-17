@@ -148,7 +148,7 @@ They were trapped.
 
 "They're... sugar cubes.  Water dissolves sugar."
 
-"I have a half liter of water from fencing practice."
+"I have a half liter of water from fencing practice." she declared triumphantly, her reaction tempered by the realization that might defeat *one* sugar cube, not thousands.
 
 "My water bottle is empty..."
 
@@ -156,11 +156,11 @@ They were trapped.
 
 "*What!*  I always empty it before I get on the bus so I'm not hauling around water!  My backpack is heavy *enough*!"
 
-"Ugh... what else. I have my sabre, but that's not good for *fighting fighting*.
+"Ugh... what else do we have? I have my sabre, but that's not good for, y'know, *fighting fighting*.
 
-"It's better than my *lack of umbrella...*"
+"It's better than a *lack of umbrella...*"
 
-"Right, the umbrella!" she exclaimed, before extending it into a makeshift baton.
+"Right, the umbrella!" Kazuko exclaimed, before extending it into a makeshift baton.
 
 "If they get close, bat at 'em with this!"
 
