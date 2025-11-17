@@ -104,19 +104,21 @@ Neither girl wanted to think about what happened to the bus driver, and so they 
 
 "Well we must be *somewhere*.  Let's keep looking for an exit, or a sign, or something..."
 
-When they had boarded, it was just them and the bus driver, as was usual for their route home.  Neither girl had expected an adventure, and both desperately wanted an escape.  Instead, as they wandered, all they found were more sugar cubes and strange trees.
+When they had boarded, it was just them and the bus driver, as was usual for their route home.  Neither girl had expected an adventure, and both desperately wanted an escape.  Instead, as they wandered, all they found were more oddities.
 
-As the girls traversed the landscape, every mistake or error compounded, as the many limbs of the world conspired to nip at them.  The bark of the trees may have yielded like felt, but it was still too stiff to push aside when they hit a dead-end.  The leaves were made of something like construction paper, burning as it cut gashes into their skin; she almost wished it was an ivy or nettles.  Least of all was the strange sugar cubes, replacing the terrain where rocks and pebbles might be, all while it seemed coarser and stiffer than any sugar cube she'd ever added to tea before.  Then again, sugar cubes had no place in macha, and the pair of girls had no place in this strange, repulsive world that so clearly hated them.  
+Each step forward felt like two steps back, every mistake or error compounding as the many limbs of the world conspired to nip at them.  
 
-The sky itself even refused to hint at the passage of time, a thick haze casting the world into a perpetual twilight.  And so, rather confidently, Junko concluded aloud that the world must hate them.  Worse yet, in a moment of startling harmony, Kazuko agreed with her.
+The bark of the trees may have yielded like felt, but it was still too stiff to push aside when they hit a dead-end.  The leaves were made of something like construction paper, burning as it cut gashes into their skin; she almost wished it was an ivy or nettles.  Least of all was the strange sugar cubes, replacing the terrain where rocks and pebbles might be, all while it seemed coarser and stiffer than any sugar cube she'd ever added to tea before.  Then again, sugar cubes had no place in macha, and the pair of girls had no place in this strange, repulsive world that so clearly hated them.  
+
+The sky itself obscured the passage of time as minutes stretched into hours, a thick haze casting the world into a perpetual twilight.  And so, rather confidently, Junko concluded aloud that the world must hate them.  Worse yet, in a moment of startling harmony, Kazuko agreed with her.
 
 "Sure feels that way."
 
-Their first encounter with the native species of this land had been about the size of a cat, seemingly one of thousands as they continued to roam.  Some cubes were nestled behind trees, some present as stepping stones, all slightly gritty in appearance.  
+Their first encounter with the native species of this land had been about the size of a cat, seemingly one of thousands as they continued to roam.  While they had seen stationary and slow moving sugar cubes to this point, they seemed harmless enough; how they were wrong.  
 
-After what felt like an eternity, the girls wanted to give up.  "This is... too much..." Kazuko insisted, sitting down on the cube nearest to her in dismay.  As her hands brushed against the surface of the cube, she recoiled in horror.
+"This is... too much..." Kazuko insisted, sitting down on the cube nearest to her in dismay.  As her hands brushed against the surface of the cubeoid she recoiled in horror.
 
-The surface had clung to her hands slightly; sticky and saccharine when she had expected coarseness like sandpaper.
+The glittering surface had clung to her hands slightly; a saccharine layer peeling off when she had expected coarseness like sandpaper.
 
 "They *are* sugar cubes, what the hell?" she mumbled as she sniffed at her hands, the sugarcube fracturing into pieces underneath her weight.
 
