@@ -4,7 +4,7 @@
 ---
 
 <!-- 1993 Okushiri earthquake https://en.wikipedia.org/wiki/1993_Okushiri_earthquake?useskin=vector -->
-Kaname Junko <!-- The characters in her first name mean "詢" (to consult with) and "子" (child) respectively.--> *hated* the pouring rain, huddling in the bus stop with her classmate.  Her prayer for the next bus to arrive on time took the form of half-enunciates swears, but Kazuko didn't mind.  The area around school was under construction as of late, and despite best efforts, their escapes home tended to be unpredictable at the best of times.
+Kaname Junko <!-- The characters in her first name mean "詢" (to consult with) and "子" (child) respectively.--> *hated* the pouring rain, huddling in the bus stop with her classmate.  Her prayer for the next bus to arrive on time took the form of half-enunciated swears, but Kazuko didn't mind.  The area around school was under construction as of late, and despite best efforts, their escapes home tended to be unpredictable at the best of times.
 
 "It'll either arrive in eight minutes, fifteen, or not at all."
 
@@ -78,13 +78,13 @@ Junko stared in disbelief towards the front of the bus, a strange box leaving a 
 
 *It almost looks like... a sugar cube?* <!-- what else would it look like? -->
 
-Junko grabbed her fencing kit and backpack as Kazuko stood on the seats, the girls carefully avoiding the white cuboid as they advanced towards the front of the bus.  Kazuko *would* have validated their tickets, had there been a "front door" to depart through; alas. 
+Junko grabbed her fencing kit and schoolbag as Kazuko stood on the seats, the girls carefully avoiding the white cuboid as they advanced towards the front of the bus.  Kazuko *would* have validated their tickets, had there been a "front door" to depart through; alas. 
 
 She sighed and carefully avoided the jaggged metal edges of the bus, ripped open like a can of fish;  She *really* didn't want to meet the cat that opened theirride like sardines.
 
 They were, distinctly, not in Mitakihara anymore.  The peaceful, if somewhat run-down port that the bus ran through before cutting back inland had been replaced rather abruptly.  What once was the odor of fish and diesel had been supplanted by a jarring landscape of paper trees in bold colors, discordant chimes from what sounded like a music box, carried on a saccharine wind.
 
-<!-- BGM: <a href="https://www.youtube.com/watch?v=SvG7Fo3xA7U">Umbra Nigra (PMMM Soundtrack)</a> -->
+<!-- BGM: <a href="https://www.youtube.com/watch?v=SvG7Fo3xAcd7U">Umbra Nigra (PMMM Soundtrack)</a> -->
 
 "What... is this place..."
 
@@ -154,7 +154,7 @@ They were trapped.
 
 "Kazuko!"
 
-"*What!*  I always empty it before I get on the bus so I'm not hauling around water!  My backpack is heavy *enough*!"
+"*What!*  I always empty it before I get on the bus so I'm not hauling around water!  My bag is heavy *enough*!"
 
 "Ugh... what else do we have? I have my sabre, but that's not good for, y'know, *fighting fighting*.
 
@@ -164,7 +164,7 @@ They were trapped.
 
 "If they get close, bat at 'em with this!"
 
-"And what if I can hit them... I'm not... sporty like you."
+"And what if I can't hit them... I'm not... sporty like you."
 
 "Then just open the umbrella!  Maybe they'll bounce off!" she grinned as Kazuko's nervousness faded slightly.
 
