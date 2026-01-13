@@ -1,6 +1,6 @@
 
 <head>
-  <title>madoka witch rune trainer </title>
+  <title>loop tracker ⏳</title>
    <meta charset="utf-8"> 
 </head>
 <script>
@@ -8,26 +8,42 @@
     function recalculate_loops() {
         var loop_start = document.getElementById("loop_start");
         var loop_length = document.getElementById("loop_length");
+        var concept_movie = document.getElementById("concept_movie_in_chiyoda");
 
         const oneDay = 24 * 60 * 60 * 1000; //
         var date_obj = new Date(loop_start.value).getTime();
         var now = Date.now();
+        var concept_movie_date = new Date(concept_movie.value).getTime();
 
         var diffDays = Math.round(Math.abs((date_obj - now) / oneDay));
-
-        console.log(diffDays);
+        var conceptMovieAgo = Math.round(Math.abs((concept_movie_date - now) / oneDay));
+        //console.log(diffDays);
 
         var loopsie = diffDays / (loop_length.value);
+        var concept_movie_loops = conceptMovieAgo / (loop_length.value);
 
         console.log(loopsie)
 
         var ending = document.getElementById("loop_count").innerHTML = loopsie;
+        var concept_loop_output = document.getElementById("concept_movie").innerHTML = concept_movie_loops;
     }
 </script>
 <body>
-<h3>How many loops has it been?</h3>
+<input type="date" id="concept_movie_in_chiyoda" value="2015-11-27" hidden>
 
+<h3>How many loops has it been?</h3>
+<p>
 With the assumption that each loop is <input type="number" onchange="recalculate_loops()" value="32" id="loop_length"></input> days long, and the loops started on <input onchange="recalculate_loops()" type="date" id="loop_start" value="2011-03-16">, then Homura has made <h2 id="loop_count"></h2> loops since then.
+</p>
+<p>
+(The Concept Movie was released <span id="concept_movie"></span> loops ago btw)
+
+</p>
+<hr>
+<ul>
+    <li><a href="https://wiki.puella-magi.net/Puella_Magi_Madoka_Magica:_scene0">scene0</a> has loop length @ 32 days.</li>
+    <li>Most fans assume it starts on March 16th <a href="https://images.puella-magi.net/4/4c/Ep10-calendar.jpg">based on Episode 10</a>, and ends on <a href="https://wiki.puella-magi.net/Community:Walpurgis_Night_In_Real_Life#Walpurgis_Night_in_Real_Life">Walpurgisnacht</a> (April 30th), for a total of six nominal weeks (42 days)</li>
+</ul></p>
 <script>
     recalculate_loops();
 </script>
