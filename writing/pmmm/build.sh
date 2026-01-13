@@ -1,4 +1,4 @@
-#!/bin/bash
+#! /usr/bin/env bash
 
 for file_name in ./*.md ; do
     pandoc $file_name -s --metadata author="Kim Flores" --toc --strip-comments --wrap=none -o "${file_name%.md}.html"

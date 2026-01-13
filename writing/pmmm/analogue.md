@@ -1,4 +1,22 @@
 
+## Act 0 - Interloper
+
+She was swaying, side to side to side, the world swimming around her.  Junko was, against all odds, still standing.  She had stomached something properly nasty, all because *he* went ahead and bet her; he bet her!  The whiskey was more alcohol than additives, it stank, it burned, and she got down two more glasses than that, that, that, *boy*.  She tried to bury the thought and the bile in the same move, managing both in parts.  She already knew she'd be tasting the lack-of-impurities on the way back up, but the agony of the expulsion wouldn't let her remember it when the time came.  
+
+It just wasn't that time yet.   
+
+*Fucking hell, this guy...*
+
+She had tolerated him with the same tolerance he had for alcohol; Their date ended early.
+
+Why did she even *bother?*
+
+Heels in hand, she continued her prison march back home, praying in bated breath that her parents would be passed the fuck out by then.  If not, she'd regret more than just her crappy date.  At least she got her *hic* alcohol tolerance from her parents
+
+She got the last train for the night; barely. As she stood on the platform, wind whipping at her, she saw the strange stuffed animal across the platform.  A white plush of some mascot... thingee.  She wasn't sure, but she wasn't sure of anything now.
+
+*Aw, it's so sad and alone...*
+
 ## Act 1 - Urban Decay
 
 ---
@@ -70,7 +88,7 @@ The pair collapsed into their seat, and the regular hum of the bus lulled them t
 
 The quiet scraping of something in the bus woke Kazuko up, their ride home abruptly coming to a halt.  She fixed her glasses, shaking slightly as she realized that the front of the bus was *gone*.  Not messy, not blurry, *gone*.
 
-"Junko.  Junko, wake up..." she muttered, elbowing her friend nervously as Junko drowsily jabbed back.
+"Junko.  Junko, wake up..." she muttered, elbowing her as Junko drowsily jabbed back.
 
 "C'mon Kazuko, I was sleep—  Wait, I was _sleeping_?   What the..."
 
@@ -174,9 +192,30 @@ It was far from perfect, but neither was their uncanny horror show.  Neither wan
 
 ----
 
-`To be continued. nag me in discord. -k`
+As Kazuko swung the umbrella like a baseball bat, the inner structure crumpled in an instant. The girl let out a sympathetic whimper as the metallic tube sheared off at the handle.  She made a gesture at Junko, grabby-hands grabbing her attention as she began working her way towards her peer.
+
+*Because I don't have enought o deal with... *
+
+One cuboid lunged at her as though some oversized insect, saved only at the last minute with a twitch response.  The accidental move left the would-be attacker skewered on her sabre, letting out a sharp whistling as it crumbled to the ground.  
+
+The unpunctured fist-sized chunks continued to dissolve, but she had bigger problems; her sword was bent, it was never intended for *real* combat anyways.
+
+"Ah, fuck..." she let out sharply, ripping open the hardcase and shoving the blade inside.
+
+*If the sabre won't do...  Maybe the case will!* 
+
+Kazuko let out a little yelp, kicking at the scuttling cubes as her assailants tore at her stockings.  They clawed and gnawed, crystalline teeth eager to make work of something more tender.
+
+She was *horrified*.  She wouldn't be for long; not of the cubes anyways.
+
+Junko was covered in powdered sugar before not too long, panting heavily as the last lingering cube was reduced to a crumbly powder.
+
+"Ha... ha!" she panted, her school blazer ripped with visible teethmarks.  She was *exhausted*, barely managing to keep Kazuko safe.  But she did it, and she was damned proud.
 
 <!--
+
+[ Naoko rolls up in the distance and in an instant]
+
 - (a bus drives right into a labyrinth, the weather has them be the only ones on it other than the driver.  they fall asleep to find the front half of the bus eaten off.)
 - Saotome wants _nothing_ to do with it but apparently has a knack for nearly getting killed.  
 - Junko just keeps her foil on her, better than nothing.  It gets enchanted.  

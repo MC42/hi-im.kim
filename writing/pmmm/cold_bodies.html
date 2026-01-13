@@ -1,0 +1,277 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <meta name="author" content="Kim Flores" />
+  <title>cold_bodies</title>
+  <style>
+    html {
+      color: #1a1a1a;
+      background-color: #fdfdfd;
+    }
+    body {
+      margin: 0 auto;
+      max-width: 36em;
+      padding-left: 50px;
+      padding-right: 50px;
+      padding-top: 50px;
+      padding-bottom: 50px;
+      hyphens: auto;
+      overflow-wrap: break-word;
+      text-rendering: optimizeLegibility;
+      font-kerning: normal;
+    }
+    @media (max-width: 600px) {
+      body {
+        font-size: 0.9em;
+        padding: 12px;
+      }
+      h1 {
+        font-size: 1.8em;
+      }
+    }
+    @media print {
+      html {
+        background-color: white;
+      }
+      body {
+        background-color: transparent;
+        color: black;
+        font-size: 12pt;
+      }
+      p, h2, h3 {
+        orphans: 3;
+        widows: 3;
+      }
+      h2, h3, h4 {
+        page-break-after: avoid;
+      }
+    }
+    p {
+      margin: 1em 0;
+    }
+    a {
+      color: #1a1a1a;
+    }
+    a:visited {
+      color: #1a1a1a;
+    }
+    img {
+      max-width: 100%;
+    }
+    h1, h2, h3, h4, h5, h6 {
+      margin-top: 1.4em;
+    }
+    h5, h6 {
+      font-size: 1em;
+      font-style: italic;
+    }
+    h6 {
+      font-weight: normal;
+    }
+    ol, ul {
+      padding-left: 1.7em;
+      margin-top: 1em;
+    }
+    li > ol, li > ul {
+      margin-top: 0;
+    }
+    blockquote {
+      margin: 1em 0 1em 1.7em;
+      padding-left: 1em;
+      border-left: 2px solid #e6e6e6;
+      color: #606060;
+    }
+    code {
+      font-family: Menlo, Monaco, Consolas, 'Lucida Console', monospace;
+      font-size: 85%;
+      margin: 0;
+      hyphens: manual;
+    }
+    pre {
+      margin: 1em 0;
+      overflow: auto;
+    }
+    pre code {
+      padding: 0;
+      overflow: visible;
+      overflow-wrap: normal;
+    }
+    .sourceCode {
+     background-color: transparent;
+     overflow: visible;
+    }
+    hr {
+      background-color: #1a1a1a;
+      border: none;
+      height: 1px;
+      margin: 1em 0;
+    }
+    table {
+      margin: 1em 0;
+      border-collapse: collapse;
+      width: 100%;
+      overflow-x: auto;
+      display: block;
+      font-variant-numeric: lining-nums tabular-nums;
+    }
+    table caption {
+      margin-bottom: 0.75em;
+    }
+    tbody {
+      margin-top: 0.5em;
+      border-top: 1px solid #1a1a1a;
+      border-bottom: 1px solid #1a1a1a;
+    }
+    th {
+      border-top: 1px solid #1a1a1a;
+      padding: 0.25em 0.5em 0.25em 0.5em;
+    }
+    td {
+      padding: 0.125em 0.5em 0.25em 0.5em;
+    }
+    header {
+      margin-bottom: 4em;
+      text-align: center;
+    }
+    #TOC li {
+      list-style: none;
+    }
+    #TOC ul {
+      padding-left: 1.3em;
+    }
+    #TOC > ul {
+      padding-left: 0;
+    }
+    #TOC a:not(:hover) {
+      text-decoration: none;
+    }
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+  </style>
+</head>
+<body>
+<p>Sofia swung the door to the band room open and found one of her classmates in a glittering, radiant outfit evocative of every design she’d ever seen in Akibahara.</p>
+<p>“So you’re a magical girl.”</p>
+<p>“Uh… yep. Magical girl.”</p>
+<p>Charlie was sweating profusely, purely a psychosomatic response to the circumstances. She knew that Sofia would catch her one of these days if her persistent stalking had continued.</p>
+<p>Why did she have to do so on a day she had a date though?</p>
+<p>“I <em>really</em> have got to be going.” Charlie mumbled, Sofia having none of it.</p>
+<p>“And what, run off to go fight the evils of the night?”</p>
+<p>“See you get how it works so, just—”</p>
+<p>Sofia’s foot hit the door behind her and shut.</p>
+<p>“Tell me more.”</p>
+<p>She already knew she was going to regret it. She just had no idea when.</p>
+<hr />
+<p>Sofia being able to see the Incubator was a recent development.</p>
+<p>Kyubey had said something to one of the D.C. girls she talked to online at one point, something that worked its way through the grapevine. An idea that magical girls could become significant enough to act as “karmic anchors”, dragging others around them into the fight against entropy.</p>
+<p>She dismissed the idea outright; how pompous would she have to be to think it could be about <em>her</em>? Even a little bit?</p>
+<p>On the other hand, she just didn’t expect Kyubey to drag Sofia into her world so abruptly. Her girlfriend of three years was gawking at her in costume like a fangirl at the start, and on a day when she was run especially ragged.</p>
+<p>She still had two mostly-used seeds, she’d survive the night, she’d survived worse. Sofia’s judgement was immense.</p>
+<p>“Sofia don’t you <em>fucking dare.</em>”</p>
+<p>“But you’re worn out, it’s clearly getting to you. Not like you can quit otherwise.”</p>
+<p>“Don’t. Please don’t.”</p>
+<p>“Kyubey?”</p>
+<p><em>— Yes Sofia? —</em></p>
+<p>The colorless wind that erupted left her heaving, chills washing over her as she watched a replica of her costume appear on her girlfriend.</p>
+<hr />
+<p>Charlie had followed Sofia, practically incandescent as she picked up her exact patrol route with determination.</p>
+<p>Sofia was having <em>none</em> of it.</p>
+<p>“You’re going to get yourself <em>KILLED!</em>”</p>
+<p>“So no difference then.”</p>
+<p>“What?”</p>
+<p>“Do you <em>know</em> what my life expectancy was before?”</p>
+<p>“… no?”</p>
+<p>“You contract and didn’t even <em>think</em> to ask? You STILL didn’t know? What the FUCK is WRONG WITH YOU!”</p>
+<p>“I… I’m sorry.”</p>
+<p>“Sorry doesn’t make me <em>comfortable in my body, you idiot.</em>”</p>
+<p>“I… I didn’t know.”</p>
+<p>Kyubey was already gone when she tried to find the bastard. She knew it didn’t breathe but needed the stress relief. Unfortunately, her next target had already vanished; nobody enjoys being pummeled even if you have spare bodies.</p>
+<hr />
+<p>Charlie ends up spending more than an hour shopping for rings. Of course, silver isn’t a popular color and the stock in-person isn’t as good as it used to be, but she had to try.</p>
+<p>She walks away exhausted and disappointed. None of them feel the <em>same</em>.</p>
+<hr />
+<p>As she sat down in class, their classmates made the perfectly plausible assumption that their relationship imploded. Of course. Where they had been fairly public prior, they were instead fuming at the sight of one another. Or rather, Charlie was fuming while Sofia looked heartbroken.</p>
+<p>“Did she propose?”</p>
+<p>“Huh? No. Fuck off Julie.”</p>
+<p>“But she has that ring…”</p>
+<p>Charlie doesn’t talk to her for the rest of the day. She got the message.</p>
+<hr />
+<p>Charlie’s phone lit up with the one groupchat she never muted. Sofia was posting in the local MG groupchat, of <em>course</em> she was.</p>
+<p>She buried her face in her pillows.</p>
+<p>“First solo patrol, any tips?” the message read plainly. A second message arrived right after, carrying a selfie of that glittering regalia, still a near replica of the one Charlie wore on patrol.</p>
+<p>It looked identical; she hadn’t even bothered to customize it. Charlie resisted the instinctual urge to ban her, barely.</p>
+<p>She sighs deeply and gives her the appropriate roles for their neighborhood. An instant later, she removes her own, letting “KYU8” automatically kick her from the server. Inactive members were historically purged regularly to insulate the new girls from the mortality rate. She had set it up, after all.</p>
+<p><em>What would the regulars think?</em></p>
+<p>She guessed that they might read her departure as moving away. She was active the week prior, after all; the shots they shared didn’t “purchase” themselves.</p>
+<p>If they were curious, they could ask the new girl anyways.</p>
+<hr />
+<p>She felt like shit. The worst, the <em>most</em> she’d felt in months. Years maybe. Magical girls don’t get to <em>retire</em> and here she was, evicted of her lifeblood and bleeding. She needed nutrition and medication, glasses and acne patches again.</p>
+<p>She checked her phone. 2:37AM. She fucking hated having a sleep schedule. She tossed and turned, the only dreams she would have relating to the type of girl she wasn’t anymore. She tried to ignore the hot flashes.</p>
+<p>She failed.</p>
+<hr />
+<pre><code>[2:41AM] cod: You up?
+         sof: Of course!  You okay?
+         cod: no
+[2:46AM] sof: ...
+         cod: can you come over?  I just need to see you.</code></pre>
+<p>They sit in an uncomfortable silence. The city still swells when they look at it, both girls feeling small. They pretend for a moment, and only a moment, it was like before.</p>
+<p>“How did your first patrol go?”</p>
+<p>“It was… okay.”</p>
+<p>“Do you wanna talk about it?”</p>
+<p>“Not like I can see for myself now.”</p>
+<p>Sofia lets out a soft exhale, the kind barely confusable for a laugh. A weary acknowledgement she stomached.</p>
+<p>“Well.. Turns out my wish made me nullify most magical girl powers. Nobody likes me.”</p>
+<p>Charlie doesn’t respond for a moment, trying to choose her words carefully.</p>
+<p>“So you ruined my life… and you don’t even get to enjoy yours?”</p>
+<p>“That’s the bargain. You <em>better</em> enjoy your life, Charlie.” she said through gritted teeth.</p>
+<p>Charlie was suddenly not there, her mind a million miles away. Ideating, ideating was a luxury she <em>never</em> truly had before. Now though, she was <em>glad</em> for it.</p>
+<hr />
+<p>Charlie held the knife in a steady hand, standing across the cold linoleum. Sofia leaned against the doorframe next to the open window. The chill of the late fall betrayed her as a cloud formed in the chill autumn breeze. It told Charlie everything she needed to know.</p>
+<p>Sofia was <em>warm</em>. She was acting human.</p>
+<p>“Come on Charlie, I won’t hurt you.” she said firmly, her eyes glittering like gemstones as tears formed.</p>
+<p>“Good to know.” she acknowledged plainly before lunging at her. Sofia moved to step beside, the side-step quicker than she had been able to prior; It came with the contract. She was suprised to hear the knife let out a <em>twang</em> as it gouged the flooring.</p>
+<p>Her hand caught hers again, that familiar touch suddenly inverted, warmth cold and the chill warm. Human and magical girl in all the wrong proportions.</p>
+<p>Just as quickly she was gone, Charlie in a fetal position on the floor.</p>
+<p>Sofia went to transform, and found herself unable to, gasping as she stared at her hand. Her ring is gone. Her soul gem, <em>she</em> is gone from her body.</p>
+<p>That means Charlie—</p>
+<p>Charlie is still curled up on the floor, ugly sobbing. She’s not sure if she’s feeling her shudder as the heaving fills the room, or if the girl cradling her soul was bridging that insurmountable gap.</p>
+<p>“Charlie…”</p>
+<p>The girl stays curled on the floor, a bubble of snot sliding down her face.</p>
+<p>So she stood, and she stayed on the ground, stolen peace returned in part.</p>
+<p>“100 meters. Stay in 100 meters or your body goes outta range.”</p>
+<p>“huh?” she mumbled, the numbness washing over her.</p>
+<p>She didn’t know.</p>
+<p>She stays the night on the couch. Sofia doesn’t quite know how to process that she was, in fact, upstairs in bed with Charlie, while her <em>body</em> was on the couch downstairs. To describe it as compromising would be an egregious understatement.</p>
+<p>Charlie’s parents don’t notice the gouge in the floor, but then again, they didn’t notice their son become their daughter either.</p>
+<hr />
+<p>The bus to school was quiet. She wasn’t sure whose heartbeat she was feeling as the cab swayed on the terrible roads. Sofia was pretty sure that she’d be able to stay in range the whole day, but she wasn’t entirely sure.</p>
+<p>Long gone were thoughts of petty squabbles, now it was effort spent to save her and Charlie from a blisteringly uncomfortable conversation.</p>
+<p>It still falls apart in second period.</p>
+<p>Halfway through the class, Sofia stands up to go and use the bathroom. As her foot passes through the entryway, her field of vision swirls and is replaced with an unmoving whiteboard. Suddenly sitting in the classroom down the hall, she was looking through Charlie’s eyes at her own soul gem, the relative peace betraying the rage boiling her alive from the inside.</p>
+<p>She heard shouting down the hall, screams from the same classroom she had been departing moments prior. Had she been coherent enough to notice, she’d hear Julie hit a note borderline operatic. All the same, teachers sprinted across the hall to try and help the collapsed student; she knew it wouldn’t do any good.</p>
+<p>She stayed in Charlie’s seat, unfolding the note addressed to her with mechanical precision.</p>
+<hr />
+<p>Before I contracted I said I wouldn’t wish this on my worst enemy. I was my own worst enemy at the time, you know how it goes now. Then the furball showed up. He solved all my problems in one go, and it wasn’t perfect but it was <em>living</em>.</p>
+<p>I have no idea how much of it you’ll have to deal with, but someone has to carry the torch, both mine and the city’s. That someone can’t be me.</p>
+<p>I tried, Sofia. i really did.</p>
+<hr />
+<p>Tears cascaded down her cheeks as she went to clear the droplets from her face.</p>
+<p>They felt cold to the touch.</p>
+</body>
+</html>

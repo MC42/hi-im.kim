@@ -1,0 +1,35 @@
+
+<head>
+  <title>madoka witch rune trainer </title>
+   <meta charset="utf-8"> 
+</head>
+<script>
+
+    function recalculate_loops() {
+        var loop_start = document.getElementById("loop_start");
+        var loop_length = document.getElementById("loop_length");
+
+        const oneDay = 24 * 60 * 60 * 1000; //
+        var date_obj = new Date(loop_start.value).getTime();
+        var now = Date.now();
+
+        var diffDays = Math.round(Math.abs((date_obj - now) / oneDay));
+
+        console.log(diffDays);
+
+        var loopsie = diffDays / (loop_length.value);
+
+        console.log(loopsie)
+
+        var ending = document.getElementById("loop_count").innerHTML = loopsie;
+    }
+</script>
+<body>
+<h3>How many loops has it been?</h3>
+
+With the assumption that each loop is <input type="number" onchange="recalculate_loops()" value="32" id="loop_length"></input> days long, and the loops started on <input onchange="recalculate_loops()" type="date" id="loop_start" value="2011-03-16">, then Homura has made <h2 id="loop_count"></h2> loops since then.
+<script>
+    recalculate_loops();
+</script>
+
+</body>
