@@ -50,3 +50,6 @@ https://x.com/air_dotter/status/2011839447948746944?s=20
 
 desk w rebellion content
 
+https://x.com/mocamoca0429/status/2011821269919154536?s=20
+
+older paintings giveaway / clearcards 
