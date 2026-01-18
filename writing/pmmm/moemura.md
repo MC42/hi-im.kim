@@ -156,7 +156,7 @@ Sayaka swung her shredded cape, pull on her self as she materialized a pile of s
 
 Mami raised the musket only slightly, to her skull, no, to her navel, her finger glancing on the trigger.
 
-The clock struck midnight as Mami's musket dematerialized, her outfit dissolving back into school attire.  Sayaka's fortissimo reverted to an otherwise mundane hairclip set, her skirt returning to a tacky plaid.   Mami looked down in disappointment at the collapsed schoolgirl, before walking back into the night..
+The clock chimed as Mami's musket dematerialized, her outfit dissolving back into school attire.  Sayaka's fortissimo reverted to an otherwise mundane hairclip set, her skirt returning to a tacky plaid.   Mami looked down in disappointment at the collapsed schoolgirl, before walking back into the night.
 
 Sayaka peeked back in to Homura's window and found the girl fast asleep in the loveseat.  She gently stepped in through the still open window, draped her blanket across the girl, and left the same way she entered.
 
@@ -176,17 +176,133 @@ She carefully ran her fingers through her hair, brushing slowly as she ensured n
 
 *Dreams are just dreams.  Nothing more.* 
 
-Homura wasn't sure, putting a hairtie on the end of her braids, the purple beads perfectly matching her eyes.
+She slid a beaded hairtie over the end of a braid, the purple perfectly complimenting her eyes.
 
 *Surely if she was a magical girl, she wouldn't have picked me as a friend.*
 
-She wasn't sure she believed herself, but kept going all the same.
+She wasn't sure she believed herself, but the barrage of thoughts continued unabated. 
 
-*Well, if we're friends, I'd hope she'd tell me... but it is only the first week I've been back.  She's been friends with Shizuki-san for years though, so....*
+*Well, if we're friends, I'd hope she'd tell me if she was... but it is only the first week I've been back.  <!-- First week she's been back is also interesting given that she shouldn't know that. --> She's been friends with Shizuki-san for years though, so....*
 
 An impulsive thought ran through her.  Immature, stupid, boorish.
 
-She would simply ask Hitomi.  Easy way to dispel such a strange dream.
+Why not simply ask Hitomi?  Easy way to dispel such a strange dream. 
 
 ----
+
+Homura walked into glass with the elegance of a nervous cat, sitting down in her seat before allowing herself to relax.
+
+*It'll be easy.  Just go up and ask.*  
+
+Hitomi had already arrived, looking into a pocket compact as she did her makeup.
+
+*She's doing her makeup?*
+
+Homura ran her fingers through her hair, or rather, tried to. She had forgotten she braided her hair this morning somehow.  Unable to cope with such a tragic and significant error in her self-image, she cringed.
+
+*That probably looked so dumb...*
+
+"Homura-chan!" Hitomi smiled. Placid, elegant, sensible.
+
+"Shizuki-san, I-" she stopped, the words dead on her lips as she processed what her classmate had said.
+
+"You called me Homura-chan."
+
+"We're friends, aren't we?" she beamed.  Homura felt her cheeks redden.  Was this *really* the way to start this conversation?  As if!
+
+Homura took a breath, and fiddled with the trim of her skirt, nervously.
+
+"I need to ask you something about Miki-san... Something.  That might feel a little silly." 
+
+"Oh?  Gossiping are we?" Hitomi asked cattily.  
+
+Homura shook her head, nervously.
+
+"No, n-not something like that.  I had a really strange dream and was wonder if *she's a magical girl*" she muttered, her voice trailing off at the end.
+
+Hitomi tilted her head slightly, confused.  She snapped her compact shut and shoved it back into her schoolbag, her attention fully on Homura.
+
+"I... want to make sure I heard you right."
+
+She beckoned Homura closer, the girls scarcely a meter apart.  Hitomi's voice was a whisper.
+
+"You heard she's a magical girl?"
+
+"I... had a dream she was."  
+
+Hitomi receded into her desk, the placating smile wiped from her face for a moment, being replaced with sheer terror, before returning to her resting placation.
+
+She nodded.
+
+Homura's jaw hung open.  She had expected to be shut down, her classmate to ridicule her, to be made the laughing stock of.  Instead, she was *entertaining her delusions!*
+
+What type of city *was* Mitakihara‽
+
+"Oh, Hitomi-chan!  Homura-chan!" chimed Sayaka from the door, homura jumping as she heard her voice.
+
+*Speak of the devil.*
+
+"Sayaka-chan, Homura-chan just asked me quite an uncommon question." Hitomi mused, Homura's cheeks turning the color of a tomato.
+
+"Oh, are you one of *us* Homura?  Y'know..." she muttered, waving her hand at the girl.
+
+"I wasn't asking i-if you were *single*, if that's what you mean."
+
+Sayaka went from lackadaisical to a somewhat bored confusion, the tone turning more serious by the moment.
+
+"What was it then, Akemi-san?"
+
+"I was asking... if you were a magical girl."
+
+Sayaka's face turned to dread horror.  
+
+"Never heard of 'em, before.  sorry!" she grinned wildly, grabbing Homura and moving her back towards her desk.
+
+"Sorry Miki-san, I had such a strange dream and I had to-"
+
+"Stop talking about your dreams about me, it's a little uncomfortable Akemi-san!" she yelped, finally releasing the girl at her assigned desk.
+
+She had *dragged her* across the classroom without even breaking a sweat.
+
+Sayaka stomped back to her desk in the back of the room next to Hitomi, shot her a knowing glance, and kicked her feet up.  She had to get her relaxation in before their tyrannical dictator entered.
+
+A voice rang out in Homura's head, one she had heard only moments prior, singing a very different tune.
+
+*Don't talk about that too loudly.  She'll hear.*
+
+Homura's head spun wildly, looking around the room for the source. Sayaka-chan was still at her desk, feet up on it.  She looked at Homura, raising an eyebrow as she ran her fingers through her chopped short hair
+
+*Yeah.  Telepathy.  Magical girls are real.  Don't talk about it in the open though, ya idiot!*
+
+Homura felt a sense of dread wash over her, inexplicable.  Why would magical girls ever be a bad thing?  The train of thought derailed rather quickly though, when she felt a presence looming on the off-side of her desk, right outside of her field of vision.
+
+Her head swiveled around as she found herself staring at a girl with pink hair and two pigtails, done up in ribbons.  Her uniform was, well, uniform, spare for a glittering earcuff dangling off the side.
+
+*Curious.*
+
+"Ah, you must be the transfer student." she smiled.  She carried the same dignified poise that Hitomi did, only punctuated by something... something else in the undertone.  A fractional smirk, a stray lingering glance.
+
+She was dissecting her.
+
+"Akemi Homura." she said, confident for the first time in her appearance in this classroom.
+
+"I'm-" the girl began, Sayaka *appearing* behind Homura in an instant.  
+
+"Kaname Madoka." she said, her voice steeled, her fists closed as she trembled.
+
+"Oh, Sayaka-chan.  I see you've already made friends.  How *fun!*" she smiled, her voice dripping with venom.
+
+"I'm Kaname Madoka, Homura-chan.  I'm the health officer for our class so if your *heart* ever gives you any trouble, don't hesitate to ask for help."
+
+Homura shuddered, she couldn't explain it. She was behaving so politely, but Sayaka's instantaneous defense of her felt... so odd.
+
+"Of course, Kaname-san."
+
+"We're classmates, Homura-chan. I hope in time you feel comfortable calling me Madoka."
+
+"In time, I think." she sheepishly mumbled, as the interloper receded back to her desk on the far side of the room.
+
+*That's her.*
+
+Homura's blood ran cold.
 
