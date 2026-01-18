@@ -68,9 +68,9 @@ She had a medical exemption, but she loathed it with every fiber of her being.  
 
 The sun felt relentless on her chalkboard skin, so she hid under a nearby oak and tried to enjoy the breeze as best she can.
 
-She watched Sayaka antagonize the green hair girl, the tomboy filling in the gap that her name was Hitomi.  Sayaka raced towards her, the moss-toned girl running away with as much grace and poise mortal fear afforded her (apparently quite a bit). Homura just smiled.
+She watched Sayaka antagonize the green hair girl, the tomboy filling in the gap that her name was Hitomi.  Sayaka raced towards her, the moss-toned girl running away with as much grace and poise mortal fear afforded her (apparently quite a bit). Homura just smiled weakly.  Calculated, familiar, pacifying.
 
-They had finished warming up, students taking to ad-hoc activities in the stupefying Mitakihara "open ended classroom" strategy.  It was allegedly European, but Homura had never heard of such a thing.
+Her classmates had finished warming up, students taking to ad-hoc activities in the stupefying Mitakihara "open ended classroom" strategy.  It was allegedly European, but Homura had certainly never heard of such a thing.
 
 Sayaka took the chance to do hurdles and cleared them with ease.  Maybe she was a gymnast?
 
