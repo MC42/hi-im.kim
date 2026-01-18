@@ -270,31 +270,37 @@ A voice rang out in Homura's head, one she had heard only moments prior, singing
 
 *Don't talk about that too loudly.  She'll hear.*
 
-Homura's head spun wildly, looking around the room for the source. Sayaka-chan was still at her desk, feet up on it.  She looked at Homura, raising an eyebrow as she ran her fingers through her chopped short hair
+Homura's head spun wildly, looking around the room for the source. Sayaka-chan was still at her desk, feet up on it.  She looked at Homura, raising an eyebrow as she ran her fingers through her chopped short hair.
 
 *Yeah.  Telepathy.  Magical girls are real.  Don't talk about it in the open though, ya idiot!*
 
 Homura felt a sense of dread wash over her, inexplicable.  Why would magical girls ever be a bad thing?  The train of thought derailed rather quickly though, when she felt a presence looming on the off-side of her desk, right outside of her field of vision.
 
-Her head swiveled around as she found herself staring at a girl with pink hair and two pigtails, done up in ribbons.  Her uniform was, well, uniform, spare for a glittering earcuff dangling off the side.
+Her head swiveled around as she found herself staring at a girl with pink hair and two pigtails, done up in ribbons.  Her uniform was, well, uniform, spare a glittering earcuff dangling off the side.
 
 *Curious.*
 
-"Ah, you must be the transfer student." she smiled.  She carried the same dignified poise that Hitomi did, only punctuated by something... something else in the undertone.  A fractional smirk, a stray lingering glance.
+"Ah, you must be the transfer student." she smiled.  
 
-She was dissecting her.
-
-"Akemi Homura." she said, confident for the first time in her appearance in this classroom.
+"Akemi Homura." she said, managing to not stutter for the first time in a while.
 
 "I'm-" the girl began, Sayaka *appearing* behind Homura in an instant.  
 
 "Kaname Madoka." she said, her voice steeled, her fists closed as she trembled.
 
+She carried the same dignified poise that Hitomi seemed to, only punctuated by something... something else in the undertone.  A fractional smirk, a stray lingering glance.
+
+She was dissecting her. <!-- specific juxtaposition to the salamander being vivisected in Rebellion -->
+
 "Oh, Sayaka-chan.  I see you've already made friends.  How *fun!*" she smiled, her voice dripping with venom.
 
-"I'm Kaname Madoka, Homura-chan.  I'm the health officer for our class so if your *heart* ever gives you any trouble, don't hesitate to ask for help."
+Her attention returned to the transfer student.
 
-Homura shuddered, she couldn't explain it. She was behaving so politely, but Sayaka's instantaneous defense of her felt... so odd.
+"I'm Kaname Madoka, Homura-chan.  I'm the health officer for our class.  Saotome-sensei told me that you may have need of my help, so if you need anything, *anything at all*, don't hesitate to ask."
+
+Homura shuddered, she couldn't explain it. She was being quite kind, but Sayaka's instantaneous opposition felt so strange.
+
+Why couldn't they just be friends?
 
 "Of course, Kaname-san."
 
@@ -304,5 +310,6 @@ Homura shuddered, she couldn't explain it. She was behaving so politely, but Say
 
 *That's her.*
 
-Homura's blood ran cold.
+Homura's blood ran cold.  *Her?*
 
+*Her.*
