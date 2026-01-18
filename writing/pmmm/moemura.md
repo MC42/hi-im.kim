@@ -161,3 +161,32 @@ The clock struck midnight as Mami's musket dematerialized, her outfit dissolving
 Sayaka peeked back in to Homura's window and found the girl fast asleep in the loveseat.  She gently stepped in through the still open window, draped her blanket across the girl, and left the same way she entered.
 
 ----
+
+Homura woke up to the sound of cicadas creeping in through her slightly ajar window. 
+
+*Had* she left her window open the night prior?  She wasn't sure.
+
+She grabbed for her glasses, hand shaky as she unfolded the arms and shoved them onto her face.  She reached further, grabbing her medication and a glass she had set out the night prior.  <!--Well, she must've set it out, who *else* could have filled it?-->
+
+Homura swung her head back as she downed the pills, routine taking over as she let her thoughts wander.<!-- frowning slightly.-->  
+
+*What a strange dream, Miki-san from school... a magical girl.  And a stranger shooting at her, an attempt on her life? Why something so fantastic?*
+
+She carefully ran her fingers through her hair, brushing slowly as she ensured no such resistance remained in her nearly waist-length hair.
+
+*Dreams are just dreams.  Nothing more.* 
+
+Homura wasn't sure, putting a hairtie on the end of her braids, the purple beads perfectly matching her eyes.
+
+*Surely if she was a magical girl, she wouldn't have picked me as a friend.*
+
+She wasn't sure she believed herself, but kept going all the same.
+
+*Well, if we're friends, I'd hope she'd tell me... but it is only the first week I've been back.  She's been friends with Shizuki-san for years though, so....*
+
+An impulsive thought ran through her.  Immature, stupid, boorish.
+
+She would simply ask Hitomi.  Easy way to dispel such a strange dream.
+
+----
+
