@@ -304,12 +304,98 @@ Why couldn't they just be friends?
 
 "Of course, Kaname-san."
 
-"We're classmates, Homura-chan. I hope in time you feel comfortable calling me Madoka."
+Kaname Madoka looked at her, up and down, as if waiting for something.  What in particular, Homura had no idea. 
 
-"In time, I think." she sheepishly mumbled, as the interloper receded back to her desk on the far side of the room.
+"We're classmates, Homura-chan.  Call me Madoka!"
+
+Homura *shivered*, unsure why the otherwise cordial girl had caused such a reaction.
+
+"In time, I think." she sheepishly mumbled, the interloper receded back to her desk on the far side of the room.
+
+Homura pulled out her class notebook and began flipping through the pages, struggling to dispel the creeping doubt that something else was going on.
+
+She felt Sayaka's hand on her shoulder, jumping slightly at the contact.
 
 *That's her.*
 
 Homura's blood ran cold.  *Her?*
 
 *Her.*
+
+----
+
+Lunch was as uneventful as it could be, finding out your classmate was a magical girl, and another was... something else?  
+
+Miki-san still refused to explain more.
+
+*You shouldn't be getting mixed up in all of this Akemi-san.  It's... not good for you." she said, gesturing downwards at her chest.
+
+*Ah, my heart.*
+
+Homura had almost forgotten for a moment that under her uniform she still bore the literal and metaphorical scars of being in a hospital for much of the past year. Was there even a place for her in a world of magical girls with such an obvious flaw?
+
+"Ah, my heart."
+
+Sayaka didn't respond, she just tilted her head, as if to not look her in the eye.
+
+"Yeah.  For the best you don't join the *sports teams.*"
+
+The connotation was obvious, if heartbreaking.
+
+"Well, even as a *cheerleader?*" Homura asked, not quite clawing at desperation.
+
+"I don't think it's so good being so close to the *game*."
+
+Homura nodded, downtrodden.
+
+"Is Hitomi on that sports team with you?"
+
+She glanced across the bench at the girl, eating what looked like a professionally packed bento.  She had just a pang of jealously mixed in.
+
+*It wouldn't be right for her to be a magical girl.*
+
+"Ah, nah.  It isn't her game, really.  She's still supportive when it comes down to it."
+
+Hitomi simply smiled.
+
+"Not all of us can be *star athletes* like Sayaka-chan here."
+
+Sayaka turned beeroot for a moment before gesturing back down at their lunches.
+
+*So... Kaname-san?*
+
+Sayaka looked at her, glancing around the rooftop atrium for a moment.
+
+*What about her?*
+
+*What... happened to her?* 
+
+Sayaka paused, hesitating in her response.  
+
+*Is it time for her to know?*
+
+*No, not yet.*
+
+She turned to Homura.
+
+*We used to be friends when we were younger.  Magical girl stuff... wasn't good for either of us.*
+
+Homura's jaw hung agape.
+
+*She's a magical girl too!?*
+
+"Uh.  She used to be."
+
+"What happened?"
+
+Sayaka only shook her head.
+
+"Not today, please."
+
+"Tomorrow then?"
+
+"Sure."
+
+----
+
+
