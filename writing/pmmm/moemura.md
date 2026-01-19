@@ -502,15 +502,48 @@ When she held it up to the light, she swore it glittered pink.
 
 And then there was the telepathy.  An obvious, intentional conversation that felt like words when she *knew* Sayaka-chan wasn't talking.
 
-Could she really dismiss the telepathy?  Could she bury the ring and the dreams and the strange speech?  Could she forget all of this and just be a normal student?  
+Could she really dismiss the telepathy?  Could she bury the ring, the dreams, the strange speech?  Could she *really* forget all of this and just be a normal student?  
 
 The weary look on Kaname-san's face lingered in her mind. She declared her an enemy when she remembered; remembered *what*?  She seemed so *sad* in saying so... did she really mean that?
+
+And worst of yet, it all felt so real, so *familiar*.  It wasn't just some rumor, some absurdity.  It was as real as sunshine, and *that* was what scared her.
 
 She shook her head as Saotome-sensei re-entered the room, still visibly upset over the last conversation with her boyfriend-of-the-week.
 
 Nakazawa groaned, knowing he'd be the target of her ire come lesson-time again.
 
-A flicker of a smile flashed across Homura's face.  At least *this* part felt familiar.
+The faintest shape of a smile flickered across Homura's face.  At least *this* part felt familiar.
 
-----
+
+### Circularization
+
+"Sayaka-chan?"
+
+"What's up?"
+
+"Can I see you warm up for sports?"
+
+"Huh?"
+
+*You say you're a magical girl?  Prove it.*
+
+*Homura-chan, we're at school, I can't just transform here.*
+
+*In the bathroom.  I'll go with you.*
+
+Sayaka rolled her eyes, Hitomi only giggled.
+
+*Then the rumors get worse.*
+
+*Rumors?*
+
+Hitomi's giggle grew into a genuine smile.
+
+"Homura-chan, I know you're excited to watch *the game* eventually, but... don't you think you're being a little eager?"
+
+Homura only returned her cordial smile with a fascimile of her shrewdness.
+
+"Shizuki-san, surely you can understand why it feels like just a rumor as-is.  Until I see her in *uniform*, it's easy to believe she's just a scrawny student and not an *athlete*."
+
+Sayaka seethed in response.  Homura was *right*, she had no reason to believe her since her memories had been altered. Why did Madoka have to go and do what she did to her?  Had she truly lost her mind?
 
