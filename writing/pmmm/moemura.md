@@ -30,7 +30,7 @@ A voice behind her, calm, collected, let out her name.
 
 "Nice to meet you Miki-san."
 
-Homura's nose wrinkled.  The girl felt strange, at least a little.  Why would she wait for the others to get told off before approaching?  Why didn't Saotome-sensei mind?
+Homura's nose wrinkled.  The girl felt strange, at least a little.  Why would she wait for the others to get told off before approaching?  Why didn't Saotome-sensei seem to mind?
 
 *Does she think I'm a pity case?*
 
@@ -404,4 +404,59 @@ Sayaka only shook her head.
 
 ----
 
+Lunch ended too quickly as Homura made her way back down the labyrinth that was the school's design.  She had heard through the rumor mill it was inspired by something European, maybe American?  A prison in either case, a maze all the same.
+
+She found herself crossing a bridge between the east and west wings when she heard a voice behind her.
+
+"Homura-chan." the voice rang out, pink hair and white ribbons looking at her.
+
+"Kaname-san." Homura responded.  Cold, curt.  Miki-san had made it clear she should *respect* her at a minimum, but not to give an inch.
+
+"Oh Akemi-san... My dear sworn enemy.  My dove." <!-- Mourning dove. -->
+
+"Enemies?"
+
+Homura wasn't sure she believed it.  She was too new to make enemies, much less with the *health officer!*
+
+"Of course.  It isn't like you'd *remember* though... Or perhaps you might remember it like a bad dream.  I certainly did back when this was reaching it's first terminus."
+
+"A dream?"
+
+"A dream, yes."
+
+Homura felt *something* in the back of her mind, gears turning as the familiar figure changed for a moment, gold eyes turned pink, pink eyes turned crimson.
+
+"Who am I to you?" Homura whispered, wringing her hands as a smile crept across Kaname-san's face, her weary eyes lighting up for just a moment; recognition.
+
+"I care about you.  Know that if nothing else."
+
+Homura was beside herself.  This girl was acting...oh what's the word...  Chunnibyo!  Strange, offputting!  Like a villainess!  
+
+And somehow, deep in her heart, she knew that wasn't how this girl was meant to act.
+
+"Kaname-san... what happened to you?" Homura asked, the weight of memories she was unburdened by pounding on her skull with the intensity of a thousand suns.
+
+"You did, Homura-chan.  Always you."
+
+Homura's mind split open for a single second, frozen between two ticks of the clock as countless memories flooded back.  Her rebellion, a plunged black dress, a confessional of love, her descent into madness, an impostor wearing her face...
+
+And then it was gone, just as quickly.
+
+"Silly Homura-chan.  Those memories aren't for you." she beamed, tapping her own head gently.
+
+"I'll keep them safe for you, don't worry."
+
+"Madoka...."
+
+"We'll become enemies one day, my dear.  Until then?  You won't remember."
+
+"I... don't understand."
+
+"You will.  Just not today."
+
+The strange girl left, Homura beside herself as she looked down at her hands.  
+
+When had that ring gotten there?
+
+----
 
