@@ -1,3 +1,5 @@
+### The Curtains Rise
+
 She was sure she was being watched. Sure, she was the transfer student, the transfer student is always the center of attention, especially so late in the year.  
 
 Still, her heart condition had limited her options, and the doctors in Mitakihara *were* the best.
