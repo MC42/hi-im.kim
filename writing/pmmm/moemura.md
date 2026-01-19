@@ -232,7 +232,7 @@ Homura shook her head, nervously.
 
 Hitomi tilted her head slightly, confused.  She snapped her compact shut and shoved it back into her schoolbag, her attention fully on Homura.
 
-"I... want to make sure I heard you right."
+"Repeat yourself, please. I want to make sure I heard you right."
 
 She beckoned Homura closer, the girls scarcely a meter apart.  Hitomi's voice was a whisper.
 
@@ -248,13 +248,13 @@ Homura's jaw hung open.  She had expected to be shut down, her classmate to ridi
 
 What type of city *was* Mitakihara‽
 
-"Oh, Hitomi-chan!  Homura-chan!" chimed Sayaka from the door, homura jumping as she heard her voice.
+"Oh, Hitomi-chan!  Homura-chan!" chimed Sayaka from the door, Homura jumping at the sound of her voice.
 
-*Speak of the devil.*
+*Speak of the devil...*
 
 "Sayaka-chan, Homura-chan just asked me quite an uncommon question." Hitomi mused, Homura's cheeks turning the color of a tomato.
 
-"Oh, are you one of *us* Homura?  Y'know..." she muttered, waving her hand at the girl.
+"Oh, are you one of *us* Homura?  Y'know..." she muttered, flapping her hand at the girl, Homura practically incandescent.
 
 "I wasn't asking i-if you were *single*, if that's what you mean."
 
@@ -268,7 +268,7 @@ Sayaka's face turned to dread horror.
 
 "Never heard of 'em, before.  sorry!" she grinned wildly, grabbing Homura and moving her back towards her desk.
 
-"Sorry Miki-san, I had such a strange dream and I had to-"
+"Sorry Miki-san, I had such a strange dream and I had to—"
 
 "Stop talking about your dreams about me, it's a little uncomfortable Akemi-san!" she yelped, finally releasing the girl at her assigned desk.
 
@@ -400,7 +400,7 @@ Sayaka only shook her head.
 
 "Tomorrow then?"
 
-"Sure."
+"Tomorrow."
 
 ----
 
@@ -412,7 +412,7 @@ She found herself crossing a bridge between the east and west wings when she hea
 
 "Kaname-san." Homura responded.  Cold, curt.  Miki-san had made it clear she should *respect* her at a minimum, but not to give an inch.
 
-"Oh Akemi-san... My dear sworn enemy.  My dove." <!-- Mourning dove. -->
+"Oh Akemi-san... My dearest sworn enemy.  My dove." <!-- Mourning dove. -->
 
 "Enemies?"
 
@@ -420,6 +420,7 @@ Homura wasn't sure she believed it.  She was too new to make enemies, much less 
 
 "Of course.  It isn't like you'd *remember* though... Or perhaps you might remember it like a bad dream.  I certainly did back when this was reaching it's first terminus."
 
+Was she seriously *monologuing?*  What type of middle-schooler monologues to the brand new tranfer student!
 "A dream?"
 
 "A dream, yes."
@@ -457,6 +458,59 @@ And then it was gone, just as quickly.
 The strange girl left, Homura beside herself as she looked down at her hands.  
 
 When had that ring gotten there?
+
+----
+
+Homura was shaken.  Emotionally, physically, cognitively.  So much of what happened was at odds with.... well... everything.  This *wasn't* how the world worked.  Magic and strange happenings and her classmate being a self-proclaimed devil?
+
+*It could still be delusion.  The nurses did warn me that there were side effects to the anti-rejection medications.  Maybe I haven't eaten enough?  Or had enough water?*
+
+Homura sat down at her desk, finding a note folded on her desk.
+
+*Of course, the circus continues.*
+
+"Akemi-kami,"
+
+Homura blinked, the first line sending her reeling.  It mustn't be for her, the writer must have lost their mind (poor thing).  And yet, *and yet*, she kept reading.  
+
+"There was a time when your other half could look you in the eye, to beg for forgiveness or for a mercy of absolution.
+
+That time has come and gone, a martyr made of the devil, and a fallen angel crafted from a bittersweet agony.
+
+When you seek to know the truth about Kaname Madoka, find me where you found her.
+
+Your loyal matchmaker,
+Nagisa Momoe"
+
+That was *not* who she expected a letter from.  was there something in the water condemning the students of Mitakihara Middle to these chuunibiyo delusions? What other explanation could there be?
+
+Homura stared at her hands, trembling as she processed the past twenty four hours.
+
+She had strange dreams where Miki Sayaka, the tomboy who sat towards the back of the room, was a magical girl fighting some other magical girl she didn't know.  
+
+Then why did she seem so familiar?
+
+Another of her classmates, a pink-haired chuunibyo named Kaname Madoka had declared her her enemy, and... something else had happened?  The more she tried to focus on that moment, on what had happened, the fuzzier it got.
+
+Then there was the matter of Hitomi, the ojou-sama of the Shizuki matriarchy, entertaining both her line of questioning about magical girls with nervous anticipation *and* not shutting it down.
+
+All of that would be quite explainable as her needing to return to Satomi Medical with speed and urgency.  A psychological break from the burden of returning to school with little institutional support. She could hear the diagnostic codes in the psychiatric ward already.  Another piece of errata in a litany of pre-existing conditions, but two inexplicable occurrences remained persistent, unwilling to be dispelled so easily.
+
+The strange ring that appeared on her middle finger of her left hand without a second thought...  and only after her strange conversation on the sky bridge.  She took it off, inspecting the purple gemstone in it, matching her eyes perfectly.
+
+When she held it up to the light, she swore it glittered pink.  
+
+And then there was the telepathy.  An obvious, intentional conversation that felt like words when she *knew* Sayaka-chan wasn't talking.
+
+Could she really dismiss the telepathy?  Could she bury the ring and the dreams and the strange speech?  Could she forget all of this and just be a normal student?  
+
+The weary look on Kaname-san's face lingered in her mind. She declared her an enemy when she remembered; remembered *what*?  She seemed so *sad* in saying so... did she really mean that?
+
+She shook her head as Saotome-sensei re-entered the room, still visibly upset over the last conversation with her boyfriend-of-the-week.
+
+Nakazawa groaned, knowing he'd be the target of her ire come lesson-time again.
+
+A flicker of a smile flashed across Homura's face.  At least *this* part felt familiar.
 
 ----
 
