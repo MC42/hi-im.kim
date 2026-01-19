@@ -336,29 +336,25 @@ Lunch was as uneventful as it could be, finding out your classmate was a magical
 
 Miki-san still refused to explain more.
 
-*You shouldn't be getting mixed up in all of this Akemi-san.  It's... not good for you." she said, gesturing downwards at her chest.
-
-*Ah, my heart.*
+"You shouldn't be getting mixed up in all of this Akemi-san.  It's... not good for you." she said, gesturing downwards at her chest.
 
 Homura had almost forgotten for a moment that under her uniform she still bore the literal and metaphorical scars of being in a hospital for much of the past year. Was there even a place for her in a world of magical girls with such an obvious flaw?
 
 "Ah, my heart."
 
-Sayaka didn't respond, she just tilted her head, as if to not look her in the eye.
+Sayaka didn't respond, she just tilted her head, hesitating to look her in the eye.
 
-"Yeah.  For the best you don't join the *sports teams.*"
+"Yeah.  Given that and about a million other things?  Don't *join the team* if you don't have to."
 
-The connotation was obvious, if heartbreaking.
+"Even as a *cheerleader?*" Homura asked, not quite clawing at desperation yet, but scrabbling at it.  
 
-"Well, even as a *cheerleader?*" Homura asked, not quite clawing at desperation.
-
-"I don't think it's so good being so close to the *game*."
+"*Especially* not as a cheerleader.  I don't think it's good for you to be so close to the *game*."
 
 Homura nodded, downtrodden.
 
-"Is Hitomi on that sports team with you?"
+"Is Hitomi on that *sports team* with you?"
 
-She glanced across the bench at the girl, eating what looked like a professionally packed bento.  She had just a pang of jealously mixed in.
+She glanced across the bench at the girl, eating what looked like a professionally packed bento.  She had just a pang of jealously mixed in with the chikuwa. <!-- https://en.wikipedia.org/wiki/Bento?useskin=vector#:~:text=chikuwa -->
 
 *It wouldn't be right for her to be a magical girl.*
 
@@ -368,7 +364,7 @@ Hitomi simply smiled.
 
 "Not all of us can be *star athletes* like Sayaka-chan here."
 
-Sayaka turned beeroot for a moment before gesturing back down at their lunches.
+Sayaka turned a shade of beeroot for a moment before gesturing back down at their lunches.
 
 *So... Kaname-san?*
 
