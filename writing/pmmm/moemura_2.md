@@ -1,6 +1,20 @@
 
 ### Circularization
 
+<!-- https://www.youtube.com/watch?v=R8zIk-x3DrA -->
+
+The lizard girl came to think of the goddess as pitiful. 
+
+And so, the lizard girl tore the goddess into two and she took one of those halves from heaven down to Earth with her. 
+
+But the part of her that remained in heaven was not as just or loving.
+
+Her anger, Her divine judgement, would not grant the lizard girl salvation.
+
+She would curse her instead with Her heaven's version of a crueler fate.  As such was the ruling of a divine Law.
+
+----
+
 "Sayaka-chan?"
 
 "What's up?"
