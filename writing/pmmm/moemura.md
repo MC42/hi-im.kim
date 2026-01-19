@@ -30,7 +30,7 @@ A voice behind her, calm, collected, let out her name.
 
 "Nice to meet you Miki-san."
 
-Homura's nose wrinkled.  The girl felt strange, at least a little.  Why would she wait for the others to get old off before approaching?  Why didn't Saotome-sensei mind?
+Homura's nose wrinkled.  The girl felt strange, at least a little.  Why would she wait for the others to get told off before approaching?  Why didn't Saotome-sensei mind?
 
 *Does she think I'm a pity case?*
 
