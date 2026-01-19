@@ -82,7 +82,7 @@ Homura jolted awake, the sound of shattering glass in her ears as she found hers
 
 When *did* she have the time to sneak up on her?  Surely she wasn't—
 
-The rest of the class had gone inside. Their gym teacher was looming in the doorway, irritated.  She had *fallen asleep*, hadn't she?
+The rest of the class had gone inside. Their gym teacher was standing in the doorway, tapping the foot not propping the door open, irate.  She had *fallen asleep*, hadn't she?
 
 Sayaka reached down a hand and dragged Homura to her feet, not letting go of her hand as they headed back for the interior of the building.
 
@@ -164,17 +164,17 @@ Sayaka peeked back in to Homura's window and found the girl fast asleep in the l
 
 Homura woke up to the sound of cicadas creeping in through her slightly ajar window. 
 
-*Had* she left her window open the night prior?  She wasn't sure.
+*Had* she left her window open the night prior?  She really wasn't sure.  She knew the windows at the hospital hadn't opened even slightly, the implications more than obvious when it got bad.
 
-She grabbed for her glasses, hand shaky as she unfolded the arms and shoved them onto her face.  She reached further, grabbing her medication and a glass she had set out the night prior.  <!--Well, she must've set it out, who *else* could have filled it?-->
+She banished the thought, and grabbed her glasses.  Her hands were shaky as she unfolded the arms, gently placing them onto her face.  She reached further off the side of her bed, grabbing her medication and a glass she had set out the night prior.  <!--Well, she must've set it out, who *else* could have filled it?-->
 
-Homura swung her head back as she downed the pills, routine taking over as she let her thoughts wander.<!-- frowning slightly.-->  
+Homura swung her head back as she downed the pills, routine taking over as she let her thoughts wander.  <!-- frowning slightly.-->  
 
-*What a strange dream, Miki-san from school... a magical girl.  And a stranger shooting at her, an attempt on her life? Why something so fantastic?*
+*What a strange dream, Miki-san from school... a magical girl.  And a stranger shooting at her, an attempt on her life? Why would I dream of something so fantastic?*
 
 She carefully ran her fingers through her hair, brushing slowly as she ensured no such resistance remained in her nearly waist-length hair.
 
-*Dreams are just dreams.  Nothing more.* 
+*Dreams are just dreams.  Nothing more.  You know this Homura.* 
 
 She slid a beaded hairtie over the end of a braid, the purple perfectly complimenting her eyes.
 
@@ -182,27 +182,35 @@ She slid a beaded hairtie over the end of a braid, the purple perfectly complime
 
 She wasn't sure she believed herself, but the barrage of thoughts continued unabated. 
 
-*Well, if we're friends, I'd hope she'd tell me if she was... but it is only the first week I've been back.  <!-- First week she's been back is also interesting given that she shouldn't know that. --> She's been friends with Shizuki-san for years though, so....*
+*Well, if we're friends, I'd hope she'd tell me if she was... Right?*
+
+She shook her head.  
+
+*But I have only been her classmate for a week.  It'd be premature, wouldn't it?*  <!-- First week she's been back is also interesting given that she shouldn't know that. --> 
 
 An impulsive thought ran through her.  Immature, stupid, boorish.
 
-Why not simply ask Hitomi?  Easy way to dispel such a strange dream. 
+Why not simply ask Hitomi?  Easy way to dispel such a strange dream, the girl had been her friend for *years*.  
+
+If anyone would know, it would be her.
 
 ----
 
-Homura walked into glass with the elegance of a nervous cat, sitting down in her seat before allowing herself to relax.
+Homura walked into glass with the elegance of a nervous cat, sitting down in her seat before allowing herself to relax, even slightly.
+
+She glanced back at Hitomi.
 
 *It'll be easy.  Just go up and ask.*  
 
-Hitomi had already arrived, looking into a pocket compact as she did her makeup.
+Hitomi arrived well before her, her attention engrossed into a pocket compact as applied her makeup.
 
-*She's doing her makeup?*
+*She's doing her makeup?  Since when did-*
 
-Homura ran her fingers through her hair, or rather, tried to. She had forgotten she braided her hair this morning somehow.  Unable to cope with such a tragic and significant error in her self-image, she cringed.
+Homura ran her fingers through her hair, or rather, tried to. She had forgotten she braided her hair this morning *somehow*.  Unable to cope with such a tragic and significant error in her self-image, she visibly cringed before she was even able to catch herself.
 
 *That probably looked so dumb...*
 
-"Homura-chan!" Hitomi smiled. Placid, elegant, sensible.
+"Homura-chan!" Hitomi smiled. Placid, elegant, sensible.  She didn't comment on her mistake, because of course she didn't. That was the type of girl she was.
 
 "Shizuki-san, I-" she stopped, the words dead on her lips as she processed what her classmate had said.
 
@@ -218,7 +226,7 @@ Homura took a breath, and fiddled with the trim of her skirt, nervously.
 
 Homura shook her head, nervously.
 
-"No, n-not something like that.  I had a really strange dream and was wonder if *she's a magical girl*" she muttered, her voice trailing off at the end.
+"No, n-not something like that.  I had a really strange dream and was wondering if *she's a magical girl*" she muttered, her voice trailing off at the end.
 
 Hitomi tilted her head slightly, confused.  She snapped her compact shut and shoved it back into her schoolbag, her attention fully on Homura.
 
