@@ -1,4 +1,4 @@
-### The Curtains Rise
+### Brava, Brava!
 
 She was sure she was being watched. Sure, she was the transfer student, the transfer student is always the center of attention, especially so late in the year.  
 
@@ -457,11 +457,11 @@ And then it was gone, just as quickly.
 
 The strange girl left, Homura beside herself as she looked down at her hands.  
 
-When had that ring gotten there?
+When *had* that ring gotten there?
 
 ----
 
-Homura was shaken.  Emotionally, physically, cognitively.  So much of what happened was at odds with.... well... everything.  This *wasn't* how the world worked.  Magic and strange happenings and her classmate being a self-proclaimed devil?
+Homura was shaken.  Emotionally, physically, cognitively.  So much of what happened was at odds with.... well... everything.  This *wasn't* how the world worked.  Magic and strange happenings and her classmate being her self-proclaimed enemy?
 
 *It could still be delusion.  The nurses did warn me that there were side effects to the anti-rejection medications.  Maybe I haven't eaten enough?  Or had enough water?*
 
@@ -482,7 +482,7 @@ When you seek to know the truth about Kaname Madoka, find me where you found her
 Your loyal matchmaker,
 Nagisa Momoe"
 
-That was *not* who she expected a letter from.  was there something in the water condemning the students of Mitakihara Middle to these chuunibiyo delusions? What other explanation could there be?
+That was *not* who she expected a letter from.  Was there something in the water condemning the students of Mitakihara Middle to these chuunibiyo delusions? What other explanation could there be?
 
 Homura stared at her hands, trembling as she processed the past twenty four hours.
 
@@ -500,11 +500,11 @@ The strange ring that appeared on her middle finger of her left hand without a s
 
 When she held it up to the light, she swore it glittered pink.  
 
-And then there was the telepathy.  An obvious, intentional conversation that felt like words when she *knew* Sayaka-chan wasn't talking.
+And then there was the telepathy.  An obvious, intentional conversation that felt like words when she *knew* Sayaka-chan wasn't speaking.
 
 Could she really dismiss the telepathy?  Could she bury the ring, the dreams, the strange speech?  Could she *really* forget all of this and just be a normal student?  
 
-The weary look on Kaname-san's face lingered in her mind. She declared her an enemy when she remembered; remembered *what*?  She seemed so *sad* in saying so... did she really mean that?
+The weary look on Kaname-san's face lingered in her mind. She declared her an enemy once she remembered; remembered *what*?  She seemed so *sad* in saying so... did she really mean that?
 
 And worst of yet, it all felt so real, so *familiar*.  It wasn't just some rumor, some absurdity.  It was as real as sunshine, and *that* was what scared her.
 
@@ -513,7 +513,6 @@ She shook her head as Saotome-sensei re-entered the room, still visibly upset ov
 Nakazawa groaned, knowing he'd be the target of her ire come lesson-time again.
 
 The faintest shape of a smile flickered across Homura's face.  At least *this* part felt familiar.
-
 
 ### Circularization
 
