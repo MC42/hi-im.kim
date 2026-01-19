@@ -4,7 +4,7 @@ She was sure she was being watched. Sure, she was the transfer student, the tran
 
 Still, her heart condition had limited her options, and the doctors in Mitakihara *were* the best.
 
-"oh, where did you go to school Akemi-san?" chimed Yuzuki.
+"Oh, where did you go to school Akemi-san?" chimed Yuzuki.
 
 "Uh... a small christian school."
 
