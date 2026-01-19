@@ -514,35 +514,4 @@ Nakazawa groaned, knowing he'd be the target of her ire come lesson-time again.
 
 The faintest shape of a smile flickered across Homura's face.  At least *this* part felt familiar.
 
-### Circularization
-
-"Sayaka-chan?"
-
-"What's up?"
-
-"Can I see you warm up for sports?"
-
-"Huh?"
-
-*You say you're a magical girl?  Prove it.*
-
-*Homura-chan, we're at school, I can't just transform here.*
-
-*In the bathroom.  I'll go with you.*
-
-Sayaka rolled her eyes, Hitomi only giggled.
-
-*Then the rumors get worse.*
-
-*Rumors?*
-
-Hitomi's giggle grew into a genuine smile.
-
-"Homura-chan, I know you're excited to watch *the game* eventually, but... don't you think you're being a little eager?"
-
-Homura only returned her cordial smile with a fascimile of her shrewdness.
-
-"Shizuki-san, surely you can understand why it feels like just a rumor as-is.  Until I see her in *uniform*, it's easy to believe she's just a scrawny student and not an *athlete*."
-
-Sayaka seethed in response.  Homura was *right*, she had no reason to believe her since her memories had been altered. Why did Madoka have to go and do what she did to her?  Had she truly lost her mind?
-
+----
