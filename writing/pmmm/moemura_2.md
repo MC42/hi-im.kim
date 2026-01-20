@@ -7,12 +7,6 @@ The lizard girl came to think of the goddess as pitiful.
 
 And so, the lizard girl tore the goddess into two and she took one of those halves from heaven down to Earth with her. 
 
-But the part of her that remained in heaven was not as just or loving.
-
-Her anger, Her divine judgement, would not grant the lizard girl salvation.
-
-She would curse her instead with Her heaven's version of a crueler fate.  As such was the ruling of a divine Law.
-
 ----
 
 "Sayaka-chan?"
@@ -102,7 +96,7 @@ She just prayed she wouldn't get too upset with it.  She needed to stay alive lo
 
 ----
 
-Lunch arrived without much bravado.  Yuzuki had continued her presentation, evoking imagery of the aftermath of nuclear fallout to juxtaspose Mondrian's Gray Tree.  She furthered the contrast against his other works, the art movement he was involved with, his other works with the dicipline of a studious academic.
+Lunch arrived without much bravado.  Yuzuki had continued her presentation, evoking imagery of the aftermath of nuclear fallout to juxtaspose Mondrian's Gray Tree.  She furthered the contrast against his other works, the art movement he was involved with, all approached with the dicipline of a studious academic.
 
 Saotome-sensei apologized profusely for Sayaka-chan's interruption, and ultimately gave her a B.
 
@@ -113,6 +107,8 @@ Kaname-akuma reflected on the mewlings of the countless familiars and witches wh
 *And so, Saturn enabled her daughters, rending flesh from bone out of fear they too would attempt to overthrow her.*
 
 She turned a deaf ear to her obligations, and instead focused her attention on her beloved, her eternal, perpetual enemy.  
+
+*It has to all be worth it.  I have to save her.*
 
 Akemi Homura, her fallen angel, the one magical girl could not save because of the Incubator's abuse of her beloved's word.
 
@@ -132,6 +128,124 @@ The Incubator hitched for a moment, as if attempting to retch up a furball, and 
 
 *As you wish.*
 
+
 ----
 
+Homura got to see Sayaka's costume.  She had fainted during gym class, and Sayaka beat Kaname-san to her.  Impressive, all things considered.  All the magic in the universe, and _Sayaka_ got there first?
+
+She shuddered, involuntarily.  She didn't like to show her fear, especially not in front of others, but the thought had simply *appeared*.
+
+*Maybe she meant for me to...*
+
+Somewhere, deep inside her soul gem, someone _else_ agreed.
+
+Sayaka hauled Homura onto the gurney in the nurse's office, quickly checking her pulse.
+
+As she jammed her fingers into Homura's too-cold wrist, she couldn't help but notice the silver band on her finger.  Exactly the same as her.
+
+Sakaya blinked.  First she knows nothing about magical girls, but then she *has a soul gem*? What kind of game was being played?
+
+*Homura?*  
+
+Homura groaned, guttural and barely conscious, stars still dancing in her vision from her fainting spell.
+
+*You're a magical girl too you know.*
+
+*What kind of magical girl collapses in a spring heat?*
+
+*You apparently...*
+
+"She was just dehydrated." the nurse said, as the doorbell to the nurse's office rang.  Pink hair, white ribbons.  Shit.
+
+"Figures." Sayaka muttered, Homura looking mortified.
+
+"I'll give you girls a minute." the nurse shivered, leaving Kaname akuma standing in the door.  The devil came calling.
+
+"I don't know what you're planning Madoka, but-"
+
+"Sayaka-chan... this isn't part of some scheme.  I can promise you that."
+
+Sayaka receded, visibly confused.  She wasn't even *transforming* yet.  Why?
+
+"I just wanted to check up on my Homura-chan."
+
+Homura reeled at the sound, lurching forward as glittering pink sand spilled out of her mouth onto the gurney.
+
+"Whuh... the heth." she mouthed, her tongue coated in the glittery substance.
+
+Madoka froze, her school attire dissolving in an instant, replaced with an ornate, black dress, a revealing plunge on an outfit that flowed down to her feet and stopped just short of strappy white heels.  Her white ribbons became white bows, her nominally mute yellow eyes replaced with incarnadine spheres, intimately familiar to Homura, even if she couldn't place from where.  On her ear, eather than over her heart, shone a pink stone, wrapped in delicate petals, crested by a white bird of some kind.  Her hair seemed to braid itself into a single continuous bundle behind her back, many times longer and more luminous than it had been untransformed.
+
+Homura knew instantaneously that Kaname Madoka was something else entirely.  And then she vomited *higanbana.*
+
+"Homura-chan... where's your buckler.  This isn't a joke, you need to transform-"
+
+"Transform, but-"
+
+Sayaka stood at attention, her outfit already having been replaced with gold-trimmed armor pieces, the gemstone in her navel glittering radiantly.
+
+"Sayaka-chan, please.  Put aside how you feel about me, can you heal her?"
+
+"I can't her if I don't know what's _wrong_!"
+
+----
+
+<!-- https://www.youtube.com/watch?v=S9bpPWfiMLw -->
+
+<!-- Labyrinth Notes: https://wiki.puella-magi.net/Izabel -->
+
+Homura was panting, footfall clattering against the monochromatic landscape as she raced through the distorted realm.
+
+She had tripped into something strange, something *gross*, and it was horrifying.
+
+"Homura!" Sayaka bellowed as she barreled into the arch, her sword dislodging brick by brick as the witch groaned in agony.
+
+"I'm sorry..." Sayaka whispered, screaming down to Homura.
+
+"You okay!?"
+
+"Yeah!"
+
+"What the hell *is that thing!*"
+
+"A witch!"
+
+"What's a witch!  I thought you fought wraiths!?"
+
+Musketfire exploded next to Homura's ear.
+
+"We do."
+
+"Who are *you*?" Homura balked, the new girl vaguely familiar, but clearly another magical girl.  Curly locks in a vibrant yellow, not-quite-blonde, a feathered beret-cap, a glittering yellow gem nestled at the center of a flower.  She was holding a musket in the same decor (aren't guns illegal!?) 
+
+"Tomoe Mami.  I'm a friend."
+
+"Of Sayaka-chan?"
+
+"Something like that."
+
+Homura wasn't sure, but she found herself thinking about that strange dream; is this that same girl?
+
+On her shoulder was perched none other than the cabbity interloper themself.  
+
+"Uh..." Homura muttered, jaw agape.  Sure, she was still in a nightmarish labyrinth, but the creature on the new girl, Tomoe-san, was it?  On her shoulder, it was like someone had animated an amalgamation of every shoujo animal into one.  Golden rings, long ear....hands?  It all blurred.
+
+*Hello, Akemi Homura.*
+
+"It can speak."
+
+*Yes.  Akemi Homura, are you aware you are an irregularity?*
+
+"Kyubey, we don't have time for this."
+
+"You and Sayaka Miki do not have time "for this", Tomoe Mami.  I must talk to Akemi Homura.  Please dispatch the witch."
+
+Mami-san shot Kyubey a dirty look as the furball leapt off of Mami's shoulder and landed squarely around Homura's neck.
+
+*He smells like disinfectant... kinda.*
+
+"Hey there little guy..." Homura murmured, scratching the creature under the chin, a purple and black diamond barely visible on her fingernail.
+
+Sayaka looked down at Tomoe Mami and registered that she was wearing a look of disgust, her arms holding her musket close, as if to stop herself from using it.  She wasn't staring at Sayaka, no.  She was looking at *Kyubey*.
+
+*Huh.*
 
