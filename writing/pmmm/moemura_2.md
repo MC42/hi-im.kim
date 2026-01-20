@@ -102,7 +102,7 @@ Saotome-sensei apologized profusely for Sayaka-chan's interruption, and ultimate
 
 *Shame they don't know about his niece being a magical girl.*
 
-Kaname-akuma reflected on the mewlings of the countless familiars and witches whinging in her celestial ear.  She permitted her inner circle (who said a god couldn't have favorites?) to devour the others, their grief seeds bursting back to life quickly.  
+Madoka reflected on the mewlings of the countless familiars and witches whinging in her celestial ear.  She permitted her inner circle (who said a god couldn't have favorites?) to devour the others, their grief seeds bursting back to life quickly.  
 
 *And so, Saturn enabled her daughters, rending flesh from bone out of fear they too would attempt to overthrow her.*
 
@@ -210,6 +210,21 @@ Homura reeled at the sound, lurching forward as glittering pink sand spilled out
 Madoka froze, her school attire dissolving in an instant, replaced with an ornate, black dress, a revealing plunge on an outfit that flowed down to her feet and stopped just short of strappy white heels.  Her white ribbons became white bows, her nominally yellow, muted eyes replaced with incarnadine spheres, intimately familiar to Homura, even if she couldn't place from where.  On her ear, rather than over her heart, shone a pink stone, wrapped in delicate petals.  The gemstone hung suspended from the tail of a white bird of some kind.  As if her attire hadn't been enough, her hair seemed to braid itself into a single continuous bundle behind her back, many times longer and more luminous than it had been mere moments prior.
 
 Homura knew instantaneously that Kaname Madoka was something else entirely.  And then she vomited *higanbana.*
+
+"You *need* to give her her memories back.  Now.*
+
+*But if this goes wrong, it could do worse than kill her.*
+
+*If she's vomiting *spiderlilies* it's already gone too far!*
+
+Madoka winced, and clapped her hands.
+
+The pile of pink sand vanished from the gurney, and the rign on Homura's finger shone brighter in the dark.
+
+"Madoka..."
+
+"Homura...."
+
 
 "Homura-chan... where's your buckler.  This isn't a joke, you need to transform-"
 

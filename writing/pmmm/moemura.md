@@ -204,7 +204,7 @@ She glanced back at Hitomi.
 
 *It'll be easy.  Just go up and ask.*  
 
-Hitomi arrived well before her, her attention engrossed into a pocket compact as applied her makeup.
+Hitomi arrived well before her, her attention engrossed into a pocket compact as she applied her makeup.
 
 *She's doing her makeup?  Since when did—*
 
