@@ -9,19 +9,39 @@ And so, the lizard girl tore the goddess into two and she took one of those halv
 
 ----
 
+Homura had given up on braiding her hair.  Sure, it was relaxing, sure, it was cute, but she had repeated her hair-flip fiasco in front of Sayaka as well, much to the same physiological cringing that she had done in front of Hitomi.
+
+She thought she was having a *medical issue!*
+
+She refused to be reduced to such, such... stupidity!  And so she removed the possibility.
+
+"Oh wow Akemi-san looks entirely different with her hair down."
+
+"Reminds me of a librarian!"    
+
+"With those glasses?  She's so close to being *so* pretty!  I wonder if she'd wear contacts."
+
+*Jerks.*
+
+Homura kept eating her lunch, grateful she had the foresight to pack a headband.  
+
 "Sayaka-chan?"
 
-"What's up?"
+"Mm?  What's up?"
 
-"Can I see you warm up for sports?"
+"Can I see you warm up for *sports*?"
 
-"Huh?"
+Sayaka half-choked on the leftovers her father had made the night prior.
+
+"Huh!?"
+
+Homura tilted her head, the shorthand their trio had inevitably arrived at for ~~psychosis~~ telepathy.
 
 *You say you're a magical girl?  Prove it.*
 
-*Homura-chan, we're at school, I can't just transform here.*
+*Homura-chan, we're at school, I can't just transform out in the open.*
 
-*In the bathroom.  I'll go with you.*
+*In the bathroom then.  I'll go with you.*
 
 Sayaka rolled her eyes, Hitomi only giggled.
 
@@ -37,7 +57,15 @@ Homura only returned her cordial smile with a fascimile of her shrewdness.
 
 "Shizuki-san, surely you can understand why it feels like just a rumor as-is.  Until I see her in *uniform*, it's easy to believe she's just a scrawny student and not an *athlete*."
 
-Sayaka seethed in response.  Homura was *right*, she had no reason to believe her since her memories had been altered. Why did Madoka have to go and do what she did to her?  Had she truly lost her mind?
+Sayaka seethed in response.  For all the annoyances their silly little kayfabe had produced, Homura was entirely *right*.  (She would never get used to saying that)  
+
+Homura had no reason to believe that magical girls were real except for a few strange oddities, and Madoka's chuunibyo speech.   Why did Madoka have to go and alter her memories anyways?  Had she truly abandoned all she held dear?
+
+*Fine.  I'll stay after school for a "club" if you will.*
+
+Sayaka reflected to herself.  Mercifully, Kyouske's arm remained healed in this *disaster* of a universe.  She didn't have anything else going on, and this *was* kinda top priority.
+
+*Until then... do you have questions or somethin'?*
 
 Homura sat there, a veritable barrage accumulating in her psychic outbox.
 
@@ -49,7 +77,7 @@ Homura sat there, a veritable barrage accumulating in her psychic outbox.
 
 *Since when were you a nerd?*
 
-Homura tilted her head, the tail of her braid bobbing gently in response.  The beads collided with the back of her chair, the clatter audible.
+Homura tilted her head, the confusion visible.  Surely her hair being down wasn't *that* dramatic a change as to think she was a different person, right?
 
 *Since... always?*
 
