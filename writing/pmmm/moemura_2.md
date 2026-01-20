@@ -27,17 +27,17 @@ The barrage of compliments, unwarranted, unneeded, and entirely unexpected was m
 
 Homura wasn't paying attention to *paintings* today.
 
-"Sayaka-chan?"
+"Sayaka-chan?" she whispered, her voice barely audible above the details on what paints Mondrian liked to use.
 
-"Mm?  What's up?"
+"Mm?"
 
-"Can I see you warm up for *sports* after school?"
+"Can I watch you warm up for *sports* after school?"
 
-"Huh!?"
+"*Huh?*"
 
 Homura tilted her head, the shorthand their trio had inevitably arrived at for ~~psychosis~~ telepathy.
 
-*You say you're a magical girl?  Can you show me? I'm still a little doubtful that it wasn't a dream.
+*You say you're a magical girl?  Can you show me? I'm still a little doubtful that it wasn't all a dream.*
 
 *Homura-chan, we're at school, I can't just transform out in the open.*
 
@@ -55,9 +55,9 @@ Hitomi's giggle grew into a genuine smile.
 
 Homura only returned her cordial smile with a fascimile of her shrewdness.
 
-"Shizuki-san, surely you can understand why it feels like just a rumor as-is.  Until I see her in *uniform*, it's easy to believe she's just a scrawny student and not an *athlete*."
+"Maybe.  It just feels unreal that *Miki-san* is an *athlete*."
 
-Sayaka seethed in response.  For all the annoyances their silly little kayfabe had produced, Homura was entirely *right*.  (She would never get used to that, no matter how much she owed to to Homura to change her mind)  
+Sayaka seethed in response.  For all the annoyances their silly sports-based kayfabe had produced, Homura was entirely *right*.  (She would never get used to that, no matter how much she owed to to Homura to change her mind)  
 
 Homura had no reason to believe that magical girls were real except for a few strange oddities, and *maybe* Madoka's chuunibyo speech.   Why did Madoka have to go and alter her memories anyways?  Had she truly abandoned all she held dear?
 
