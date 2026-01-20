@@ -10,7 +10,7 @@ Still, her heart condition had limited her options, and the doctors in Mitakihar
 
 "Christian huh.  Girls only or not?" prattled Koito.
 
-"I don't understand why that-"
+"I don't understand why that—"
 
 "Akemi-san, do you have any hobbies?" interrupted Minori.
 
@@ -206,7 +206,7 @@ She glanced back at Hitomi.
 
 Hitomi arrived well before her, her attention engrossed into a pocket compact as applied her makeup.
 
-*She's doing her makeup?  Since when did-*
+*She's doing her makeup?  Since when did—*
 
 Homura ran her fingers through her hair, or rather, tried to. She had forgotten she braided her hair this morning *somehow*.  Unable to cope with such a tragic and significant error in her self-image, she visibly cringed before she was even able to catch herself.
 
@@ -214,7 +214,7 @@ Homura ran her fingers through her hair, or rather, tried to. She had forgotten 
 
 "Homura-chan!" Hitomi smiled. Placid, elegant, sensible.  She didn't comment on her mistake, because of course she didn't. That was the type of girl she was.
 
-"Shizuki-san, I-" she stopped, the words dead on her lips as she processed what her classmate had said.
+"Shizuki-san, I—" she stopped, the words dead on her lips as she processed what her classmate had said.
 
 "You called me Homura-chan."
 
@@ -240,9 +240,9 @@ She beckoned Homura closer, the girls scarcely a meter apart.  Hitomi's voice wa
 
 "I... had a dream she was."  
 
-Hitomi receded into her desk, the placating smile wiped from her face for a moment, being replaced with sheer terror, before returning to her resting placation.
+Hitomi receded into her desk, the placating smile wiped from her face for a moment, being replaced with sheer terror, before returning to her resting mask.
 
-She nodded.
+She simply nodded.
 
 Homura's jaw hung open.  She had expected to be shut down, her classmate to ridicule her, to be made the laughing stock of.  Instead, she was *entertaining her delusions!*
 
@@ -370,7 +370,7 @@ Sayaka turned a shade of beeroot for a moment before gesturing back down at thei
 
 *So... Kaname-san?*
 
-Sayaka looked at her, glancing around the rooftop atrium for a moment.
+Sayaka glanced around the rooftop atrium for a moment, before letting her gaze settle on her peer.
 
 *What about her?*
 
@@ -382,7 +382,7 @@ Sayaka paused, hesitating in her response.
 
 *No, not yet.*
 
-She turned to Homura.
+Sayaka shrugged at Homura.
 
 *We used to be friends when we were younger.  Magical girl stuff... wasn't good for either of us.*
 
@@ -416,11 +416,12 @@ She found herself crossing a bridge between the east and west wings when she hea
 
 "Enemies?"
 
-Homura wasn't sure she believed it.  She was too new to make enemies, much less with the *health officer!*
+Homura wasn't sure she believed it.  She was too new to make enemies, much less with the *health officer!*  What if she got hurt or sick?
 
 "Of course.  It isn't like you'd *remember* though... Or perhaps you might remember it like a bad dream.  I certainly did back when this was reaching it's first terminus."
 
 Was she seriously *monologuing?*  What type of middle-schooler monologues to the brand new tranfer student!
+
 "A dream?"
 
 "A dream, yes."
@@ -451,7 +452,7 @@ And then it was gone, just as quickly.
 
 "We'll become enemies one day, my dear.  Until then?  You won't remember."
 
-"I... don't understand."
+"I... I don't understand."
 
 "You will.  Just not today."
 
@@ -482,7 +483,7 @@ When you seek to know the truth about Kaname Madoka, find me where you found her
 Your loyal matchmaker,
 Nagisa Momoe"
 
-That was *not* who she expected a letter from.  Was there something in the water condemning the students of Mitakihara Middle to these chuunibiyo delusions? What other explanation could there be?
+That was *not* who she expected a letter from; who even *was* Nagisa Momoe?  Was there something in the water condemning the students of Mitakihara Middle to these chuunibiyo delusions? What other explanation could there be?
 
 Homura stared at her hands, trembling as she processed the past twenty four hours.
 
@@ -492,17 +493,21 @@ Then why did she seem so familiar?
 
 Another of her classmates, a pink-haired chuunibyo named Kaname Madoka had declared her her enemy, and... something else had happened?  The more she tried to focus on that moment, on what had happened, the fuzzier it got.
 
-Then there was the matter of Hitomi, the ojou-sama of the Shizuki matriarchy, entertaining both her line of questioning about magical girls with nervous anticipation *and* not shutting it down.
+Then there was the matter of Hitomi-chan, the ojou-sama of the Shizuki matriarchy, entertaining both her line of questioning about magical girls with nervous anticipation *and* not shutting it down.
 
-All of that would be quite explainable as her needing to return to Satomi Medical with speed and urgency.  A psychological break from the burden of returning to school with little institutional support. She could hear the diagnostic codes in the psychiatric ward already.  Another piece of errata in a litany of pre-existing conditions, but two inexplicable occurrences remained persistent, unwilling to be dispelled so easily.
+All of that would be quite explainable as her needing to return to Satomi Medical with speed and urgency.  A psychological break from the burden of returning to school with little institutional support. 
+
+She could practically *hear* the diagnostic codes during her admission to the psychiatric ward already.  Another piece of errata in a litany of pre-existing conditions.
+
+Nevertheless, two occurrences remained persistent, stubborn, steadfast; unwilling to be dispelled so easily.
 
 The strange ring that appeared on her middle finger of her left hand without a second thought...  and only after her strange conversation on the sky bridge.  She took it off, inspecting the purple gemstone in it, matching her eyes perfectly.
 
 When she held it up to the light, she swore it glittered pink.  
 
-And then there was the telepathy.  An obvious, intentional conversation that felt like words when she *knew* Sayaka-chan wasn't speaking.
+And then there was the telepathy.  Repeated, intentional conversations that carried language when she *knew* Sayaka-chan wasn't speaking aloud.
 
-Could she really dismiss the telepathy?  Could she bury the ring, the dreams, the strange speech?  Could she *really* forget all of this and just be a normal student?  
+Could she really dismiss the telepathy?  Could she bury the ring, the dreams, the strange speech?  Could she *really* forget all of this and just be an ordinary (somewhat pathetic) transfer student?  
 
 The weary look on Kaname-san's face lingered in her mind. She declared her an enemy once she remembered; remembered *what*?  She seemed so *sad* in saying so... did she really mean that?
 
@@ -512,8 +517,4 @@ She shook her head as Saotome-sensei re-entered the room, still visibly upset ov
 
 Nakazawa groaned, knowing he'd be the target of her ire come lesson-time again.
 
-The faintest shape of a smile flickered across Homura's face.  At least *this* part felt familiar.
-
-----
-
-[ Chapter 2 is a work in progress. ]
+The faintest shape of a smile flickered across Homura's face.  At least *this* part was familiar and *normal*.

@@ -102,3 +102,36 @@ She just prayed she wouldn't get too upset with it.  She needed to stay alive lo
 
 ----
 
+Lunch arrived without much bravado.  Yuzuki had continued her presentation, evoking imagery of the aftermath of nuclear fallout to juxtaspose Mondrian's Gray Tree.  She furthered the contrast against his other works, the art movement he was involved with, his other works with the dicipline of a studious academic.
+
+Saotome-sensei apologized profusely for Sayaka-chan's interruption, and ultimately gave her a B.
+
+*Shame they don't know about his niece being a magical girl.*
+
+Kaname-akuma reflected on the mewlings of the countless familiars and witches whinging in her celestial ear.  She permitted her inner circle (who said a god couldn't have favorites?) to devour the others, their grief seeds bursting back to life quickly.  
+
+*And so, Saturn enabled her daughters, rending flesh from bone out of fear they too would attempt to overthrow her.*
+
+She turned a deaf ear to her obligations, and instead focused her attention on her beloved, her eternal, perpetual enemy.  
+
+Akemi Homura, her fallen angel, the one magical girl could not save because of the Incubator's abuse of her beloved's word.
+
+*Kyubey?*
+
+She felt the interloper materialize her shoulder, instinctually aware that the others in her class, magical girl or not, would be unable to see her most useful tool at the moment.
+
+*Kaname Madoka.*
+
+*See to it that Charlotte knows that her dues are coming up.  She'll recover in two cycles instead of five if she plays her role well.*
+
+*Are you sure you wish to invoke Momoe Nagisa so quickly?  This is still two days too early in the script we were provided.*
+
+*You weren't kept around to question my motives, Kyubey.*
+
+The Incubator hitched for a moment, as if attempting to retch up a furball, and then vanished with a message.
+
+*As you wish.*
+
+----
+
+

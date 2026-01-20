@@ -10,7 +10,7 @@ Still, her heart condition had limited her options, and the doctors in Mitakihar
 
 "Christian huh.  Girls only or not?" prattled Koito.
 
-"I don't understand why that-"
+"I don't understand why that—"
 
 "Akemi-san, do you have any hobbies?" interrupted Minori.
 
@@ -206,7 +206,7 @@ She glanced back at Hitomi.
 
 Hitomi arrived well before her, her attention engrossed into a pocket compact as applied her makeup.
 
-*She's doing her makeup?  Since when did-*
+*She's doing her makeup?  Since when did—*
 
 Homura ran her fingers through her hair, or rather, tried to. She had forgotten she braided her hair this morning *somehow*.  Unable to cope with such a tragic and significant error in her self-image, she visibly cringed before she was even able to catch herself.
 
@@ -214,7 +214,7 @@ Homura ran her fingers through her hair, or rather, tried to. She had forgotten 
 
 "Homura-chan!" Hitomi smiled. Placid, elegant, sensible.  She didn't comment on her mistake, because of course she didn't. That was the type of girl she was.
 
-"Shizuki-san, I-" she stopped, the words dead on her lips as she processed what her classmate had said.
+"Shizuki-san, I—" she stopped, the words dead on her lips as she processed what her classmate had said.
 
 "You called me Homura-chan."
 
