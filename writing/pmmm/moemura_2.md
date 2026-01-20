@@ -39,7 +39,7 @@ Homura only returned her cordial smile with a fascimile of her shrewdness.
 
 Sayaka seethed in response.  Homura was *right*, she had no reason to believe her since her memories had been altered. Why did Madoka have to go and do what she did to her?  Had she truly lost her mind?
 
-Homura sat there, mind reeling.
+Homura sat there, a veritable barrage accumulating in her psychic outbox.
 
 *So if you're a magical girl, what do you fight?  Or is it like a "defenders of the earth" thing?  How many are you?  Do you get special powers?  How about a baton, or cute outfits?  I kinda saw yours in the dream but maybe it's different-*
 
@@ -50,6 +50,7 @@ Homura sat there, mind reeling.
 *Since when were you a nerd?*
 
 Homura tilted her head, the tail of her braid bobbing gently in response.  The beads collided with the back of her chair, the clatter audible.
+
 *Since... always?*
 
 "Huh..." Sayaka mumbled, scarcely aware she had let out sound.
@@ -96,13 +97,13 @@ She just prayed she wouldn't get too upset with it.  She needed to stay alive lo
 
 ----
 
-Lunch arrived without much bravado.  Yuzuki had continued her presentation, evoking imagery of the aftermath of nuclear fallout to juxtaspose Mondrian's Gray Tree.  She furthered the contrast against his other works, the art movement he was involved with, all approached with the dicipline of a studious academic.
+Lunch arrived without much bravado.  Yuzuki had continued her presentation, evoking imagery of the aftermath of nuclear fallout to juxtaspose Mondrian's Gray Tree.  She furthered the contrast against his other works, the art movement he was involved with, all approached with the dicipline of a rigorous academic.
 
-Saotome-sensei apologized profusely for Sayaka-chan's interruption, and ultimately gave her a B.
+Saotome-sensei apologized profusely for Sayaka-chan's interruption, and ultimately gave her an A.
 
 *Shame they don't know about his niece being a magical girl.*
 
-Madoka reflected on the mewlings of the countless familiars and witches whinging in her celestial ear.  She permitted her inner circle (who said a god couldn't have favorites?) to devour the others, their grief seeds bursting back to life quickly.  
+Madoka reflected on the mewlings of the countless familiars and witches whinging in her celestial ear.  She permitted her inner circle (who said a god couldn't have favorites?) to intercede on her beloved's behalf, in leiu of more formalized leadership.  
 
 *And so, Saturn enabled her daughters, rending flesh from bone out of fear they too would attempt to overthrow her.*
 
@@ -114,7 +115,7 @@ Akemi Homura, her fallen angel, the one magical girl could not save because of t
 
 *Kyubey?*
 
-She felt the interloper materialize her shoulder, instinctually aware that the others in her class, magical girl or not, would be unable to see her most useful tool at the moment.
+She felt the interloper materialize her shoulder, instinctually aware that the others in her class, magical girl or not, would be unable to see her least favorite tool.
 
 *Kaname Madoka.*
 
@@ -127,7 +128,6 @@ She felt the interloper materialize her shoulder, instinctually aware that the o
 The Incubator hitched for a moment, as if attempting to retch up a furball, and then vanished with a message.
 
 *As you wish.*
-
 
 ----
 
