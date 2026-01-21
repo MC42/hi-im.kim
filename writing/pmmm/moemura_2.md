@@ -253,9 +253,13 @@ Homura knew instantaneously that Kaname Madoka *wasn't* a magical girl.  She was
 
 "You need to give her her memories back.  Now."
 
-"But if this goes wrong, it could do *worse* than kill her."
+"I can't!  Not yet!"
 
-"If she's vomiting *buckler fragments!?*  It's already gone too far!"
+"Some of them, Madoka.  Please!" 
+
+"But if this goes wrong, it'll do *worse* than kill her."
+
+"She's vomiting *buckler fragments!*  It's already gone too far!"
 
 Madoka winced.  Sayaka was right.  She may be a devil (and a pathetic one at that), but she wasn't a monster.  Madoka clapped her hands only once as the world shimmered.
 
@@ -265,7 +269,7 @@ The ring on Homura's finger shone brighter in the dim of the nurse's office, Mad
 
 Sayaka gave up on all pretense of hiding what she was, summoning not only her magical girl attire, but healing tune circles, the runes obvious quarter and eighths notes with the benefit of her own self-awareness.
 
-*Ba, de, de de, ba ba...* <!-- venari strigas -->
+*Ba, de, de, de, de, ba ba bi...*
 
 *Sayaka-chan...*
 
@@ -307,7 +311,7 @@ Homura glared at Tomoe Mami, running her fingers through her hair as if by rote 
 
 "I'm aware of *that part*, Miki-san.  I heard the nurse.  What happened in *here*?"
 
-Sayaka awkwardly shuffled.
+Sayaka awkwardly shuffled in her seat, not sure how to describe Kaname Madoka, _a devil_, to her most devout follower.
 
 "Well..."
 
@@ -315,11 +319,11 @@ Sayaka awkwardly shuffled.
 
 Of *course* she would regard herself as such; pretender.
 
-Sayaka leapt to her feet in an instant.  "Oh fuck _off_, *I* healed her.  Your "Lady Kaname" dealt with the broken buckler."
+Sayaka leapt to her feet in an instant.  "Oh fuck _off_, *I* healed her.  All "Lady Kaname" did was help with the broken buckler."
 
-"My buckler?" Homura murmured, as she transformed into her magical girl attire, finding it conspicuously absent.
+"My buckler?" Homura murmured, materializing her magical girl regalia in an instant, looking down to find her buckler conspicuously absent.
 
-"Yeah uh... you heard Madoka's name and vomited up the sand from the shield when you... y'know."
+"Yeah uh... you heard Madoka's name and vomited up the sand from the shield..."
 
 Homura's face flashed with fear, her mind run amock.
 
@@ -327,25 +331,33 @@ Homura's face flashed with fear, her mind run amock.
 
 "Hey, hey, hey, hey.  Homura.  Hey.  Look at me.  We'll be *okay*, okay?"
 
-Homura didn't hear her, arms shaking as she gripped her forearm as if it would miraculously return her primary weapon.  Oilstains dripped at the ground around her, Sayaka's eyes flitting to the ground as she recognized the tell-tale pitch of despair.
+Homura didn't hear her, arms shaking as she gripped her forearm as if it would miraculously return her primary weapon.  Oilstains dripped at the ground around her, Sayaka's eyes flitting to the ground, some instinctual part of her mind recognizing the tell-tale pitch of despair.
+
+Or perhaps it was the mounting chanting of the Clara dolls, the drumming of *Gott ist tot* grabbing at her heart.
 
 "Akemi-san, please.  Pull yourself together.  Our Lady Kaname expects you to make a full recovery."
 
-Homura *still* didn't hear her, the mechanical ticking of a clock grinding in her ears, irrepressable.
+Homura *still* didn't hear her, the mechanical ticking of a clock grinding in her ears, irrepressable, the faintest threads of spiderweb creeping out of her eyes and rising skywards.
 
-Mami fashioned a musket from her ribbon, sighed, and fired the musket at the wall, right next to Homura's ear.
+Mami fashioned a musket from her ribbon, sighed, and fired her musket, once, twice, the shot erupting mere inches from Homura's ear.
 
-Homura managed to produced a pistol from nowhere, aiming it at her would-be assailant. <!-- hammerspace pistol, gift from Mami. -->
+In an instant, the scarlet spiderweb dissolved, the chanting halted, the oil slick waned.  In their place was a readied Homura, levying a pistol at Tomoe Mami, aimed right at the blossom in her cap. <!-- hammerspace pistol, gift from Mami. -->
 
 "Don't." she barked, Mami-san dissolving her musket as Homura glanced down at her still shaking hands.
 
 "Where the hell did you get that _gun_, Homura?"
 
-"I don't-" she began, inspecting the grip.  "I don't know.  It's clearly derived from a 1911, but the design on the grip?  Yellow flowers?  That's *very* clearly Tomoe-san's."
+"I don't-" she began, inspecting the grip.  "I don't know."
 
-"I did *no such thing*.  You *must* be confusing me for someone else." she scoffed.
+"What do you *mean*, you don't know?"
 
-Homura glanced knowingly at Sayaka, the implication of a past timeline fresh in both of their minds.
+"It's clearly derived from a 1911, but the design on the grip?  Yellow flowers?  That's *very* clearly Tomoe-san's."
+
+"I did *no such thing*.  You *must* be confusing me for someone else." she scoffed, somehow forgetting that she discharged a musket in the nurse's office, Homura mere moments from returning fire.
+
+*It's from a very early loop.  A momento.*
+
+Homura glanced knowingly at Sayaka, the magical girl made more knowing damn well Homura didn't want to wear her heart on her sleeve for the commondant of the hour.
 
 Sayaka peered down at the floor, the oilstains surrounding Homura's cot having vanished as quickly as they'd arrived. *Phew.*  
 
