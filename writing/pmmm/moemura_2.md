@@ -281,62 +281,54 @@ Madoka took the cue to clap once more, the glow in the room returning to the mut
 
 ----
 
-<!-- https://www.youtube.com/watch?v=S9bpPWfiMLw -->
+Homura awoke to find Sayaka Miki and... someone else, sitting in the waiting room.
 
-<!-- Labyrinth Notes: https://wiki.puella-magi.net/Izabel -->
-<!--
-Homura was panting, footfall clattering against the monochromatic landscape as she raced through the distorted realm.
+Immaculate blonde hair, flower pin, decently narrowing in who it could be.  Hair in twin drills that could pierce the heavens?  That made it plausibly one, maybe two people on the planet.
 
-She had tripped into something strange, something *gross*, and it was horrifying.
+She had seen Sayaka murmuring to Hitomi when she had walked by the classroom previously, and the telepathic hearsay that continued long after she had departed.
 
-"Homura!" Sayaka bellowed as she barreled into the arch, her sword dislodging brick by brick as the witch groaned in agony.
+"Tomoe-san."
 
-"I'm sorry..." Sayaka whispered, screaming down to Homura.
+"That's me." she smiled, the same pacifying fascia that Hitomi erected.  Her parents had been politicians, after all.
 
-"You okay!?"
+Some nacent part of Homura's psyche realized in that moment that some of her memories had been returned.  More alarmingly, was the ones still missing.
 
-"Yeah!"
+She recalled Madoka departing their world, and ugly-crying on a train station platform.
 
-"What the hell *is that thing!*"
+She remembered Sayaka's death, birthing the witch Oktavia von Seckendorff... and yet the girl sat across from her, as if a concerned family member.
 
-"A witch!"
+*One oddity at a time.*
 
-"What's a witch!  I thought you fought wraiths!?"
+"What happened to me, Miki-san?"
 
-Musketfire exploded next to Homura's ear.
+"You passed out on the field.  Nurse said you were dehydrated."
 
-"We do."
+Homura glared at Tomoe Mami, running her fingers through her hair as if by rote memorization.  It *had* been her impulse for a decade plus, after all.
 
-"Who are *you*?" Homura balked, the new girl vaguely familiar, but clearly another magical girl.  Curly locks in a vibrant yellow, not-quite-blonde, a feathered beret-cap, a glittering yellow gem nestled at the center of a flower.  She was holding a musket in the same decor (aren't guns illegal!?) 
+"I'm aware of *that part*, Miki-san.  I heard the nurse.  What happened in *here*?"
 
-"Tomoe Mami.  I'm a friend."
+Sayaka awkwardly shuffled.
 
-"Of Sayaka-chan?"
+"Well..."
 
-"Something like that."
+"Lady Kaname healed you." Mami spoke confidently, with an ego commensurate with a high priestess.
 
-Homura wasn't sure, but she found herself thinking about that strange dream; is this that same girl?
+Of *course* she would regard herself as such; pretender.
 
-On her shoulder was perched none other than the cabbity interloper themself.  
+Sayaka leapt to her feet in an instant.  "Oh fuck _off_, *I* healed her.  Your "Lady Kaname" dealt with the broken buckler."
 
-"Uh..." Homura muttered, jaw agape.  Sure, she was still in a nightmarish labyrinth, but the creature on the new girl, Tomoe-san, was it?  On her shoulder, it was like someone had animated an amalgamation of every shoujo animal into one.  Golden rings, long ear....hands?  It all blurred.
+"My buckler?" Homura murmured, as she transformed into her magical girl context, finding it conspicuously absent.
 
-*Hello, Akemi Homura.*
+"Yeah uh... you heard Madoka's name and vomited up the sand from the shield when you... y'know."
 
-"It can speak."
+Homura's face flashed with fear, her mind run amock.
 
-*Yes.  Akemi Homura, are you aware you are an irregularity?*
+*I can't redo this, I can't rewind this, I cannot go forward with no way back-*
 
-"Kyubey, we don't have time for this."
+"Hey, hey, hey, hey.  Homura.  Hey.  Look at me.  We'll be *okay*, okay?"
 
-"You and Sayaka Miki do not have time "for this", Tomoe Mami.  I must talk to Akemi Homura.  Please dispatch the witch."
+Homura didn't hear her, arms shaking as she gripped her forearm as if it would miraculously return her primary weapon.
 
-Mami-san shot Kyubey a dirty look as the furball leapt off of Mami's shoulder and landed squarely around Homura's neck.
+"Akemi-san.  Please pull yourself together.  Lady Kaname expects you to make a full recovery."
 
-*He smells like disinfectant... kinda.*
-
-"Hey there little guy..." Homura murmured, scratching the creature under the chin, a purple and black diamond barely visible on her fingernail.
-
-Sayaka looked down at Tomoe Mami and registered that she was wearing a look of disgust, her arms holding her musket close, as if to stop herself from using it.  She wasn't staring at Sayaka, no.  She was looking at *Kyubey*.
-
-*Huh.* -->
+Homura *still* didn't hear her, the mechanical ticking of a clock grinding
