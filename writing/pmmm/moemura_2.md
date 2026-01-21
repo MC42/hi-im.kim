@@ -322,15 +322,15 @@ Sayaka leapt to her feet in an instant.  "Oh fuck _off_, *I* healed her.  All "L
 
 "Buckler?  Healing?  Huh?" Homura's confusion twisting her face into knots, both Mami and Sayaka clearly upset by such neglect.
 
-"A bucker is-"
+"A bucker is—"
 
-"a shield, but"
+"— a shield, but"
 
-"Smaller, and-"
+"Smaller, and—"
 
-"And I-"
+"And I—"
 
-Sayaka and Mami glared daggers, costumes materializing as the social domineering came dangerously close to a spar.
+Sayaka and Mami glared daggers back and forth, each interruption advancing the anger percolating to the surface.  By the end of a singular sentence, costumes had materialized and old peers had ended up dangerously close to sparring.  Homura's attention was elsewhere though.
 
 "Ohmygosh Sayaka, your _outfit!_" Homura beamed, Sayaka suddenly feeling *incredibly* self-conscious.
 
@@ -362,17 +362,46 @@ Homura murmured, still very much bedridden as she reflected on the oddity in her
 
 "Where did this ribbon come from?"
 
-"It was-"
+"It was—"
 
-"A gift, from our Lady Kaname."
+"A gift!  From our Lady Kaname."
 
 "Our?" Homura asked, clearly unsure what Tomoe-san was conveying in her declaration.
 
-"Our Lady Kaname, whose mission is to banish despair, and save magical girls from their inevitable fates the world over?  To prevent more souls from being devoured by that _vile_ Incubator?"
+"Our Lady Kaname, whose mission is to banish despair?  Who aspires to save magical girls from their inevitable fates the world over?  To prevent more souls from being devoured by that _vile_ Incubator?"
 
 Homura simply blinked.
 
 "What I think she *means to say* is that your "sworn enemy" left you a gift.  I think she wants to be enemies-to-lovers, but it's probably a little fast when you're not even _enemies_ yet."
 
 "When I remember, we'll be enemies..."
+
+*I don't know if Tomoe-san is okay...* Homura thought to Sayaka, still fidgeting with the ribbon in her hands as iridescent sparkles flaked off of it.
+
+*She absolutely isn't.  Stop playing with it for now, please*
+
+Homura swung her legs off the gurney, stars dancing in her eyes as she plunged the ribbon into the pocket of her school uniform.
+
+"Oh gosh it's late.  Sayaka-chan... I know I said we were going to do *sports stuff* toda—"
+
+"You already've seen me in my costume, Homura.  I think we're *past* asking for seeing "warmups."
+
+Homura simply smiled.
+
+"Then could I ask a _magical girl_ to escort me safely home?"
+
+Mami looked forlorn, as if considering breaking from her allegiances with such an innocent request.
+
+"While I would love to, I have duties to attend to.  The sun has set, and so wraiths are abound."
+
+"I got her, Mami-san.  Don't worry about us."
+
+"I won't.  The goddess watches over you." she answered decisively, eyes closed as if in prayer. Tomoe Mami opened her eyes as she dissolved her regalia, and stared down at the xanthous stone in her hand.  With a sigh, she exited the nurse's office and headed for home.
+
+----
+
+The pair of them walked out of the school building together, erzatz shadows cast by ambience lighting in a building made of windows and optics.
+
+It felt almost haunted.
+
 
