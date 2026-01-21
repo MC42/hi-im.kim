@@ -306,11 +306,11 @@ She recalled ugly-crying on a train station platform, morning the late Sayaka.  
 
 "You passed out on the field.  Nurse said you were dehydrated."
 
-Homura glared at Tomoe Mami, picking at the ends of her hair, a nervous tick gone awry.  
+Homura turned her attention to Tomoe Mami, picking at the ends of her hair, a nervous tick gone awry.  
 
-"I... think that makes sense.  But there was talk in the nurses office... The lights... I think?"
+"I... think that makes sense.  But there was other talk in the nurses office... Something about the lights... I think?"
 
-Sayaka awkwardly shuffled in her seat, not sure how to describe Kaname Madoka, _a devil_, to her most devout follower.
+Sayaka awkwardly shuffled in her seat, not sure how to describe Kaname Madoka, _a lucifer unto herself_, to her most devout follower.
 
 "Well..."
 
@@ -324,7 +324,7 @@ Sayaka leapt to her feet in an instant.  "Oh fuck _off_, *I* healed her.  All "L
 
 "A bucker is—"
 
-"— a shield, but"
+"—a shield, but—"
 
 "Smaller, and—"
 
@@ -332,7 +332,7 @@ Sayaka leapt to her feet in an instant.  "Oh fuck _off_, *I* healed her.  All "L
 
 Sayaka and Mami glared daggers back and forth, each interruption advancing the anger percolating to the surface.  By the end of a singular sentence, costumes had materialized and old peers had ended up dangerously close to sparring.  Homura's attention was elsewhere though.
 
-"Ohmygosh Sayaka, your _outfit!_" Homura beamed, Sayaka suddenly feeling *incredibly* self-conscious.
+"Ohmygosh Sayaka, your _outfit!_" Homura beamed, Sayaka suddenly feeling *incredibly* self-conscious of exposed midriff and a flattering top.  
 
 "And Tomoe-san, the BOOTS!  They're so, so, so... commanding!"
 
@@ -346,7 +346,7 @@ Homura's cheeks suddenly turned the same hue as the ribbon in her hand, realizin
 
 Sayaka blinked once, twice, Tomoe Mami's intonation appearing in her mind directly.
 
-*Wasn't that purple before?*
+*Wasn't that ribbon purple before?*
 
 Sayaka bit the inside of her cheek, nervous, thoughts scattered.
 
@@ -357,6 +357,8 @@ She furroughed her brow, as if to give the illusion of thought.
 *I thought it was red?*
 
 "Hm." Mami intoned, not sure she believed Sayaka's response in whole, but confident enough to drop it for the time being.
+
+For the time being.
 
 Homura murmured, still very much bedridden as she reflected on the oddity in her hands, running the silken fabric through her fingers along the silver band.  She shivered.
 
