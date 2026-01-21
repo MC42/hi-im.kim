@@ -63,7 +63,7 @@ Homura had no reason to believe that magical girls were real except for a few st
 
 *Fine.  I'll stay after school for a "club" if you will.*
 
-Sayaka reflected to herself.  Mercifully, Kyouske's arm remained healed in this *disaster* of a universe.  She didn't have anything else going on.
+Sayaka reflected to herself.  Mercifully, Kyouske's arm remained healed in this *disaster* of a universe, so it wasn't like she had to go and visit him in the hospital.  Given that?  She certainly didn't have anything else going on.
 
 *Until then... do you have questions or somethin'?*
 
@@ -159,13 +159,15 @@ The Incubator hitched for a moment, as if attempting to retch up a furball, and 
 
 ----
 
-Homura got to see Sayaka's costume.  She had fainted during gym class, and Sayaka beat *Kaname-san* to her.  Impressive, all things considered.  All the magic in the universe, and _Sayaka_ got there first?
+Homura fainted during gym class, stressed, collapsed.  Sayaka leapt to her aid and somehow, against all odds, beat *Kaname-san* to her.  
+
+All the magic in the universe, and _Sayaka_ got there first?
 
 She shuddered, involuntarily.  She didn't like to show her dread, especially not in front of others, but the thought had simply *appeared*.
 
 *Maybe Madoka meant for me to get there first...*
 
-Sayaka hauled Homura onto the gurney in the nurse's office, quickly checking her pulse.
+Sayaka hauled Homura onto the gurney in the nurse's office, quickly checking her pulse as the nurse blinked in shock.  She hadn't seen them enter. (Sayaka wasn't exactly moving *slowly*)
 
 As she jammed her fingers into Homura's too-cold wrist, she couldn't help but notice the silver band on her finger.  Exactly the same as her.
 
@@ -183,29 +185,33 @@ Homura groaned, guttural and barely conscious, stars still dancing in her vision
 
 After what felt like an eternity, the nurse made her diagnosis, and they both breathed more easy for it.
 
-"She was just dehydrated." the nurse said rather flatly.  "Have an electrolyte drink, then get back to classes when you're not nauseous."
+"She was just dehydrated." the nurse said rather flatly, still partially in disbelief at their inexplicable entrance.  
 
-"Thank you." Homura murmured, as the bell to the office rang.  Pink hair, white ribbons.  *Shit.*
+"Have an electrolyte drink, then get back to classes when you're not nauseous."
+
+"Thank you." Homura murmured, her sentence aborted as the door chime to the office rang.  
+
+Pink hair, white ribbons.  *Shit.*
 
 Sayaka didn't want to deal with this, and here she was.  Again.   Unwittingly between a goddess and her devil, the world's least stable throuple.  
 
-She so desperately wanted to hack-n'-slash her way out.  She knew it'd do nothing, so she didn't.
+She so desperately wanted to hack-n'-slash her way out.  She knew it'd do nothing, and so she didn't.  Barely.
 
 *Damn.*
 
-"Figures it was you." Sayaka muttered, Homura looking mortified.
+"Figures it's you." Sayaka muttered, Homura looking mortified.
 
-"I'll give you girls a minute." the nurse murmured, leaving Kaname Madoka standing in the doorway.
+"I'll give you girls a minute." the nurse murmured, exiting the nurses office in a hurry.  The door closed in a clatter, leaving Kaname Madoka standing in the doorway.
 
 "Sayaka-chan."
 
 "Madoka."
 
-"I don't know what you're planning, but-"
+"I don't know what you're planning, but—"
 
-"Sayaka-chan... this isn't part of some scheme.  I can promise you that."
+"Sayaka-chan, this isn't part of some scheme.  I can promise you that."
 
-Sayaka receded, visibly confused.  This wasn't like her... you don't force your other half to take your place in heaven and then *let her get sick*.
+Sayaka receded, visibly confused.  This wasn't like her...but then again, neither was stealing Homura's whole "brooding embodiment of evil" visage.
 
 "I just wanted to check up on my Homura-chan."
 
@@ -229,7 +235,7 @@ Madoka looked at her, eyes weary.  Sayaka knew.  She knew what it was like to pl
 
 *That's... a lot harder Sayaka-chan.  I'm not going to give up though, keeping hope is still my wish.*
 
-*Madoka...*
+"Madoka..."
 
 Homura reeled at the sound, lurching forward as glittering pink sand spilled out of her mouth onto the gurney.
 
@@ -237,13 +243,13 @@ Homura reeled at the sound, lurching forward as glittering pink sand spilled out
 
 Madoka froze, the source instantly obvious to her.  She had watched the sand fall too many times as Homura reset time, frustratingly unable to stop it.
 
-Within the context of her wish, Homura may as well have been a goddess from the moment she contracted.
+Within the context of her wish, Homura may as well have been a goddess from the moment she contracted.  And now god was dying.
 
-Her school attire dissolving in an instant, replaced with an ornate, black dress, a revealing plunge on an outfit that flowed down to her feet and stopped just short of strappy white heels.  Her white ribbons became white bows, her nominally yellow, muted eyes replaced with incarnadine spheres, intimately familiar to Homura, even if she couldn't place from where.  
+Her school attire dissolved in an instant, replaced with an ornate, black dress.  A revealing plunge flattered her on an outfit that flowed down to her feet and stopped just short of strappy white heels.  Her white ribbons became white bows, her nominally yellow, muted eyes replaced with incarnadine spheres, intimately familiar to Homura, even if she couldn't place from where.  
 
-On her ear, rather than over her heart, shone a pink stone, wrapped in delicate petals.  The gemstone hung suspended from the tail of a white bird of some kind.  As if her attire hadn't been enough, her hair seemed to braid itself into a single continuous bundle behind her back, many times longer and more luminous than it had been mere moments prior.
+On her ear, rather than over her heart, shone a pink stone, wrapped in delicate petals.  The gemstone hung suspended from the tail of a white bird of some kind, curled around the outside of the lobe.  As if her attire hadn't been extravagant enough, her hair seemed to braid itself into a single continuous bundle behind her back, many times longer and more luminous than it had been mere moments prior.
 
-Homura knew instantaneously that Kaname Madoka wasn't a magical girl, somehow.  She was too *beautiful*.  And then she vomited glass.
+Homura knew instantaneously that Kaname Madoka *wasn't* a magical girl.  She was too *beautiful*, the woman unbecoming of the diminutive.  And then she vomited glass.
 
 "You need to give her her memories back.  Now."
 
@@ -251,11 +257,11 @@ Homura knew instantaneously that Kaname Madoka wasn't a magical girl, somehow.  
 
 "If she's vomiting *buckler fragments!?*  It's already gone too far!"
 
-Madoka winced.  Sayaka was right.  She may be a devil (and a pathetic one at that), but she wasn't a monster.  She clapped her hands only once as the world shimmered.
+Madoka winced.  Sayaka was right.  She may be a devil (and a pathetic one at that), but she wasn't a monster.  Madoka clapped her hands only once as the world shimmered.
 
 "I'm sorry, Homura-chan."
 
-The ring on Homura's finger shining brighter in the dim of the nurse's office, and Madoka untied one of her ribbons, placing it into Homura's hands.
+The ring on Homura's finger shone brighter in the dim of the nurse's office, Madoka loosening the now redundant ribbon from her hair, gently curling it up into Homura's hands.
 
 Sayaka gave up on all pretense of hiding what she was, summoning not only her magical girl attire, but healing tune circles, the runes obvious quarter and eighths notes with the benefit of her own self-awareness.
 
