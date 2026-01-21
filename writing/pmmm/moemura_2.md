@@ -355,7 +355,7 @@ In an instant, the scarlet spiderweb dissolved, the chanting halted, the oil sli
 
 "I did *no such thing*.  You *must* be confusing me for someone else." she scoffed, somehow forgetting that she discharged a musket in the nurse's office, Homura mere moments from returning fire.
 
-*It's from a very early loop.  A momento.*
+*It's from a very early loop.  A memento.*
 
 Homura glanced knowingly at Sayaka, the magical girl made more knowing damn well Homura didn't want to wear her heart on her sleeve for the commondant of the hour.
 
