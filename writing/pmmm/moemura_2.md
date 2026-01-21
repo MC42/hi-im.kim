@@ -285,31 +285,30 @@ Madoka took the cue to clap once more, the glow in the room returning to the mut
 
 ----
 
+<!-- below section should be moved to Satomi Medical AND set in Ch3/4. -->
 Homura awoke to find Sayaka Miki and... someone else, sitting in chairs at the edge of the room.
 
-Immaculate blonde hair, flower pin, decently narrowing in who it could be.  Hair in twin drills that could pierce the heavens?  That made it plausibly one, maybe two people on the planet.
+Immaculate blonde hair, flower pin, decently narrowing in who it could be.  Hair in twin drills that could pierce the heavens?  That made it plausibly one, maybe two people on the planet, and only one was an upperclassmen.
 
 She had seen Sayaka murmuring to Hitomi when she had walked by the classroom previously, and the telepathic hearsay that continued long after she had departed.
 
-"Tomoe-san."
+"Tomoe...san?"
 
 "That's me." she smiled, the same pacifying fascia that Hitomi erected.  Her parents *had* been politicians, after all.
 
-Some nacent part of Homura's psyche realized in that moment that some of her memories had been returned.  More alarmingly, was the ones still missing.
+Some nacent part of Homura's psyche realized in that moment that some of her memories had been returned, and more alarmingly, just how *much* of her past was missing.   
 
-She recalled Madoka departing their world, and ugly-crying on a train station platform.
+She recalled ugly-crying on a train station platform, morning the late Sayaka.  Sayaka Miki.  The same girl sitting across from her, as if a concerned family member.
 
-She remembered Sayaka's death, birthing the witch Oktavia von Seckendorff... and yet the girl sat across from her, as if a concerned family member.
-
-*One oddity at a time.*
+*One mystery at a time.*
 
 "What happened to me, Miki-san?"
 
 "You passed out on the field.  Nurse said you were dehydrated."
 
-Homura glared at Tomoe Mami, running her fingers through her hair as if by rote memorization.  It *had* been her impulse for a decade plus, after all.
+Homura glared at Tomoe Mami, picking at the ends of her hair, a nervous tick gone awry.  
 
-"I'm aware of *that part*, Miki-san.  I heard the nurse.  What happened in *here*?"
+"I... think that makes sense.  But there was talk in the nurses office... The lights... I think?"
 
 Sayaka awkwardly shuffled in her seat, not sure how to describe Kaname Madoka, _a devil_, to her most devout follower.
 
@@ -321,58 +320,59 @@ Of *course* she would regard herself as such; pretender.
 
 Sayaka leapt to her feet in an instant.  "Oh fuck _off_, *I* healed her.  All "Lady Kaname" did was help with the broken buckler."
 
-"My buckler?" Homura murmured, materializing her magical girl regalia in an instant, looking down to find her buckler conspicuously absent.
+"Buckler?  Healing?  Huh?" Homura's confusion twisting her face into knots, both Mami and Sayaka clearly upset by such neglect.
 
-"Yeah uh... you heard Madoka's name and vomited up the sand from the shield..."
+"A bucker is-"
 
-Homura's face flashed with fear, her mind run amock.
+"a shield, but"
 
-*I can't redo this, I can't rewind this, I cannot go forward with no way back-*
+"Smaller, and-"
 
-"Hey, hey, hey, hey.  Homura.  Hey.  Look at me.  We'll be *okay*, okay?"
+"And I-"
 
-Homura didn't hear her, arms shaking as she gripped her forearm as if it would miraculously return her primary weapon.  Oilstains dripped at the ground around her, Sayaka's eyes flitting to the ground, some instinctual part of her mind recognizing the tell-tale pitch of despair.
+Sayaka and Mami glared daggers, costumes materializing as the social domineering came dangerously close to a spar.
 
-Or perhaps it was the mounting chanting of the Clara dolls, the drumming of *Gott ist tot* grabbing at her heart.
+"Ohmygosh Sayaka, your _outfit!_" Homura beamed, Sayaka suddenly feeling *incredibly* self-conscious.
 
-"Akemi-san, please.  Pull yourself together.  Our Lady Kaname expects you to make a full recovery."
+"And Tomoe-san, the BOOTS!  They're so, so, so... commanding!"
 
-Homura *still* didn't hear her, the mechanical ticking of a clock grinding in her ears, irrepressable, the faintest threads of spiderweb creeping out of her eyes and rising skywards.
+For a moment, Tomoe Mami returned to the nervous mentor both girls had known, her steeled demeanor slipping into a nervous blush.
 
-Mami fashioned a musket from her ribbon, sighed, and fired her musket, once, twice, the shot erupting mere inches from Homura's ear.
+"Oh, thank you Akemi-san, that's very sweet."
 
-In an instant, the scarlet spiderweb dissolved, the chanting halted, the oil slick waned.  In their place was a readied Homura, levying a pistol at Tomoe Mami, aimed right at the blossom in her cap. <!-- hammerspace pistol, gift from Mami. -->
+"Jeez Homura, do you flirt with _every_ girl you find out is a magical girl?"
 
-"Don't." she barked, Mami-san dissolving her musket as Homura glanced down at her still shaking hands.
+Homura's cheeks suddenly turned the same hue as the ribbon in her hand, realizing in an instant that she was *holding* such a ribbon.
 
-"Where the hell did you get that _gun_, Homura?"
+Sayaka blinked once, twice, Tomoe Mami's intonation appearing in her mind directly.
 
-"I don't-" she began, inspecting the grip.  "I don't know."
+*Wasn't that purple before?*
 
-"What do you *mean*, you don't know?"
+Sayaka bit the inside of her cheek, nervous, thoughts scattered.
 
-"It's clearly a 1911, but the design on the grip?  Yellow flowers?  That's very clearly Tomoe-san's motif."
+*If she knows it's the same ribbon, will she try to steal it back for Madoka?*
 
-"It's certainly not *my* gun, that's for sure.  You *must* be confusing me for someone else." she scoffed, somehow forgetting that she discharged a musket in the nurse's office, Homura mere moments from returning fire.
+She furroughed her brow, as if to give the illusion of thought.
 
-Homura glanced knowingly at Sayaka, the magical girl made more knowing damn well Homura didn't want to wear her heart on her sleeve for the commondant of the hour.
+*I thought it was red?*
 
-*It's from a very early loop.  A memento.*
+"Hm." Mami intoned, not sure she believed Sayaka's response in whole, but confident enough to drop it for the time being.
 
-Sayaka peered down at the floor, the oilstains surrounding Homura's cot having vanished as quickly as they'd arrived. *Phew.*  
+Homura murmured, still very much bedridden as she reflected on the oddity in her hands, running the silken fabric through her fingers along the silver band.  She shivered.
 
-"Okay well, that's a neat new-" Sayaka began, the sentence derailed as she saw Mami had raised a single closed fist.
+"Where did this ribbon come from?"
 
-They looked at her, indignant.  Since when was she a damned *field marshal*?
+"It was-"
 
-"Are both of you so *insensitive* to your own soul gems as to not notice something manifesting itself?"
+"A gift, from our Lady Kaname."
 
-"A wraith?"
+"Our?" Homura asked, clearly unsure what Tomoe-san was conveying in her declaration.
 
-"Ever the genius, Miki-san." Mami prattled, Sayaka rolling her eyes.
+"Our Lady Kaname, whose mission is to banish despair, and save magical girls from their inevitable fates the world over?  To prevent more souls from being devoured by that _vile_ Incubator?"
 
-Homura wasn't so sure.  She played back the last several days of her life, menial homework (though she wouldn't say as much at the time), decent moments with her friends Hitomi and Sayaka... familiar and discomforting experiences like beginning to pass out again.  All of it stacked up to an inevitable question.  One she was flabbergasted that Sayaka didn't seem to be asking.
+Homura simply blinked.
 
-"Where is Sakura Kyoko?"
+"What I think she *means to say* is that your "sworn enemy" left you a gift.  I think she wants to be enemies-to-lovers, but it's probably a little fast when you're not even _enemies_ yet."
 
-----
+"When I remember, we'll be enemies..."
+
