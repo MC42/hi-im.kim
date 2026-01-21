@@ -351,13 +351,13 @@ In an instant, the scarlet spiderweb dissolved, the chanting halted, the oil sli
 
 "What do you *mean*, you don't know?"
 
-"It's clearly derived from a 1911, but the design on the grip?  Yellow flowers?  That's *very* clearly Tomoe-san's."
+"It's clearly a 1911, but the design on the grip?  Yellow flowers?  That's very clearly Tomoe-san's motif."
 
-"I did *no such thing*.  You *must* be confusing me for someone else." she scoffed, somehow forgetting that she discharged a musket in the nurse's office, Homura mere moments from returning fire.
-
-*It's from a very early loop.  A memento.*
+"It's certainly not *my* gun, that's for sure.  You *must* be confusing me for someone else." she scoffed, somehow forgetting that she discharged a musket in the nurse's office, Homura mere moments from returning fire.
 
 Homura glanced knowingly at Sayaka, the magical girl made more knowing damn well Homura didn't want to wear her heart on her sleeve for the commondant of the hour.
+
+*It's from a very early loop.  A memento.*
 
 Sayaka peered down at the floor, the oilstains surrounding Homura's cot having vanished as quickly as they'd arrived. *Phew.*  
 
@@ -371,7 +371,7 @@ They looked at her, indignant.  Since when was she a damned *field marshal*?
 
 "Ever the genius, Miki-san." Mami prattled, Sayaka rolling her eyes.
 
-Homura wasn't so sure.  She recounted the last several days of her life, arriving at an inevitable question.  One she was flabbergasted that Sayaka didn't seem to be asking.
+Homura wasn't so sure.  She played back the last several days of her life, menial homework (though she wouldn't say as much at the time), decent moments with her friends Hitomi and Sayaka... familiar and discomforting experiences like beginning to pass out again.  All of it stacked up to an inevitable question.  One she was flabbergasted that Sayaka didn't seem to be asking.
 
 "Where is Sakura Kyoko?"
 
