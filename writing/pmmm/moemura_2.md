@@ -331,4 +331,13 @@ Homura didn't hear her, arms shaking as she gripped her forearm as if it would m
 
 "Akemi-san.  Please pull yourself together.  Lady Kaname expects you to make a full recovery."
 
-Homura *still* didn't hear her, the mechanical ticking of a clock grinding
+Homura *still* didn't hear her, the mechanical ticking of a clock grinding in her ears, irrepressable.
+
+Mami fashioned a musket from her ribbon, and fired it next to Homura's ear.
+
+She produced a gun from nowhere, aiming it at her would-be assailant.
+
+"What... the hell?"
+
+"Welcome back, Akemi."
+
