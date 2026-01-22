@@ -414,6 +414,7 @@ Mami looked forlorn, as if considering breaking from her allegiances with such a
 "I won't.  The goddess watches over you." she answered decisively, eyes closed as if in prayer. After a moment, Tomoe Mami dissolved her regalia, eyes cast down to the goldenrod gemstone that was her.  
 
 With a sigh, she exited the nurse's office and headed for home.
+
 ----
 
 The pair of them walked out of the school building together, ersatz shadows cast up and sideways by spotlights installed by an architect.  Allegedly.
