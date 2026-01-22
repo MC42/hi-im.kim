@@ -37,7 +37,7 @@ Homura wasn't paying attention to *paintings* today.
 
 "*Huh?*"
 
-Homura tilted her head, the shorthand their trio had inevitably arrived at for ~~shared psychosis~~ telepathy.
+Homura tilted her head, the shorthand their trio had inevitably arrived at for their... shared psychopathy.  Some part of Homura still worried, as implausible as it was, that she was back at Satomi Medical, just in a different wing.  No, somehow, *that* was the implausibility, and so she signaled to chatter telepathically.
 
 *You say you're a magical girl?  Can you show me? I'm still a little doubtful that it wasn't all a dream.*
 
@@ -125,17 +125,19 @@ Kaname Madoka nodded hastily and descended into her seat, shooting daggers at Sa
 
 She knew *damn well* that her being a sarcastic brat carried perfectly on telepathy.  Besides, you don't become the perpetual right-hand of a goddess without getting *very* close to her.
 
-Sayaka just prayed she wouldn't get *too* upset given her recent rebel phase.  She needed to stay alive long enough to fix this mess.
+Sayaka just prayed her *empress* wouldn't get *too* upset given her recent rebel phase.  There were still fates worse than death, sure, but Sayaka needed to stay alive long enough to fix this mess.
 
 ----
 
-Lunch arrived without much bravado.  Yuzuki had continued her presentation, evoking imagery of the aftermath of nuclear fallout to juxtaspose Mondrian's Gray Tree.  She furthered the contrast against his other works, the art movement he was involved with, all approached with the dicipline of a rigorous academic.
+Lunch arrived without much bravado.  Yuzuki had continued her presentation, slide after slide of Mondrian's works to compare and contrast.  
 
-Saotome-sensei apologized profusely for Sayaka-chan's interruption, and ultimately gave her an A.
+The core of her argument was that Piet's work serves as a visual shorthand for desolation, like that suffered in the aftermath of bombings, each slide practically dripping with context.  She covered the art movement he was involved with, his peers, family, his death, all approached with the dicipline of a rigorous academic.
 
-*Shame they don't know about his niece being a magical girl.*
+Saotome-sensei apologized profusely for Sayaka-chan's interruption, and ultimately gave her an A.  Anything less would have been insulting.
 
-Madoka reflected on the mewlings of the countless familiars and witches whinging in her celestial ear.  She permitted her inner circle (who said a god couldn't have favorites?) to intercede on her beloved's behalf, in leiu of more formalized leadership.  She never did believe in hierarchical systems, but it was hard to describe the rules that made the universe as anything but. 
+*Shame they don't know Piet's niece was a magical girl.*
+
+Madoka reflected on the mewlings of the countless familiars and witches whinging in her celestial ear.  She permitted her inner circle (who said a god couldn't have favorites?) to intercede in the absence of her better half, in leiu of more formalized leadership.  She never did believe in hierarchical systems, but it was hard to describe the rules that made the universe as anything but. 
 
 *And so, Saturn enabled her daughters, rending flesh from bone out of fear they too would attempt to overthrow her.*
 
