@@ -501,7 +501,7 @@ Kyubey remained on the bench, tail flipping expectantly.
 
 *Of all the magical girls I've been responsible for, I would never have expected this from you, Akemi Homura.*
 
-"Sayaka?  What does she *mean*?"
+"Sayaka?  What does he *mean*?"
 
 "I think it means-"
 
