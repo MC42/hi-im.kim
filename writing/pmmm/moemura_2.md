@@ -482,3 +482,28 @@ Sayaka looked at her, desperation in her eyes.
 
 "Homura...  Magical girls turn into *witches*."
 
+*Correct.*
+
+Both girls turned to find, sitting on the park bench behind them was none other than the Mitakihara incubator himself, Kyubey.
+
+"You." Sayaka growled, her cape fluttering in an absent breeze, Homura reaching for *something* as she found herself emptyhanded.  *Damn*.
+
+*Who else would I be?*
+
+She was trembling, the ribbon whipping about in the now _genuine_ wind, something grabbing at them, nipping at ankles as something began to coalesce.
+
+"What *is* that!?"
+
+Kyubey remained on the bench, tail flipping expectantly.
+
+*Of all the magical girls I've been responsible for, I would never have expected this from you, Akemi Homura.*
+
+"Sayaka?  What does she *mean*?"
+
+"I think it means-"
+
+The world around them collapsed, the intoxicating smell of sweets replacing the brackish air in a<!--sugar--> rush.
+
+----
+
+
