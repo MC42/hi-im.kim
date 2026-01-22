@@ -25,7 +25,7 @@ She refused to be reduced to such, such... stupidity!  And so she removed the po
 
 *Jerks.*
 
-The barrage of compliments, unwarranted, unneeded, and entirely unexpected was mercifully cut short by presentations.  The first was on a painting.
+The barrage of "compliments", unwarranted, unneeded, and entirely unexpected was mercifully cut short by presentations.  The first was on a painting.
 
 Homura wasn't paying attention to *paintings* today.
 
@@ -237,7 +237,9 @@ Before Sayaka had a chance to react, Madoka was at the lightswitch, the room plu
 
 *What I want?  What I WANT is my best friend back.*
 
-Madoka looked at her, eyes weary.  Sayaka knew.  She knew what it was like to plunge yourself into hell for someone you love... but to throw away *heaven*?  The infinite promises she made?
+Madoka looked at her, eyes weary.  Sayaka knew.  She *knew* artIwhat Sayaka had been through, what *Kyoko* had been through at her expense.  A tragedy, a horror.  She had *fought* for something in her death, and now?  Madoka had tossed it aside, and forced her significant other to rise to power in the throne she absconded.
+
+She knew there was no easy path back, but she wasn't going to give up either.
 
 *That's... a lot harder Sayaka-chan.  I'm not going to give up though, keeping hope is still my wish.*
 
@@ -277,7 +279,7 @@ The ring on Homura's finger shone brighter in the dim of the nurse's office, Mad
 
 Sayaka gave up on all pretense of hiding what she was, summoning not only her magical girl attire, but healing tune circles, the runes obvious quarter and eighths notes with the benefit of her own self-awareness.
 
-*Ba, de, de, de, de, ba ba bi...*
+*Ba, de, de, de, de, ba ba bi...* <!-- https://www.youtube.com/watch?v=Z77ZLwZY2Ao -->
 
 *Sayaka-chan...*
 
@@ -295,7 +297,7 @@ Madoka took the cue to clap once more, the glow in the room returning to the mut
 
 Homura awoke to find Sayaka Miki and... someone else, sitting in chairs at the edge of the room.
 
-Immaculate blonde hair, flower pin, decently narrowing in who it could be.  Hair in twin drills that could pierce the heavens?  That made it plausibly one, maybe two people on the planet, and only one was an upperclassmen.
+Immaculate blonde hair, flower pin, decently narrowing in who it could be.  Hair in twin drills that could pierce the heavens?  *That* narrowed it to one, maybe two people on the planet; Only one such individual was an upperclassmen.
 
 She had seen Sayaka murmuring to Hitomi when she had walked by the classroom previously, and the telepathic hearsay that continued long after she had departed.
 
@@ -345,7 +347,7 @@ Sayaka and Mami glared daggers back and forth, each interruption advancing the a
 
 For a moment, Tomoe Mami returned to the nervous mentor both girls had known, her steeled demeanor slipping into a nervous blush.
 
-"Oh, thank you Akemi-san, that's very sweet."
+"Thank you Akemi-san, that's very sweet."
 
 "Jeez Homura, do you flirt with _every_ girl you find out is a magical girl?"
 
