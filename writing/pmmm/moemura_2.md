@@ -438,7 +438,7 @@ Still blind to the actions of her peer, Homura had since tied the ribbon in her 
 
 "You stopped stuttering..."
 
-"I... yeah.  I suppose I did."
+"I... yes.  I suppose I did."
 
 Sayaka looked back at her, stopping head in her tracks.  She just blinked.
 
@@ -448,17 +448,23 @@ Sayaka looked back at her, stopping head in her tracks.  She just blinked.
 
 "No no, it's good.  It's just..."
 
-She shook her head, the thought dispersed with intentionality.  She said nothing for a while, Homura looking down at her soul gem.
+She shook her head, the thought dispersed with intentionality.  She said nothing for a while, Homura's attention seized by the glittering stone on her own finger.
+
+"It suits you." she declared, finally, her voice weak and pallid.
+
+She felt as though her throat might burst.  Stomach acid and shrapnel pouring out viciously.  The simple ordeal of being consumed by one's own body.
+
+She let the sound of the ocean wash over her.
 
 "Did you get your memories back?"
 
 "I... some of them.  I think."
 
-"What do you remember?"
+"What *do* you remember?"
 
 Homura hemmed and hawed, uncharacteristic.  She fixed her glasses, removing a single stray hair that had gotten pinched in the arm.
 
-She looked back at Sayaka, worry on her brow.
+Anything but giving Sayaka a straight answer, looking back to find her expression distorted by concern.  This was *not* a good look on her.
 
 "I remember mourning you.  You were *dead*, Sayaka-chan."
 
