@@ -94,11 +94,14 @@ Sayaka reached down her hand and dragged Homura to her feet, not letting go of h
 
 ---
 
-The rest of the day finished without interruption. Saotome-sensei had afforded her a mercy, letting Homura skip some of the homework assignments in the run-up to the exam.  She'd even let her copy from the examination booklet (What a good instructor\!)
+The rest of the day finished without interruption. Saotome-sensei had afforded her a mercy, letting Homura skip some of the homework assignments in the run-up to the exam.  She'd even let her review the examination booklets (What a caring instructor!)
 
-The less-than-ideal portion of this mercy was an immense burden. She had informed Homura that  she was expected to pass the major exams from earlier in the year at a much higher interval.
+The less idyllic portion of this plea deal?  She had informed Homura that she was expected to pass every major exam up to that point as part of her make-up.  
+
+“It’s only fair that if you’re learning the material like your peers, you’re tested on the same material to ensure you *know* it.”
 
 Homura had agreed without a moment of fuss; if she wasn't good at academics, what *was* she good at?
+
 
 She continued the laborious walk across Mitakihara from the middle school to her warded home.  Sure, it was out of the way, sure it wasn't something she *chose*, but it was in a quiet part of town, and it was *expansive*.
 
