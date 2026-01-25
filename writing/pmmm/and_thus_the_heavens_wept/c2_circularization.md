@@ -8,15 +8,15 @@ And so, the lizard girl tore the goddess into two and she took one of those halv
 
 Homura had given up on braiding her hair. Sure, it was relaxing, sure, it was cute, but she had repeated her hair-flip fiasco in front of Sayaka as well, much to the same physiological cringing that she had done in front of Hitomi.
 
-She thought she was having a *medical issue\!*
+She thought she was having a *medical issue!*
 
-She refused to be reduced to such, such... stupidity\! And so she removed the possibility.
+She refused to be reduced to such, such... stupidity! And so she removed the possibility.
 
 "Oh wow Akemi-san looks entirely different with her hair down."
 
-"Reminds me of a librarian\!"
+"Reminds me of a librarian!"
 
-"With those glasses? She's so close to being *so* pretty\! I wonder if she'd wear contacts."
+"With those glasses? She's so close to being *so* pretty! I wonder if she'd wear contacts."
 
 *Jerks.*
 
@@ -98,7 +98,7 @@ Homura shot Sayaka a dirty look, her patience clearly waning. She was studious, 
 
 *Wraiths are made from the curses of humanity. Despair incarnate, the normal stuff. If you've read any shoujo manga ever, you know what to expect.*
 
-*Really, you're fighting evil by moonlight\!?*
+*Really, you're fighting evil by moonlight!?*
 
 Sayaka burst out laughing, Kazuko's attention diverted from her classmate and her presentation on Mondrian's "Gray Tree", her frustration palpable.
 
@@ -178,7 +178,7 @@ Sakaya blinked. First Homura is in the dark about magical girls, then she has a 
 
 Homura groaned, guttural and barely conscious, stars still dancing in her vision from her fainting spell.
 
-*You're a magical girl\!?*
+*You're a magical girl!?*
 
 Homura blinked, slowly, scarcely able to look Sayaka in the eye.
 
@@ -230,7 +230,7 @@ Before Sayaka had a chance to react, Madoka was at the lightswitch, the room plu
 
 *Too busy stabbing innocents or something?*
 
-*Sayaka-chan, please... Does this make you feel better? We want the same thing\!*
+*Sayaka-chan, please... Does this make you feel better? We want the same thing!*
 
 *What I want? What I WANT is my best friend back.*
 
@@ -260,13 +260,13 @@ Homura knew instantly that Kaname Madoka *wasn't* a magical girl. She was too *b
 
 "You need to give her her memories back. Now."
 
-"I can't\! Not yet\!"
+"I can't! Not yet!"
 
-"Some of them, Madoka. Please\!"
+"Some of them, Madoka. Please!"
 
 "But if this goes wrong, it'll do *worse* than kill her."
 
-"She's vomiting *buckler fragments\!* It's already gone too far\!"
+"She's vomiting *buckler fragments!* It's already gone too far!"
 
 Madoka winced. Sayaka was right. She may be a devil (and a pathetic one at that), but she wasn't a monster. Madoka clapped her hands only once as the world shimmered.
 
@@ -338,9 +338,9 @@ Sayaka leapt to her feet in an instant. "Oh fuck *off*, *I* healed her. All"Lady
 
 Sayaka and Mami glared daggers back and forth, each interruption advancing the anger percolating to the surface. By the end of a singular sentence, costumes had materialized and old peers had ended up dangerously close to sparring. Homura's attention was elsewhere though.
 
-"Miki-san, your *outfit\!*" Homura beamed, Sayaka suddenly feeling *incredibly* self-conscious of her exposed midriff and flattering top.
+"Miki-san, your *outfit!*" Homura beamed, Sayaka suddenly feeling *incredibly* self-conscious of her exposed midriff and flattering top.
 
-"A-and Tomoe-san, the BOOTS\! They're so, so, so... commanding\!"
+"A-and Tomoe-san, the BOOTS! They're so, so, so... commanding!"
 
 For a moment, Tomoe Mami returned to the nervous mentor both girls had known, her steeled demeanor slipping into a nervous blush.
 
@@ -374,7 +374,7 @@ Neither girl opted to respond for a moment, the only sound the quiet hiss of the
 
 "It was—"
 
-"A gift\! From our Lady Kaname."
+"A gift! From our Lady Kaname."
 
 "Our?" Homura asked, clearly unsure what Tomoe-san was conveying in her declaration.
 
@@ -498,7 +498,7 @@ Both girls turned to find, sitting on the park bench behind them was none other 
 
 She was trembling, the ribbon whipping about in the now *genuine* wind, something grabbing at them, nipping at ankles as it began to coalesce.
 
-"What *is* that\!?"
+"What *is* that!?"
 
 Kyubey remained on the bench, tail flipping expectantly.
 
