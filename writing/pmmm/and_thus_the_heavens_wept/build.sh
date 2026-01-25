@@ -8,3 +8,4 @@ done
 
 #pandoc lepidopterology.md -s --metadata title="Lepidopterology" --metadata author="Kim Flores" --strip-comments --wrap=none -o lepidopterology.html
 python -m http.server 8000
+    
