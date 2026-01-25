@@ -164,7 +164,7 @@ Homura fainted during gym class, stressed, collapsed.  She had meant to call the
 
 All the magic in the universe, and *Sayaka* got there first?
 
-SayakaShe shuddered, involuntarily. She didn't like to show her dread, especially not in front of others, but the thought had simply *appeared* in her mind unbidden.
+Sayaka shuddered, involuntarily. She didn't like to show her dread, especially not in front of others, but the thought had simply *appeared* in her mind unbidden.
 
 *Maybe Madoka meant for me to get there first...*
 
