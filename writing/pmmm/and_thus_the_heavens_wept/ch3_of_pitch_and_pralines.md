@@ -52,7 +52,7 @@ Sayaka relaxed for a moment, unable to stop herself. *We’re getting closer.*
 
 “But she… used to be a magical girl…?”
 
-“To be honest, it’s a mercy killing more than anything. Even if they didn’t drop grief seeds, it’s the right thing to do…”
+“To be honest, it’s a mercy killing more than anything. Even if they didn’t drop grief seeds, it’s the right thing to do…”Frane
 
 Homura stared at her, as though her head had burst, as though she’d grown a mermaid’s tail. Sayaka seemed to have resigned herself to the situation, the alleged inevitability of magical girls becoming witches. Homura was appalled; how could she be okay with that outcome? What happened to *justice!?*
 
@@ -116,13 +116,13 @@ Homura raised an eyebrow, indignant. *Really?*
 
 “I didn’t *choose* my weapon, it’s *Kyubey’s fault!”*
 
-*Actually, the weapon of a magical girl is a direct manifestation of the soul. More than one magical girl has described it as an “extension of \[her\]self”.*
+*｢ Actually, the weapon of a magical girl is a direct manifestation of the soul. More than one magical girl has described it as an “extension of \[her\]self”. ｣*
 
 Sayaka’s head whipped around, finding the Incubator sitting comfortably on a cinnamon-bun sofa near the outer threshold of the labyrinth.
 
 “What’s your game, Incubator?”
 
-*There is no game, Miki Sayaka. I’m here as an observer, and if permitted, an aide.*
+*｢ There is no game, Miki Sayaka. I’m here as an observer, and if permitted, an aide. ｣*
 
 She rolled her eyes, took a breath, and leapt further into the labyrinth. She never expected a straight answer from that cabbity jerk, but it had still been worth a try. As she bounded past a pile of Pyotrs and Polinas, she wondered to herself, where the hell *was* Tomoe Mami anyways?
 
@@ -178,15 +178,15 @@ The conversation seemed to drag on and on, minutes turning into hours, still no 
 
 He claimed to be there as an aide, but with each passing moment it felt like he was there to antagonize her and little else. If she was being cynical, she might be so bold as to say that his suggestions were *less* than neutral. He prattled off comments so obtuse, so nonspecific as to actually be *harmful.*
 
-*I don’t understand why you’re having such difficulty, Akemi Homura.*
+*｢ I don’t understand why you’re having such difficulty, Akemi Homura.*  
 
 “Me either, Kyubey…”
 
-*I could force you to transform, if that’s something you want.*
+*｢ I could force you to transform, if that’s something you want. ｣*
 
 “Is that something you can do?”
 
-*Of course. It would involve direct manipulation of your sou—*
+*｢ Of course. It would involve direct manipulation of your sou—｣*
 
 “No.” 
 
@@ -324,7 +324,7 @@ She pouted, crossing her arms in a mighty huff.
 
 *Rude.*  
 
-Sayaka shot daggers at the witch, shrugging them off with the expert ignorance of a child.  She *was* a child, right?
+Sayaka shot daggers at the witch, shrugging them off with the expert ignorance of a child.  The witch *was* a child, right?
 
 “These girls worked together, and like so many of their peers, the bonds of friendship evolved into something more.  This was not a happy story though, not at first.  One of the girls died a horrid death, and the other made a wish that set her down a path the likes of which would alter the course of all of history.”
 
@@ -346,13 +346,13 @@ Homura’s head tilted, her eyes still glittering from tears. Her voice, scarcel
 
 “What?”
 
-“Once upon a time, my mother was very sick. She was in the hospital, and I visited her frequently. But this isn’t a happy story. She wasn’t a good mother. I was upset, and she was abusive. More than once a girl in the hospital offered comfort, a hug, a kindness. She was stuttering and anxious, and still tried to support me all the same..”
+“Once upon a time, my mother was very sick. She was in the hospital, and I visited her frequently. But this isn’t a happy story. She wasn’t a good mother. I was upset, and she was abusive. More than once a girl in the hospital offered comfort, a hug, and kindness. She was stuttering and anxious, and *still* tried to support me all the same..”
 
-Homura didn’t believe her. Would she have done that? It was a possibility but so was the sky falling tomorrow. It didn’t mean it was likely. Besides, surely she would *remember* such a thing, right?
+Homura didn’t believe her. Would she have done that? Sure, it was a possibility but so was the sky falling tomorrow; it didn’t mean it was likely. Besides, surely she would *remember* such a thing, right?
 
 “I have no memory of that happening.”
 
-“And yet I remember it. And how *are* your memories doing, Akemi-kami? Do you remember how this story ends yet?”
+“And yet *I* remember it. And how *are* your memories doing, Akemi-kami? Do you remember how this story ends yet?”
 
 Homura merely fumed.
 
@@ -378,7 +378,7 @@ The girl waggled her finger, Homura struggling to stomach that the alleged story
 
 “I think, more than anything, you were optimistic. A magical girl may turn into a witch, but some part of you recognized it as growing up. Magical girls *mature* into witches.”
 
-Sayaka rolled her eyes. How many times had *she* given the same speech, the same explanation? Did those girls buy it any more than Homura was? Of cou-
+Sayaka rolled her eyes. How many times had *she* given the same speech, the same explanation? Did those girls buy it any more than Homura was? Of cou–
 
 “But Miki-san described your maturity as agony. A mercy killing! What type of maturity is agony!?”
 
@@ -398,7 +398,7 @@ Homura’s eyes began to tear.
 
 *We’ll always be together from now on…*
 
-“It all fell apart, she couldn’t hold on. She took off too much, and it was too much to bear. Her face was stolen by an interloper and, well...”
+“It all fell apart, she couldn’t hold on. She took off too much, and it was too much to bear. Her face was stolen by an interloper and, well…”
 
 *I’ve waited so long for this...*
 

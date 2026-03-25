@@ -34,20 +34,20 @@ Homura wasn't paying attention to *paintings* today.
 
 Homura tilted her head, the shorthand their trio had inevitably arrived at for their... shared psychopathy. Some part of Homura still worried, as implausible as it was, that she was back at Satomi Medical, just in a different wing. No, somehow, *that* was the implausibility, and so she signaled to chatter telepathically.
 
-*You say you're a magical girl? Can you show me? I'm still a little doubtful that it wasn't all a dream.*
+*｢ You say you're a magical girl? Can you show me? I'm still a little doubtful that it wasn't all a dream. ｣*
 
-*Homura-chan, we're at school, I can't just transform out in the open.*
+*｢ Homura-chan, we're at school, I can't just transform out in the open. ｣*
 
-*In the bathroom then. I'll go with you.*
+*｢ In the bathroom then. I'll go with you. ｣*
 
 Sayaka rolled her eyes, Hitomi only giggled.
 
-*Then the rumors get worse.*
+*｢ Then the rumors get worse. ｣*
 
-*Rumors?*
+*｢ Rumors? ｣*
 
-Hitomi's giggle grew into a genuine smile.
-
+Hitomi's giggle grew into a genuine smile.  
+	  
 "Homura-chan, I know you're excited to watch *the game* eventually, but... don't you think you're being a little eager?"
 
 Homura only returned her cordial smile with a facsimile of her shrewdness.
@@ -58,47 +58,47 @@ Sayaka seethed in response. For all the annoyances their silly sports-based kayf
 
 Homura had no reason to believe that magical girls were real except for a few strange oddities, and *maybe* Madoka's chūnibyō speech. Why did Madoka have to go and alter her memories anyways? Had she truly abandoned all she held dear?
 
-*I'll stay after school for a "club" if you will.*
+*｢ I'll stay after school for a "club" if you will. ｣*
 
-Mercifully, Kyouske's arm remained healed in this *disaster* of a universe, so it wasn't like she had to go and visit him in the hospital. Given that? Sayaka certainly didn't have anything else going on.
+Mercifully, Kyosuke's arm remained healed in this *disaster* of a universe, so it wasn't like she had to go and visit him in the hospital. Given that? Sayaka certainly didn't have anything else going on.
 
-*Until then... do you have questions or somethin'?*
+*｢ Until then... do you have questions or somethin'? ｣*
 
 Homura sat there, a veritable barrage accumulating in her psychic outbox.
 
-*So if you're a magical girl, what do you fight? Or is it like a "defenders of the earth" thing? How many are you? Do you get special powers? How about a baton, or cute outfits? I kinda saw yours in the dream but maybe it's different-*
+*｢ So if you're a magical girl, what do you fight? Or is it like a "defenders of the earth" thing? How many are you? Do you get special powers? How about a baton, or cute outfits? I kinda saw yours in the dream but maybe it's different- ｣*
 
-*Whoa whoa whoa, calm down. This is a lot, Akemi-san. First off, I have a way more important question.*
+*｢ Whoa whoa whoa, calm down. This is a lot, Akemi-san. First off, I have a way more important question. ｣*
 
-*Go ahead.*
+*｢ Go ahead. ｣*
 
-*Since when were you a nerd?*
+*｢ Since when were you a nerd? ｣*
 
 Homura tilted her head the other way, the confusion visible. Surely her hair being down wasn't *that* dramatic a change as to think she was a different person, right?
 
-*Since... always?*
+*｢ Since... always? ｣*
 
 "Huh..." Sayaka mumbled, scarcely aware she had let out sound.
 
 *At least she's wearing the glasses still.*
 
-*There are five, maybe six of us in Mitakihara. It's a big city, so we gotta have enough girls to handle it. If we need extra firepower, we negotiate with the girls responsible for Kazamino or Kamihama.*
+*｢ There are five, maybe six of us in Mitakihara. It's a big city, so we gotta have enough girls to handle it. If we need extra firepower, we negotiate with the girls responsible for Kazamino or Kamihama. ｣*
 
-*Aren't those on the other side of the country?*
+*｢ Aren't those on the other side of the country? ｣*
 
-*You gotta stop trying to poke holes in this. It's magic, it isn't always gonna make sense.*
+*You gotta stop trying to poke holes in this. It's magic, it isn't always gonna make sense. ｣*
 
 Homura shot Sayaka a dirty look, her patience clearly waning. She was studious, sure, but not patient. She had more than her fill of that in the hospital.
 
-*What do you fight then?*
+*｢ What do you fight then? ｣*
 
-*Well, mostly these things called wraiths.*
+*｢ Well, mostly these things called wraiths. ｣*  
+	  
+*｢ Mostly? ｣*
 
-*Mostly?*
+*｢ Wraiths are made from the curses of humanity. Despair incarnate, the normal stuff. If you've read any shoujo manga ever, you know what to expect. ｣*
 
-*Wraiths are made from the curses of humanity. Despair incarnate, the normal stuff. If you've read any shoujo manga ever, you know what to expect.*
-
-*Really, you're fighting evil by moonlight!?*
+*｢ Really, you're fighting evil by moonlight!? ｣*
 
 Sayaka burst out laughing, Kazuko's attention diverted from her classmate and her presentation on Mondrian's "Gray Tree", her frustration palpable.
 
@@ -114,13 +114,15 @@ Kazuko's eyes darted between the two girls, as if weighing which would serve as 
 
 Kaname Madoka nodded hastily and descended into her seat, shooting daggers at Sayaka.
 
-*You will not be afforded another mercy. Behave yourself.*
+*｢ You will not be afforded another mercy. Behave yourself. ｣*
 
-*As you wish, o' resplendent empress of the universe.*
+Sayaka was *not* buying it.  She was putting on the villain facade, but did anyone buy it except her?  She wasn’t *evil*, she tried to save a cat!  As long as her goals are the same, even if her methods are different…
+
+*｢ As you wish, o' resplendent empress of the universe. ｣*
 
 She knew *damn well* that her being a sarcastic brat carried perfectly on telepathy. Besides, you don't become the perpetual right-hand of a goddess without getting *very* close to her.
 
-Sayaka just prayed her *empress* wouldn't get *too* upset given her recent rebel phase. There were still fates worse than death, sure, but Sayaka needed to stay alive long enough to fix this mess.
+Sayaka just hoped her *empress* wouldn't get *too* upset given her recent rebel phase. There were still fates worse than death, sure, but she doubted Madoka would use them.  Then again…
 
 ---
 
@@ -140,27 +142,31 @@ She turned a deaf ear to her obligations, and instead focused her attention on h
 
 *It has to all be worth it. I have to save her.*
 
-Akemi Homura, her fallen angel, the one magical girl could not save because of the Incubator's abuse of her beloved's word.
+Akemi Homura, her fallen angel, the one magical girl she could not save.  All because of the Incubator's abuse of her beloved's word.
 
-*Kyubey?*
+*｢ Kyubey?*
 
 She felt the interloper materialize her shoulder, instinctually aware that the others in her class, magical girl or not, would be unable to see her least favorite tool.
 
-*Kaname Madoka.*
+*｢ Kaname Madoka. ｣*
 
-*See to it that Charlotte knows that her dues are coming up. She'll recover in two cycles instead of five if she plays her role well.*
+*｢ See to it that Charlotte knows that her dues are coming up. She'll recover in two cycles instead of five if she plays her role well. ｣*
 
-*Are you sure you wish to invoke Momoe Nagisa so quickly? This is still two days too early in the script we were provided.*
+Kyubey blinked at her once, tail swishing enough to briefly brush the hair in pigtails aside.  She hoped nobody noticed.
 
-*You weren't kept around to question my motives, Kyubey.*
+*｢ Are you sure you wish to invoke Momoe Nagisa so quickly? This is still two days too early in the script we were provided. ｣*
+
+*｢ You weren't kept around to question my motives, Kyubey. ｣*
 
 The Incubator hitched for a moment, as if attempting to retch up a furball, and then vanished with a message.
 
-*As you wish.*
+*｢ As you wish. ｣*
 
 ---
 
-Homura fainted during gym class, stressed, collapsed.  She had meant to call the hospital, ask the nurses from Satomi Medical about her anti-rejection medication side effects.  She had bigger concerns though, given the accident.  Luckily, Sayaka leapt to her aid and somehow, against all odds, beat *Kaname-san* to her.
+Homura fainted during gym class.  Nothing so extravagant as some athletic feat; she had simply collapsed.  She had meant to call the hospital, ask the nurses from Satomi Medical about her anti-rejection medication and the side effects.  Somehow, with all the swirling rumors about magical girls and devils, of strange costumes and more, it had simply fallen by the wayside.  
+
+Luckily, Sayaka leapt to her aid and somehow, against all odds, beat *Kaname-san* to her.
 
 All the magic in the universe, and *Sayaka* got there first?
 
@@ -168,43 +174,43 @@ Sayaka shuddered, involuntarily. She didn't like to show her dread, especially n
 
 *Maybe Madoka meant for me to get there first...*
 
-Sayaka hauled Homura onto the gurney in the nurse's office, quickly checking her pulse as the nurse blinked in shock. She hadn't seen them enter. (Sayaka wasn't exactly moving *slowly*, after all)
+Sayaka hauled Homura onto the gurney in the nurse's office, quickly checking her pulse as the nurse gasped in shock. She hadn't seen them enter. (Sayaka wasn't exactly moving *slowly*, after all)
 
-As she jammed her fingers into Homura's too-cold wrist, she couldn't help but notice the silver band on her finger. Exactly the same as her.
+With her fingers jammed into Homura's too-cold wrist, she couldn't help but notice the silver band on her finger. Exactly the same as her.
 
 Sakaya blinked. First Homura is in the dark about magical girls, then she has a damn *soul gem*? What kind of game was being played?
 
 *Homura?*
 
-Homura groaned, guttural and barely conscious, stars still dancing in her vision from her fainting spell.
+She groaned, guttural and barely conscious, stars still dancing in her vision from her fainting spell.
 
-*You're a magical girl!?*
+*｢ You're a magical girl!? ｣*
 
 Homura blinked, slowly, scarcely able to look Sayaka in the eye.
 
 *What kind of magical girl collapses in a weak spring heat?*
 
-*You apparently...*
+*｢ You apparently... ｣*
 
-After what felt like an eternity, the nurse made her diagnosis, and they both breathed more easy for it.
+After what felt like an eternity, the nurse made her diagnosis, and they both breathed more easily for it.
 
 "She was just dehydrated." the nurse said rather numbly, still partially in disbelief at their inexplicable entrance.
 
 "Have an electrolyte drink, then get back to classes when you're not nauseous."
 
-"Thank you." Homura murmured, her sentence aborted as the door chime to the office rang.
+"Thank you." Homura murmured, her sentence punctuated by the door chime to the office ringing.
 
 Pink hair, white ribbons. *Shit.*
 
 Sayaka didn't want to deal with this, and here she was. Again. Unwittingly between a goddess and her devil, the world's least stable throuple.
 
-She so desperately wanted to hack-n'-slash her way out. She knew it'd do nothing, and so she didn't. Barely.
+She so desperately wanted to hack-n'-slash her way out.  But, since she knew it'd do nothing, she didn't. Barely.
 
 *Damn.*
 
 "Figures it's you." Sayaka muttered, Homura looking mortified.
 
-"I'll give you girls a minute." the nurse murmured, exiting the nurses office in a hurry. The door closed in a clatter, leaving Kaname Madoka standing in the doorway.
+"I'll give you girls a minute." the nurse murmured, exiting the office in a hurry. The door closed in a clatter, leaving Kaname Madoka standing in the front of the office.
 
 "Sayaka-chan."
 
@@ -214,7 +220,7 @@ She so desperately wanted to hack-n'-slash her way out. She knew it'd do nothing
 
 "Sayaka-chan, this isn't part of some scheme. I can promise you that."
 
-Sayaka receded, visibly confused. This wasn't like her...but then again, neither was stealing Homura's whole "brooding embodiment of evil" visage.
+Sayaka receded, visibly doubtful. This was more like her from *before*...but then again, stealing Homura's whole "brooding embodiment of evil" visage distinctly still *wasn’t*.
 
 "I just wanted to check up on my Homura-chan."
 
@@ -222,23 +228,23 @@ Sayaka receded, visibly confused. This wasn't like her...but then again, neither
 
 Homura's head was spinning still from nausea, the overhead lights too bright as she struggled to cover her eyes.
 
-"Please... the lights..." she murmured.
+"Please... the lights..." she pleaded, frail.
 
-Before Sayaka had a chance to react, Madoka was at the lightswitch, the room plunged into near darkness. The only illumination spare the light of the pulse-ox still resting on Homura's finger was the luminescence of their souls, shining in the dark.
+Before Sayaka had a chance to react, Madoka was at the lightswitch, the room plunged into near darkness. The only illumination as they stood there unmoving was the light of the pulse-ox still resting on Homura's finger, and the luminescence of their souls.
 
-*Thank you Sayaka-chan. I couldn't get to her in time because I was... I was busy.*
+*｢ Thank you Sayaka-chan. I couldn't get to her in time because I was... I was busy. ｣*
 
-*Too busy stabbing innocents or something?*
+*｢ Too busy stabbing innocents or something? ｣*
 
-*Sayaka-chan, please... Does this make you feel better? We want the same thing!*
+*｢ Sayaka-chan, please... Does this make you feel better? We want the same thing! ｣*
 
-*What I want? What I WANT is my best friend back.*
+*｢ What I want? What I WANT is my best friend back. ｣*
 
-Madoka looked at her, eyes weary. Sayaka knew. She *knew* what Sayaka had been through, what *Kyoko* had been through at her expense. A tragedy, a horror. She had *fought* for something in her death, and now? Madoka had tossed it aside, and forced her significant other to rise to power in the throne she absconded.
+Madoka looked at her, eyes weary. Sayaka was *done*. She *knew* what Sayaka had been through, what *Kyoko* had been through at her expense. A tragedy, a horror. She had *fought* for something in her death, and now? Madoka had tossed it aside, and forced her significant other to rise to power in the throne she absconded.
 
 She knew there was no easy path back, but she wasn't going to give up either.
 
-*That's... a lot harder Sayaka-chan. I'm not going to give up though, keeping hope is still my wish.*
+*｢ That's... a lot harder Sayaka-chan. I'm not going to give up though, keeping hope is still my wish. ｣*
 
 "Madoka..."
 
@@ -250,7 +256,7 @@ Madoka froze, the source instantly obvious to her. She had watched the sand fall
 
 Within the context of her wish, Homura may as well have been a goddess from the moment she contracted. And now god was dying.
 
-Her school attire dissolved in an instant, replaced with an ornate, black dress. A revealing plunge flattered her on an outfit that flowed down to her feet and stopped just short of strappy white heels. Her white ribbons became white bows, her nominally yellow, muted eyes replaced with incarnadine spheres, intimately familiar to Homura, even if she couldn't place from where.
+Her school attire dissolved in an instant, replaced with an ornate, black dress. A revealing plunge flattered her on an outfit that flowed down to her feet and stopped just short of strappy white heels. Her white ribbons became white bows, her nominally yellow, muted eyes replaced with incarnadine spheres; intimately familiar to Homura, even if she couldn't place from where.
 
 On her ear, rather than over her heart, shone a pink stone, wrapped in delicate petals. The gemstone hung suspended from the tail of a white bird of some kind, curled around the outside of the lobe. As if her attire hadn't been extravagant enough, her hair seemed to braid itself into a single continuous bundle behind her back, many times longer and more luminous than it had been mere moments prior.
 
@@ -274,13 +280,13 @@ Madoka winced. Sayaka was right. She may be a devil (and a pathetic one at that)
 
 The ring on Homura's finger shone brighter in the dim of the nurse's office, Madoka loosening the now redundant ribbon from her hair, gently curling it up into Homura's hands.
 
-Sayaka gave up on all pretense of hiding what she was, summoning not only her magical girl attire, but healing tune circles, the runes obvious quarter and eighths notes with the benefit of her own self-awareness.
+Sayaka gave up on all pretense of hiding what she was, summoning not only her magical girl attire, but skipping right to healing the transfer student.  As she worked healing, the runic embeddings in the glowing rings were obvious quarter and eighths notes, clearer only with the benefit of hindsight.  Of *course* they were music, but what *tune?*
 
-*Ba, de, de, de, de, ba ba bi...*
+*｢ Ba, de, de, de, de, ba ba bi… ｣*
 
-*Sayaka-chan...*
+*｢ Sayaka-chan... ｣*
 
-*Sorry.*
+*｢ Sorry. ｣*
 
 Her eyes still closed, a bloodstain still caught in the corner of her mouth, Homura managed to wrap the ribbon between her fingers, the faintest of violets trickling into the strands of fabric.
 
@@ -312,11 +318,11 @@ She recalled ugly-crying on a train station platform, mourning the late Sayaka. 
 
 "You passed out on the field. The nurse said you were dehydrated."
 
-Homura turned her attention to Tomoe Mami, picking at the ends of her hair, a nervous tick gone awry.
+Homura turned her attention to Tomoe Mami as she picked at the ends of her hair, a nervous tick gone awry.
 
 "I... think that makes sense. But there was other talk in the nurses office... Something about the lights... I think?"
 
-Sayaka awkwardly shuffled in her seat, not sure how to describe Kaname Madoka, *a lucifer unto herself*, to her most devout follower.
+Sayaka awkwardly shuffled in her seat, not sure how to describe Kaname Madoka, *a devil unto herself*, to her most devout follower.
 
 "Well..."
 
@@ -324,9 +330,9 @@ Sayaka awkwardly shuffled in her seat, not sure how to describe Kaname Madoka, *
 
 Of *course* she would regard herself as such; pretender.
 
-Sayaka leapt to her feet in an instant. "Oh fuck *off*, *I* healed her. All"Lady Kaname" did was help with the broken buckler."
+Sayaka leapt to her feet in an instant. "Oh fuck *off*, *I* healed her. All ‘Lady Kaname’ did was help with the broken buckler."
 
-"Buckler? Healing? Huh?" Homura's confusion twisting her face into knots, both Mami and Sayaka clearly upset by such neglect.
+"Buckler? Healing? Huh?" Homura's confusion twisting her face into knots, both Mami and Sayaka clearly upset by such neglect. 
 
 "A bucker is—"
 
@@ -340,9 +346,9 @@ Sayaka and Mami glared daggers back and forth, each interruption advancing the a
 
 "Miki-san, your *outfit!*" Homura beamed, Sayaka suddenly feeling *incredibly* self-conscious of her exposed midriff and flattering top.
 
-"A-and Tomoe-san, the BOOTS! They're so, so, so... commanding!"
+"A-and Tomoe-san, the BOOTS! They're so, so, so... commanding!"  She was, if for no other reason than her own embarrassment, reluctant to comment on Tomoe-san’s body.  Some things were sacred.
 
-For a moment, Tomoe Mami returned to the nervous mentor both girls had known, her steeled demeanor slipping into a nervous blush.
+If for just a moment, Tomoe Mami returned to the nervous mentor both girls had known, her steeled demeanor slipping into a nervous blush.
 
 "Thank you Akemi-san, that's very sweet."
 
@@ -352,15 +358,15 @@ Homura's cheeks suddenly turned the same hue as the ribbon in her hand, realizin
 
 Sayaka blinked once, twice, Tomoe Mami's intonation appearing in her mind directly.
 
-*Wasn't that ribbon purple before?*
+*｢ Wasn't that ribbon purple before? ｣*
 
 Sayaka bit the inside of her cheek, nervous, thoughts scattered.
 
-*If she knows it's the same ribbon, will she try to steal it back for Madoka?*
+*If she knows it's the same ribbon, will she try to steal it?  It’d practically be a religious artifact…*
 
 She furrowed her brow, as if to give the illusion of thought.
 
-*I thought it was red?*
+*｢ I thought it was red? ｣*
 
 "Hm." Mami intoned, not sure she believed Sayaka's response in whole, but confident enough to drop it for the time being.
 
@@ -376,7 +382,7 @@ Neither girl opted to respond for a moment, the only sound the quiet hiss of the
 
 "A gift! From our Lady Kaname."
 
-"Our?" Homura asked, clearly unsure what Tomoe-san was conveying in her declaration.
+"Our?" Homura asked, clearly unsure what Tomoe-san was conveying in such a declaration.
 
 "Our Lady Kaname, whose mission is to banish despair? Who aspires to save magical girls from their inevitable fates the world over? To prevent more souls from being devoured by that *vile* Incubator?"
 
@@ -394,7 +400,7 @@ Homura looked down at the ribbon, holding it taught between her fingers.
 
 Homura swung her legs off the gurney, stars dancing in her eyes as she plunged the ribbon into the pocket of her school uniform.
 
-"S-Sayaka-chan... I know I said we were going to do *sports stuff* toda—"
+"Sayaka-chan... I know I said we were going to do *sports stuff* toda—"
 
 "You've already seen me in costume, Homura. I think we're a little bit beyond asking to watch “warmups”.
 
@@ -416,7 +422,7 @@ With a sigh, she exited the nurse's office and headed for home.
 
 The pair of them walked out of the school building together, ersatz shadows cast up and sideways by spotlights installed by an architect. Allegedly.
 
-The school had been going through construction as of late, the reason not entirely clear to Homura. She didn't think it was especially important, so she just.... assumed it was part of the construction.
+The school had been going through construction as of late, the reason not entirely clear to Homura. She didn't think it was especially important, so she just.... assumed it was routine.  Not like construction could be magic too, right?
 
 They exited the still-unlocked entrance gate to the school, turning and heading for the far side of town. Sayaka led the way, Homura following as closely as she dared, but distinctly *not* holding her hand anymore.
 
@@ -448,7 +454,7 @@ Still blind to the actions of her peer, Homura had since tied the ribbon in her 
 
 "I... yes. I suppose I did."
 
-Sayaka looked back at her, stopping head in her tracks. She just blinked.
+Sayaka looked back at her, stopping in her tracks. For a painfully long moment, she said nothing, mind spinning.
 
 "You put the ribbon on."
 
@@ -456,13 +462,11 @@ Sayaka looked back at her, stopping head in her tracks. She just blinked.
 
 "No no, it's good. It's just..."
 
-She shook her head, the thought dispersed with intentionality. She said nothing for a while, Homura's attention seized by the glittering stone on her own finger.
+She shook her head, the thought dispersed with intentionality. She said nothing for a while, all the while Homura's attention was seized by the glittering stone on her own finger.
 
-"It suits you." she declared, finally, her voice weak and pallid.
+"It suits you." she finally declared, her voice weak and pallid.
 
-She felt as though her throat might burst. Stomach acid and shrapnel pouring out viciously. The simple ordeal of being consumed by one's own body.
-
-She let the sound of the ocean wash over her.
+She felt as though her throat might burst. Stomach acid and shrapnel pouring out viciously. The simple ordeal of being consumed by one's own body.  She let the sound of the ocean wash over her, her past still clinging to her skin, itching.
 
 "Did you get your memories back?"
 
@@ -484,17 +488,17 @@ Anything but giving Sayaka a straight answer, looking back to find her expressio
 
 "She turns into.... something. Something bad, despair. A wraith?"
 
-Sayaka looked at her, desperation in her eyes.
+Sayaka looked at her, despondent in her eyes.
 
 "Homura... Magical girls turn into *witches*."
 
-*Correct.*
+*｢ Correct. ｣*
 
 Both girls turned to find, sitting on the park bench behind them was none other than the Mitakihara incubator himself, Kyubey.
 
 "You." Sayaka growled, her cape fluttering in an absent breeze, Homura reaching for *something* as she found herself emptyhanded. *Damn*.
 
-*Who else would I be?*
+*｢ Who else would I be? ｣*
 
 She was trembling, the ribbon whipping about in the now *genuine* wind, something grabbing at them, nipping at ankles as it began to coalesce.
 
@@ -502,13 +506,10 @@ She was trembling, the ribbon whipping about in the now *genuine* wind, somethin
 
 Kyubey remained on the bench, tail flipping expectantly.
 
-*Of all the magical girls I've been responsible for, I would never have expected this from you, Akemi Homura.*
+*｢ Of all the magical girls I've been responsible for, hearing such a question from you is somewhat unexpected, Akemi Homura. ｣*
 
 "Sayaka? What does he *mean*?"
 
-"I think it means—"
+"I think it means—" she screamed, the shrill sound of something exploding ringing in their ears.
 
 The world around them collapsed, the intoxicating smell of sweets replacing the brackish air in a rush.
-
----
-
