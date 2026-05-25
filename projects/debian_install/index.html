@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Hi! I'm Kim |</title>
+  <link rel="stylesheet" href="/assets/main.css">
+  <meta name="author" content="Kim Flores">
+  <meta property="og:title" content="Hi!  I'm Kim > Robotics Software for fun and stress-reduction." />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://hi-im.kim/projects/debian_install/" />
+  <meta property="og:description" content="" />
+</head>
+
+<body>
+<header>
+<h1>
+    How I Set Up Debian
+</h1>
+<aside>
+   I've been using Windows on my Framework 13 since I got it; let's change that.
+</aside>
+</header>
+
+<!-- Use DVD installer, faster on my media. 
+  use ventoy to install, it's nice.
+  Got 13.5 ISO
+  Installed to a 250GB Framework SSD module so I didn't brick my Windows NVMe yet.
+  
+  Okay that stopped working after one boot... why?
+  
+  Oh, okay.  UEFI headache.
+  
+  grub-install --removable  (via ??? and https://manpages.debian.org/unstable/grub2-common/grub-install.8.en.html)
+
+  Is there anything else in grub I need to do?  Yes.  Reasonable size.  https://www.dedoimedo.com/computers/grub-hd-scaling-resolution.html
+  
+  Previous attempt had failed, so be sure to *also* change OS prober to false, so it doesn't do stupid shit.
+
+  Okay cool it's installed.... why is this so warm?
+
+  Oh, we need fan control.
+
+  https://github.com/TamtamHero/fw-fanctrl
+
+  Oh the systemd unit is in the wrong spot, let me fix that.
+
+
+What else do I need to do?
+
+oh I should set swappiness, because 32GB of RAM is actually plenty when I've avoided pagefiles on Windows and I'm not even doing video editing on Linux... yet.
+
+  Okay, what do I need now, actually?
+
+  Discord, VSCode (I know).
+  -->
+
+
+<details>
+    <summary>Table of Contents</summary>
+    <ul>
+        <li>
+            <a href="#whynotcustom">Why?</a>
+        </li>
+        <li>
+            <a href="#how">How?</a>
+        </li>
+        <li>
+            <a href="#use">Using Bracketeer</a>
+            <ul>
+                <li><a href="#queue">Queueing</a></li>
+                <li><a href="#match-ctrl">Match Control</a></li>
+                <li><a href="#iterspeed">Iteration Speed</a></li>
+                <li><a href="#quirks">Quirks</a></li>
+                <li><a href="#debug">Debug Tools</a></li>
+            </ul>
+        </li>
+        <li><a href="#where-to">State of Affairs</a></li>
+    </ul>
+  </details>
+
+
+<hr>
+
+<p>
+    <h2>Why?</h2>
+</p>
+<p>
+Frankly, it's a bit silly.  Windows <em>works</em> for me. Sure, it's imperfect, sure, I can't give it up for some tools... but I use Linux on the desktop at work.  I want tools to be at least a <em>little</em> consistent.
+</p>
+<p>
+    So we're gonna dual-boot.
+</p>
+<p>
+    <h2 id="how">How?</h2>
+</p>
+
+ 
+</body>
+</html>
