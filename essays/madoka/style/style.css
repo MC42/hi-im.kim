@@ -5,7 +5,7 @@ body {
     margin:40px auto;
     /* max-width:650px; */
     max-width: max(60vw, 650px); /* We want the bigger of the two, since absolute units get us a new headache. */
-    line-height:1.6;
+    line-height:1.2;
     /* font-size:18px; */
     font-size: 1.2em; /* calculated in FF, works okay. */
     font-family: "Junicode"; 
