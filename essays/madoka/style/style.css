@@ -16,10 +16,33 @@ body {
 /* Automatic CSS numbering for footnotes? */
 /* https://www.stevans.org/inline-footnotes/ */
 
-img {
-    height: auto;
-    width:100%;
+/* CSS to do multiple inlined images side by side; seems to work (PHEW!) */
+figure {
+    margin: 0;
 }
+
+figure img {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+figure:has(img+img) {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+}
+
+figure:has(img+img) img {
+    flex:1 1 0;
+    width:auto;
+    min-width: 0;
+}
+
+figure:has(img + img) figcaption {
+    flex-basis: 100%;
+}
+
 /* Soul Gem / Quintet Representation in list-items.  very silly, do not use. */
 ul {
     padding-top: 0;
