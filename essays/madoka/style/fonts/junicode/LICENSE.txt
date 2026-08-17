@@ -1,0 +1,4 @@
+This site makes use of Junicode as distributed under the Open Font License.
+
+See here: https://open-foundry.com/fonts/junicode
+and also here: https://sourceforge.net/projects/junicode/

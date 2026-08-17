@@ -1,0 +1,72 @@
+/* Initial CSS stolen from "BetterMotherFuckingWebsite.com" */
+/* http://bettermotherfuckingwebsite.com/ */
+
+body {
+    margin:40px auto;
+    /* max-width:650px; */
+    max-width: max(60vw, 650px); /* We want the bigger of the two, since absolute units get us a new headache. */
+    line-height:1.6;
+    /* font-size:18px; */
+    font-size: 1.2em; /* calculated in FF, works okay. */
+    font-family: "Junicode"; 
+    color:#444;
+    padding-top: 0;
+    padding-bottom: 1em;
+}
+/* Automatic CSS numbering for footnotes? */
+/* https://www.stevans.org/inline-footnotes/ */
+
+img {
+    height: auto;
+    width:100%;
+}
+/* Soul Gem / Quintet Representation in list-items.  very silly, do not use. */
+ul {
+    padding-top: 0;
+    line-height: 1.2;
+    list-style-type: "⋄"; /* Used to specify the symbol for lists instead of the traditional dots. */
+}
+
+ul ul {  
+    list-style-type: "ꨄ︎";
+}
+
+ul ul ul {
+    list-style-type: "✿";
+}
+
+
+
+h1,h2,h3 {
+    line-height:1.2;
+    margin-bottom: -.8em; /* This fixes the title insetting I think. */
+}
+
+/* Junicode Font, used for PMMM Essays */
+
+@font-face {
+    font-family: 'Junicode'; /* regular */
+    src: url('fonts/junicode/Junicode.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Junicode'; /* italic */
+    src: url('fonts/junicode/Junicode-Italic.woff2') format('woff2');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Junicode'; /* bold */
+    src: url('fonts/junicode/Junicode-Bold.woff2') format('woff2');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Junicode'; /* bold italic */
+    src: url('fonts/junicode/Junicode-BoldItalic.woff2') format('woff2');
+    font-weight: bold;
+    font-style: italic;
+}
