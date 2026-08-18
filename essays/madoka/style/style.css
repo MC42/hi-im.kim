@@ -61,6 +61,10 @@ blockquote {
 blockquote.lily {
     border-left: 0.2em solid #F2D008 !important;
 }
+
+cite {
+          letter-spacing: 0.05rem; /* Just to fix the italics here.*/
+}
 /* Soul Gem / Quintet Representation in list-items.  very silly, do not use. */
 ul {
     padding-top: 0;
@@ -75,8 +79,6 @@ ul ul {
 ul ul ul {
     list-style-type: "✿";
 }
-
-
 
 h1,h2,h3 {
     line-height:1.2;
