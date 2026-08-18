@@ -54,8 +54,10 @@ figure figcaption {
 /* Inset it so it's obviously distinguishable as a quote. */
 blockquote {
     margin-left: 0.2em; /* just so the color bar isn't crushed. */
-      padding-left: min(1vw, .5em);
-      padding-right: min(1vw, .5em);
+    margin-right: 0.2em;
+
+    padding-left: min(1vw, .5em);
+    padding-right: min(1vw, .5em);
 }
 
 blockquote.lily {
