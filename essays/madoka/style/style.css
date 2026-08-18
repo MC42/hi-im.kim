@@ -1,11 +1,14 @@
 /* Initial CSS stolen from "BetterMotherFuckingWebsite.com" */
 /* http://bettermotherfuckingwebsite.com/ */
 
+* {
+        text-justify: inter-character;
+}
 body {
-    margin:40px auto;
+    margin:40px auto; /* Do i want this? */
     /* max-width:650px; */
     max-width: max(60vw, 650px); /* We want the bigger of the two, since absolute units get us a new headache. */
-    line-height:1.2;
+    line-height:1.2; /* changed from 1.6 */
     /* font-size:18px; */
     font-size: 1.2em; /* calculated in FF, works okay. */
     font-family: "Junicode"; 
@@ -17,6 +20,7 @@ body {
 /* https://www.stevans.org/inline-footnotes/ */
 
 /* CSS to do multiple inlined images side by side; seems to work (PHEW!) */
+/* It's a mess, but I'll take a mess to non-functional. */
 figure {
     margin: 0;
 }
@@ -39,10 +43,24 @@ figure:has(img+img) img {
     min-width: 0;
 }
 
-figure:has(img + img) figcaption {
-    flex-basis: 100%;
+figure:has(img+img) figcaption {
+    flex-basis: 100%; /* This fixes the captions not wrapping to the next line I think */
 }
 
+figure figcaption {
+    margin-top: 0.2em; /* Used to get just a bit of breathing room. */
+}
+
+/* Inset it so it's obviously distinguishable as a quote. */
+blockquote {
+    margin-left: 0.2em; /* just so the color bar isn't crushed. */
+      padding-left: min(1vw, .5em);
+      padding-right: min(1vw, .5em);
+}
+
+blockquote.lily {
+    border-left: 0.2em solid #F2D008 !important;
+}
 /* Soul Gem / Quintet Representation in list-items.  very silly, do not use. */
 ul {
     padding-top: 0;
@@ -62,7 +80,11 @@ ul ul ul {
 
 h1,h2,h3 {
     line-height:1.2;
-    margin-bottom: -.8em; /* This fixes the title insetting I think. */
+}
+
+p {
+    margin-block-start: .5em;
+    margin-block-end: .5em;
 }
 
 /* Junicode Font, used for PMMM Essays */
