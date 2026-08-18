@@ -2,7 +2,9 @@
 /* http://bettermotherfuckingwebsite.com/ */
 
 * {
-        text-justify: inter-character;
+    text-justify: inter-character;
+    text-wrap-style: pretty; /* Will this make a difference?  No idea, but I have to try! */
+    font-optical-sizing: auto; 
 }
 body {
     margin:40px auto; /* Do i want this? */
@@ -89,6 +91,7 @@ h1,h2,h3 {
 p {
     margin-block-start: .5em;
     margin-block-end: .5em;
+    hanging-punctuation: first; /* https://www.carmenansio.com/articles/editorial-typography-css/ */
 }
 
 /* Junicode Font, used for PMMM Essays */
