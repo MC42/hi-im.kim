@@ -10,6 +10,10 @@ body {
     margin:40px auto; /* Do i want this? */
     /* max-width:650px; */
     max-width: max(60vw, 650px); /* We want the bigger of the two, since absolute units get us a new headache. */
+
+    /* So mobile views don't get totally crunched. it's a bodge but it works.*/
+    padding-left:1em;
+    padding-right:1em;
     line-height:1.2; /* changed from 1.6 */
     /* font-size:18px; */
     font-size: 1.2em; /* calculated in FF, works okay. */
@@ -64,6 +68,10 @@ blockquote {
 
 blockquote.lily {
     border-left: 0.2em solid #F2D008 !important;
+}
+
+blockquote.hans {
+    border-left: 0.2em solid #874532!important;
 }
 
 cite {
